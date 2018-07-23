@@ -1,0 +1,28 @@
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/financial-asset-exchange-patent-explores-tamper-proof-blockchain-bidding/
+
+summary: 
+ A state-backed financial asset exchange in China's Chongqing city is turning to blockchain to make online auctions tamper-proof and transparent. According to a patent application filed in December and revealed on Friday by the China State Intellectual Property Office, the Chongqing Financial Asset Exchange is exploring how to create a system that allows multiple parties to bid for a financial asset over a distributed network. "The centralized online platform could make the bidding process become unfair and less transparent as the bidding parties are also unable to supervise the process. As such, the authenticity and security of the bidding data can't be guaranteed."
+
+full text: 
+Financial Exchange Thinks Blockchain Can Keep Online Auctions Fair
+NEWS
+Wolfie Zhao
+Jul 20, 2018 at 09:30 UTC  |  Updated  Jul 20, 2018 at 12:13 UTC
+A state-backed financial asset exchange in China's Chongqing city is turning to blockchain to make online auctions tamper-proof and transparent.
+According to a patent application filed in December and revealed on Friday by the China State Intellectual Property Office, the Chongqing Financial Asset Exchange (CQFAE) is exploring how to create a system that allows multiple parties to bid for a financial asset over a distributed network.
+The document explains that the envisioned network would be run by invited validator nodes that are separate from the companies who participate in bidding for certain assets, such as letters of credit or corporate bonds.
+When companies submit their bid to the network, the validator nodes authentic the data and then broadcast the new price for the next level of the auction, which is calculated based on various criteria encoded to smart contracts on the blockchain.
+The asset exchange said the effort is necessary because the existing centralized database system is vulnerable to malicious alteration of data, either by bidding parties or even auction organizers.
+It stated in the patent filing:
+"The centralized online platform could make the bidding process become unfair and less transparent as the bidding parties are also unable to supervise the process. As such, the authenticity and security of the bidding data can't be guaranteed."
+Founded in 2011 as an authorized exchange by the municipal government of Chongqing, the CQFAE functions as an intermediary between small businesses looking to raise capital and lenders such as investment firms and traditional banks. It further facilitates the trading of corporate loans and letters of credit.
+While it's so far unclear if the firm plans a blockchain product based on the patent application, it notably comes a month after the Chongqing city government revealed its plan to create a "blockchain digital asset exchange."
+As previously reported by CoinDesk, the news initially caused confusion in the Chinese cryptocurrency community, which speculated that it could mean a government-backed cryptocurrency trading platform.
+A government officially reportedly clarified later that the platform is focused on facilitating exchanges of "non-standard assets" such as credit loans and letter of credit,
+Auction bid image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/financial-asset-exchange-patent-explores-tamper-proof-blockchain-bidding/

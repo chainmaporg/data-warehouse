@@ -1,0 +1,26 @@
+date: 
+Exception in extractArticlePublishedDate for https://www.thestreet.com/technology/ibm-sees-future-blockchain-strategic-imperatives-14656483
+
+summary: 
+ "More clients are engaging IBM on their journey to the cloud, and deploying IBM Cloud, Watson AI, analytics, blockchain and security solutions," said IBM CEO Ginni Rometty in a press release. The computing giant staked an early claim in the burgeoning technology, rolling out its IBM Blockchain Platform in March 2017. The platform currently hosts 250 active blockchain networks, the company said, in addition to hundreds of individual blockchain projects across various industries, and more than 1,500 people working on blockchain projects internally.
+
+full text: 
+/ Technology
+IBM Stakes an Early Claim on 'Blockchain-as-a-Service'
+IBM says that its 'strategic imperatives' -- which include cloud, security and analytics -- made up more than half of its Q2 revenues.
+Jul 20, 2018 7:00 AM EDT
+Big Blue is betting big on blockchain.
+In an earnings report Wednesday, ( IBM ) reported $20 billion in revenue, representing growth of 4%, but 2% when adjusted for currency.
+The company said that the revenue boost was supported by 15% growth in the company's 'strategic imperatives,' which encompass cloud, analytics and security. IBM also said the segments represented more than half of IBM's revenues for the quarter, which the tech giant considers a bellwether as it aims to shift focus to emerging areas such as analytics, security and next-generation computing services like blockchain and quantum computing.
+"More clients are engaging IBM on their journey to the cloud, and deploying IBM Cloud, Watson AI, analytics, blockchain and security solutions," said IBM CEO Ginni Rometty in a press release .
+In IBM's eyes, blockchain is one emerging technology that's poised to explode. The computing giant staked an early claim in the burgeoning technology, rolling out its IBM Blockchain Platform in March 2017. The platform currently hosts 250 active blockchain networks, the company said, in addition to hundreds of individual blockchain projects across various industries, and more than 1,500 people working on blockchain projects internally. 
+IBM isn't the only heavy hitter in the fast-developing blockchain world, however. In short order, other software giants such as Oracle ( ORCL ) , Amazon ( AMZN ) , Microsoft ( MSFT ) and ( SAP ) have announced their own 'blockchain-as-a-service' tools , aiming to help developers build blockchain solutions for businesses more easily.
+The technology is still in its early days, said Ron Resnick of the Enterprise Ethereum Alliance, which developers standards for blockchain use in Fortune 500 companies. "Is blockchain going to totally replace what's in the legacy systems? That's going to take a long period of time," Resnick told TheStreet in June. "That said, there's no doubt blockchain is going to disrupt and solve lots of issues."
+IBM is eagerly positioning itself as a dominant force in the sector capable of handling large-scale government or enterprise contracts. Earlier this month, it announced a sweeping $740 million deal with the Australian government covering hardware, cloud services, AI, quantum computing and blockchain research.
+Writing about the growth of IBM's strategic segments like blockchain, Nomura analyst Jeffrey Kvaal appeared optimistic in a Thursday note, raising Nomura's price target from $160 to $170. But he added the caveat that more declines in IBM's bread-and-butter businesses are forthcoming. "Some of the growth in Strategic Imperatives comes at the expense of legacy segments...and legacy seems able to decline just fine on its own," Kvall wrote.
+IBM shares rose 3.3% to $149.24 on Thursday, but are still down almost 3% for the year.
+Amazon and Microsoft are holdings in Jim Cramer's Action Alerts PLUS member club . Want to be alerted before Jim Cramer buys or sells these stocks? Learn more now.
+
+
+url: 
+https://www.thestreet.com/technology/ibm-sees-future-blockchain-strategic-imperatives-14656483

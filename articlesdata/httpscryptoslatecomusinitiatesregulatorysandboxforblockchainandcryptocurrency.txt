@@ -1,0 +1,35 @@
+date: 
+Exception in extractArticlePublishedDate for https://cryptoslate.com/u-s-initiates-regulatory-sandbox-for-blockchain-and-cryptocurrency/
+
+summary: 
+ Fintech - the intersection of finance and technology, includes cryptocurrencies and blockchain technology, and the CFPB's actions are intended to expand in these sectors. Two Congressional hearings, by the House Finance Services Committee and the House Committee on Agriculture, cautioned against overly hasty regulation for cryptocurrencies and blockchain technology, but they stopped short of issuing the type of implicit endorsement that Mr. Mulvaney's announcement included. All these events in Washington make it clear that the U.S. government is interested in supporting blockchain technology and cryptocurrencies in a responsible, business-friendly way while protecting consumers.
+
+full text: 
+U.S. Initiates Regulatory Sandbox for Blockchain and Cryptocurrency
+Bill DeLisle July 21, 2018 2 min read
+Share on Facebook Share on Twitter Share on Telegram Share on LinkedIn
+Among the bustle of crypto-related activities in Washington this week, an important announcement surfaced from Mick Mulvaney, acting director of the Consumer Financial Protection Bureau (CFPB).
+In a  press release , on July 18, 2018, Mulvaney announced Paul Watkins as the head of the newly formed office of innovation. Mr. Wakins’ appointment and the launch of the new office coincides with the agency’s implementation of a “regulatory sandbox” intended to spur novelty in the burgeoning fintech field. 
+Crypto Could Get a Strategic Boost 
+Fintech – the intersection of finance and technology, includes cryptocurrencies and blockchain technology, and the CFPB’s actions are intended to expand in these sectors.
+Within the industry, the term “regulatory sandbox” indicates a rapidly developing regulation that aligns with the fast-paced development of the sector. The CFPB’s initiative strives to create an open dialogue between developers and government officials charged with compiling regulatory assignments while mitigating unintended negative consequences. 
+In fact, Mr. Mulvaney views fintech developments as integral to his agency’s ability to protect consumers. In comments to The Wall Street Journal , he explains, 
+“You can make a strong argument…that new technology actually offers new and innovative ways to protect consumers.”
+However, the office of innovation isn’t only about protections and has a growth mandate as Mr. Mulvaney looks to foster new ideas in the tech sector. Citing the agencies charge to encourage competition and consumer access, Mr. Mulvaney is making a strategic to facilitate advancement in the digital sphere. 
+Initially, the office will focus on crypto assets and blockchain technology. The WSJ reports, 
+“he expects the bureau’s new innovation office to look closely at cryptocurrencies, other financial technologies based on blockchain, private currencies and microlending, or lending by individuals rather than institutions.”
+By supporting an initiative that’s intentionally aimed at growth, the CFPB seems to be taking a different approach than other federal officials. 
+Common Themes But Different Approaches 
+In many ways, the CFPB’s attempts to introduce a streamlined regulatory approach to fintech development aligns with the sentiment from Congressional hearings earlier this week that were focused on devising intentional and timely regulation for cryptocurrencies.
+Related:  Cryptocurrency Conversations on Capitol Hill
+Two Congressional hearings, by the House Finance Services Committee and the House Committee on Agriculture, cautioned against overly hasty regulation for cryptocurrencies and blockchain technology, but they stopped short of issuing the type of implicit endorsement that Mr. Mulvaney’s announcement included. 
+Instead, the Congressional hearings concluded that further understanding is required before regulatory action can be adequately considered. 
+Fortunately, neither institution is wholly endorsing or rejecting a technology that they, admittedly, know very little about. However, all these events in Washington make it clear that the U.S. government is interested in supporting blockchain technology and cryptocurrencies in a responsible, business-friendly way while protecting consumers. 
+Cover Photo by Luke Stackpoole on Unsplash
+Disclaimer: Our writers' opinions are solely their own and do not reflect the opinion of CryptoSlate. None of the information you read on CryptoSlate should be taken as investment advice, nor does CryptoSlate endorse any project that may be mentioned or linked to in this article. Buying and trading cryptocurrencies should be considered a high-risk activity. Please do your own due diligence before taking any action related to content within this article. Finally, CryptoSlate takes no responsibility should you lose money trading cryptocurrencies.
+Did you like this article? Join us.
+Get blockchain news and crypto insights.
+
+
+url: 
+https://cryptoslate.com/u-s-initiates-regulatory-sandbox-for-blockchain-and-cryptocurrency/

@@ -1,0 +1,32 @@
+date: 
+2018-07-22 14:49:57-04:00
+
+summary: 
+ Digital Journal: How important is blockchain becoming for businesses? Sam Bokher: We're currently in the early exploration stage of blockchain's importance to businesses. DJ: What advantages does blockchain present to the freight sector, in terms of potential revenue? Bokher: A report by Morgan Stanley states that blockchain technology can potentially be used to manage up to $500B of freight costs. DJ: Will blockchain lead to the elimination of the 'middle man'? Bokher: Blockchain holds the potential to eliminate the 'middle man' to some extent, but unlikely fully.
+
+full text: 
+By Tim Sandle     6 hours ago            in Business
+The revenue opportunity for blockchain in the freight transportation industry could generate as much as $500 billion. In addition, this technology can offer increased transparency and security for the sector. Sam Bokher of Trucker Path explains more.
+According to Sam Bokher of Trucker Path , understanding the benefits of blockchain is important, even if the full implementation of this technology is still a way out. As an example, the use of blockchain for freight transport could increase the accuracy and efficiency of dispatchers by eliminating the middle-man between shippers and end-customers, ultimately make streamlining deliveries more efficient.
+Digital Journal caught up with Sam Bokher to discuss the impact of blockchain on the freight sector.
+Digital Journal: How important is blockchain becoming for businesses?
+Sam Bokher: We’re currently in the early exploration stage of blockchain’s importance to businesses. While we have seen some positive use cases in the trucking industry specifically, the technology is mainly being used internally and experimentally for now. However, I believe that blockchain will become more regularly adopted over the next 10 years. First large enterprises will experiment with particular use cases, followed by the technology expanding outside of inter-company use cases, and then the need for blockchain will increase with the proliferation of self-driving trucks.
+DJ: What advantages does blockchain present to the freight sector, in terms of potential revenue?
+Bokher: A report by Morgan Stanley states that blockchain technology can potentially be used to manage up to $500B of freight costs. However, it’s difficult to say with certainty the exact number of potential revenue given that varying number of use cases and relevant supporting industries, such as supply chain management software.
+DJ: What other advantages does blockchain present?
+Bokher: The biggest use case in transportation at this moment is with goods traceability. For example, it would allow food distributors to quickly trace food spoilage to prevent the spread of infections. A recent example of a situation that could’ve been prevented with blockchain technology is the multistate outbreak of E. coli infections linked to bags of chopped romaine lettuce. Had blockchain been involved, providers would’ve had a quick and easy way to identify the exact source of the outbreak.
+In the future, I expect to see many applications of blockchain technology in the self-driving truck space, but don’t believe these developments will come for at least 10 more years. Vehicle-to-vehicle communication could be built upon blockchain, and more data could be recorded during the shipping process due to automation, which would in turn lead to even more developments of sophisticated blockchain solutions.
+DJ: Will blockchain lead to the elimination of the ‘middle man’?
+Bokher: Blockchain holds the potential to eliminate the ‘middle man’ to some extent, but unlikely fully. Third-party logistics (3PLs), especially small providers, may be at risk if blockchain technology becomes fast, secure and transparent enough to surpass them in efficiency. I believe that the true elimination of the ‘middle man’ will come with the development of self-driving trucks, which will significantly reduce the need for manual management of transportation
+DJ: Which blockchain platforms are the most promising?
+Bokher: There are no established blockchain platforms in trucking yet, although some startups aim to build that. Current startups ShipChain, CargoX, Block Array, and Blockfreight have raised funding to build blockchain based solutions for supply chain and logistics. As for general blockchain platforms, Etherium appears to be the most promising. Despite some of its flaws, it has gained network effects that are necessary for any platform.
+DJ: Which transport companies are exploring the promises of blockchain?
+Bokher: According to Gartner research, only 1 percent of large enterprises are currently exploring the potential of blockchain. Walmart, Maersk, IBM and Samsung are exploring the opportunities for blockchain technology to trace shipments, and Walmart’s has become regarded as having one of the best food traceability systems in the U.S. thanks to the technology.
+DJ: How far away is the technology, in terms of delivering the potential benefits?
+Bokher: We already have early use cases, but I predict that sizable benefits will come once companies start working with each other on blockchain, which may take approximately 3-5 more years.
+DJ: What does a future mode of blockchain form transport look like?
+Bokher: Currently, the transportation industry is a massive market, reaching $1.2 trillion in revenues in the U.S. each year, but the technology used by trucking companies is either minimal or nonexistent. The industry has been traditionally reluctant to adopt new technology, but I believe blockchain, in its widespread popularity, will be the catalyst to trigger technology adoption in transportation. Ultimately, the use of blockchain in the transportation sector will result in deliveries that are more efficient, transparent, secure, and easily trackable. The influx of this technology will bring newfound visibility into the shipping process that was otherwise unattainable.
+
+
+url: 
+http://www.digitaljournal.com/business/q-a-how-blockchain-is-disrupting-transportation/article/527695

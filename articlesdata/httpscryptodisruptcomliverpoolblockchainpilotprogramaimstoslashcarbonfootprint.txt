@@ -1,0 +1,28 @@
+date: 
+Exception in extractArticlePublishedDate for https://cryptodisrupt.com/liverpool-blockchain-pilot-program-aims-to-slash-carbon-footprint/
+
+summary: 
+ The Liverpool blockchain program that was announced by the Liverpool City Council sees blockchain as a means of cutting down the city's carbon emissions. The Liverpool blockchain carbon-credit program could be similar to other platforms that look to blockchain as a way to ensure reliable data recording. Not only will Liverpool have to deal with less financial strain, the Liverpool blockchain carbon-credit system could actually help to demonstrate that a major city can be carbon neutral.
+
+full text: 
+Liverpool Blockchain Pilot Program Aims to Slash Carbon Footprint
+By
+-
+July 22, 2018
+The Liverpool blockchain program that was announced by the Liverpool City Council (LLC) sees blockchain as a means of cutting down the city’s carbon emissions. The LLC is going to be working with Malta-based Poseidon Foundation to develop the system. Their goal is to make big changes to how Liverpool operates by 2020.
+Over the next year, the LLC and the Poseidon Foundation will experiment with a tokenized carbon-credit system. The goal is to reach a level of 110 percent carbon offset. If Liverpool is able to achieve this, it will mean the city actually consumes carbon, instead of producing it.
+The city has already started to install energy efficient streetlights. They seem happy to have the help of the nonprofit Poseidon Foundation to roll out the Liverpool blockchain carbon-credit system.
+The Mayor of Liverpool, Joe Anderson, spoke positively about Poseidon’s technology, “(It) is the first of its kind to truly deliver a solution to governments, businesses, and individuals around the world to help reverse the causes of climate change and I am thrilled this agreement will bring this cutting-edge technology to our city.”
+The Liverpool blockchain carbon initiative could make a big difference
+The Liverpool blockchain carbon-credit program could be similar to other platforms that look to blockchain as a way to ensure reliable data recording. Walmart recently patented a system that would use blockchain, IoT , and cryptos to make sure that electrical appliances were running at optimum levels of efficiency.
+When electrical systems are able to be monitored at a high level of detail, wasted electrical power is easy to spot. In most cases, things like streetlights or other public infrastructure aren’t watched on an individual basis. The amount of waste this creates can be substantial, especially if there is malfunctioning equipment that is sucking up power.
+Liverpool’s efforts to replace streetlights with LED versions are estimated to have cut power usage by as much as 82% already. The addition of the Liverpool blockchain carbon-credit platform should help the LCC save even more power, which lowers their carbon emissions.
+Carbon-credits are about more than money
+When less power is used, less fuel has to be burned as well. This is good for a few reasons. Not only will Liverpool have to deal with less financial strain, the Liverpool blockchain carbon-credit system could actually help to demonstrate that a major city can be carbon neutral.
+If this new application for blockchain catches on, cities all over the world could use Liverpool as a guide to cut their own carbon footprint. Saving money is great for a municipality, and designing new, low-carbon technology is positive for the whole planet.
+Nicholas Say
+Nicholas Say was born in Ann Arbor, Michigan. He has traveled extensively, lived in Uruguay for many years, and currently resides in the Far East. His writing can be found all over the web, with special emphasis placed on realistic development, and the next generation of human technology.
+
+
+url: 
+https://cryptodisrupt.com/liverpool-blockchain-pilot-program-aims-to-slash-carbon-footprint/

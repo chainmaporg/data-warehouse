@@ -1,0 +1,49 @@
+date: 
+Exception in extractArticlePublishedDate for https://coincentral.com/blockchain-digital-advertising/
+
+summary: 
+ Blockchain in media and entertainment potentially changes the nature of digital advertising, but how can blockchain be applied to digital advertising, media, and entertainment? This being the case, blockchain in media and entertainment using digital advertising fundamentally clashes with the very nature of cryptocurrency based on blockchain technology. Do any positive use cases exist for blockchain in media and entertainment using digital advertising? Some say yes, but they are advertising organizations, so caveat emptor.
+
+full text: 
+Wilton Thornburg
+Blockchain in media and entertainment potentially changes the nature of digital advertising, but how can blockchain be applied to digital advertising, media, and entertainment ?
+First, let’s debunk a common myth about marketing and advertising: that they’re the same. Advertising distinguishes itself from marketing in significant ways. Marketing comprises the overall strategy constructed of the many components a company uses to get its product into the customer’s hands. 
+And advertising defines a specific component of that strategy to communicate the company message to a potential customer. Advertising presumes the company must first locate potential customers to communicate to, and digital advertising lives in the online world.
+Look Over Your Shoulder
+Consequently, digital advertising relies heavily on stalking online users. Effective advertising targets the people most likely to buy the product. Therefore, advertisers collect user data to determine where to most effectively deploy their resources. Advertisers gather as much personal data as possible and store this data in a centralized manner.
+This being the case, blockchain in media and entertainment using digital advertising fundamentally clashes with the very nature of cryptocurrency based on blockchain technology.  
+Blockchain presents an open ledger so the whole world can view the transactions, but users’ identities remain hidden on the blockchain. Using cryptography , blockchains contain public keys, digital signatures, and wallet addresses, but none of these identify the user to be John Doe, Jane Smith or anyone else.
+Why Can’t They Just Leave Us Alone?
+Blockchain values privacy, and advertising values the collection by a centralized power of all possible information about potential customers. Blockchain enables the user to escape the relentless surveillance of every online move the user makes.
+If advertisers knew Satoshi Nakamoto’s identity , rest assured they would hound him relentlessly and try to entice some of his Bitcoin out of his wallet and into theirs! Irony never fails, so ads for privacy products would likely be uppermost in his feed. 
+Blockchain in Media and Entertainment – We Know What You Did Last Summer
+It’s true that information outside the blockchain provides identifying information about individuals transacting business on the blockchain, and for the Bitcoin network, forensic data from traffic analysis yields this information.
+If Person X at IP address 123 sells furniture, and Person Y at IP address 456 sends Bitcoin to Person X, simply conclude that Person Y purchased some furniture. Law enforcement uses this method to track illegal activity. (An IP address defines the location of your computer on the internet).
+People Can Close the Peephole
+Knowing this, some cryptocurrencies build privacy into their blockchain technology. For example, Monero , Dash , and Zcash represent just a few of the privacy coins . The protocols of these coins maintain user anonymity.
+Privacy does not presume illegal activity, and you can consider privacy to be a basic human right.
+Privacy disappeared from the World Wide Web, but blockchain hopes to restore it.
+How Do They Do It?
+How do advertisers stalk you on the web?  Some sites require you to register, so you volunteer your information to see their information. Sites use browser cookies. A cookie exists as a file the server puts on your own computer to track your information. The server harvests your IP address and identifies you by that address on the internet.
+Websites even identify you through your computer’s system information that transmits through the browser. For instance, if your monitor sets the display to 2560 pixels by 1440 pixels, and you are alone among all the users on a website use that resolution, that information identifies you without even the need to know your IP address!
+You Can Run, Jekyll, But You Can’t Hyde
+With the success of the Google business model, online stalking and subsequent advertising define what the web has become. Prior to Google and the internet, users purchased software for money, and software came in shrink-wrapped boxes. Alternatively, the Google business model allows people to use software in exchange for personal information, and your personal information then gets sold to advertisers.
+On the web, as it has evolved, you are not the customer. You are the product.
+Do any positive use cases exist for blockchain in media and entertainment using digital advertising? Some say yes, but they are advertising organizations, so caveat emptor.
+NYIAX, a Blockchain Powered Advertising Exchange
+Developed through a partnership with Nasdaq, NYIAX provides an exchange where advertisers and publishers transact advertising contracts. They use blockchain technology for these contracts, and this brings the trust and transparency that defines blockchain to this exchange.  
+But this blockchain exists between the publisher and the advertiser, and it has nothing to do with the relationship between the publisher and the user or between the advertiser and the user. So, this use of the technology simply gives the back end participants a way to transact business between themselves. This use of blockchain in media and entertainment is of very little benefit to the end user.
+MadHive, Combining Advertising and Privacy with Blockchain
+Similarly, MadHive seeks to provide video advertisers data management products powered by blockchain, and their blockchain eliminates the middlemen who gather and store user data.
+MadHive’s AI gathers this data, keeps the user’s personally identifiable information private, and enables advertisers to reach these potential customers without ever knowing their private information.
+The European Union recently enforced the General Data Protection Regulation ( GDPR ). GDPR strengthens user privacy rights. So, as governments enforce new laws and regulations protecting consumer privacy, MadHive’s approach to using blockchain in media and entertainment may prove especially useful.
+Some Final Thoughts
+The founding fathers championed life, liberty, and the pursuit of happiness as fundamental human rights; and without privacy, liberty fails, and happiness evaporates.
+Samuel Warren and Supreme Court Justice Louis Brandeis published “The Right to Privacy” in the Harvard Law Review on December 15, 1890. They advocated that individuals have the right to privacy; and interestingly, they pointed out that modern technology contributed to the loss of privacy. Modern technology of the day constituted photography and newspapers with widespread circulation.
+The web evolved into an instrument that destroys privacy. Blockchain technology strives to protect an individual’s privacy, and blockchain thereby seeks to restore rights to the individual that were taken by centralized authorities.  
+Time will tell if the privacy of blockchain in media and entertainment and the invasive nature of digital advertising find effective areas of mutual cooperation and compatibility.
+Related
+
+
+url: 
+https://coincentral.com/blockchain-digital-advertising/

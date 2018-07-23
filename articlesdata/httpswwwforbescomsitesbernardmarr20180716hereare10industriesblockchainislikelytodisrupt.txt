@@ -1,0 +1,40 @@
+date: 
+2018-07-16 04:05:00+00:00
+
+summary: 
+ Blockchain would be a more secure way to store banking records, and a faster, cheaper way of transferring money through the decentralization provided by blockchain. These are just some of the industries that are likely to see significant disruption from blockchain technology. What opportunity do you see for blockchain to disrupt and improve your industry?
+
+full text: 
+Share to twitter
+Share to linkedin
+You’ve probably heard that blockchain technology is going to revolutionize… fill in the blank. But what actually is it and how is it going to disrupt these industries?
+Adobe Stock
+Adobe Stock
+In simplest terms, blockchain refers to a decentralized database. If you think of a traditional database like a spreadsheet, running on a single computer, blockchain distributes that so the spreadsheet runs on millions and millions of computers. It also uses state of the art cryptography, so that once information goes in, it is virtually impossible to get it out again without the original passcode or key.
+The real disruption here is that trust is established through collaboration and code, rather than a central authority. So you no longer need a bank to make a money transfer around the world. You no longer need an escrow account to buy a home, or a real estate agent to facilitate the transaction. You no longer need a company or central authority to facilitate a transaction of any kind.  That is revolutionary and has the potential to revolutionize nearly every industry. But here are some of the most likely:
+Banking
+When the average person hears the word "blockchain," they probably think "Bitcoin," and so it's no surprise that banking tops our list. Blockchain would be a more secure way to store banking records, and a faster, cheaper way of transferring money through the decentralization provided by blockchain. Plus, there's minimal risk of a run on a blockchain system or a collapse, as there's no central "vault." It's as though each person's money has its own private vault that no one else can access.
+Healthcare
+Some of the biggest challenges in healthcare could be solved by a blockchain system allowing all doctors and healthcare providers to access your health records securely and easily. Unlike the days of paper records, or even today when digital health records can be created and stored in a myriad of different systems, your health records could be singular, complete, and travel with you from birth to death, regardless of how many times you change doctors or insurance systems. Additionally, your health information could be accessed immediately, at any time, potentially offering doctors lifesaving information in an emergency.
+Politics
+Rigged votes and “voting irregularities” could be a thing of the past, as could the threat of rival governments or terrorist organizations hacking the vote. Voting systems secured with blockchain technology would be completely unhackable. From voter registrations to verifying identity to tallying votes, the system would be indisputable. Gone would be the days of recounts and “hanging chads.”
+Real Estate
+If you've ever bought or sold a home, you know how much paperwork is involved. But blockchain systems could be used to simplify the process and eliminate escrow altogether. Smart contracts could be designed that only execute when certain conditions are met, including funding. Besides, all these various documents could be stored securely. A startup called Deedcoin is offering cryptocurrency powered transactions that decrease the commission rate for the agent to as little as 1 percent.
+Legal Industry
+Storing and retrieving documents as well as verifying their provenance are key functions of the legal industry. With blockchain technologies, questions over the legality of wills or other legal documents could be eliminated by securely storing and verifying documents. Also, questions of digital inheritance, especially with the rise of cryptocurrencies, can be eliminated with blockchain secured documents.
+Security
+The whole basis of blockchain is to create decentralized and ultimately secure ways of storing, verifying, and encrypting data, so naturally, security is going to feel the force of this new technology. Decentralized data storage in the cloud eliminates many of the problems of data hacks we’ve seen major players dealing with over the last few years. Advanced cryptography based on blockchain technologies can create virtually unhackable data encryption.
+Government
+Aside from voting systems, blockchain technologies could be used to help reduce and eliminate bureaucratic red tape and corruption in government agencies. For example, welfare, disability, veterans and unemployment benefits could be more easily verified and distributed, eliminating fraud and waste. Smart contracts could ensure that government funds are only released when certain conditions are met whether to contractors or foreign governments in the form of aid. And security, efficiency, and transparency in government functions could be increased across the board.
+Rentals and Ride Sharing
+It seems like startups like Airbnb and Uber have already disrupted these markets, but blockchain could create true peer-to-peer networks for rentals and sharing of goods and services that would eliminate the need for the middle-man company, which naturally takes a cut of the fee.  In fact, there's no reason these peer-to-peer networks couldn't expand to renting and borrowing just about anything from books to tools to furniture and beyond.
+Charities and Aid Organizations
+Many people want to donate to charity organizations, but worry about whether their money will actually reach the intended recipients. Charities can create trust through smart contracts and online reputation management systems that can help donors trust that their money is going to the specified people and places. And the U.N.’s World Food Programme is implementing a blockchain based system that allows refugees to get food with an iris scan, instead of relying on cash, credit, or vouchers, all of which can be stolen.
+Education
+As the power of online and distance learning grows, so does the need for an independent way of verifying students’ transcripts and educational records. A blockchain based system could serve almost as a notary for educational records, creating a way for employers and other educational institutions to access secure records and transcripts. In fact, it could also help universities and other large institutions collaborate. No longer would a student have to wait for the course she wants to be offered at Harvard if Oxford is offering it online; her grades and records would be easily and instantly transferable.
+These are just some of the industries that are likely to see significant disruption from blockchain technology. What opportunity do you see for blockchain to disrupt and improve your industry?
+Bernard Marr is a best-selling author & keynote speaker on business, technology and big data. His new book is Data Strategy . To read his future posts simply join his network here .
+
+
+url: 
+https://www.forbes.com/sites/bernardmarr/2018/07/16/here-are-10-industries-blockchain-is-likely-to-disrupt/

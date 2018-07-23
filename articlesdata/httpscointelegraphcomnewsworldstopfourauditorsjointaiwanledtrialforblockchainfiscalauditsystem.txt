@@ -1,0 +1,24 @@
+date: 
+2018-07-19 18:18:00+01:00
+
+summary: 
+ The world's four largest auditing firms - Deloitte, Ernst & Young, KPMG and PwC -have joined 20 Taiwanese banks to pilot blockchain technology for fiscal audits, local news outlet CTEE reports July 19. The "Big four" will join a consortium of major Taiwanese banks to test a blockchain solution for auditing companies' interim financial reports, focused on streamlining so-called 'external confirmation' processes. The pilot - which has been developed by the banking consortium alongside Taiwan's Financial Information Service Co. - harnesses the tamper-proof, distributed, and immutable structure of a blockchain system to secure and automate the confirmation process, potentially allowing auditors to assess the fiscal health of firms in record time.
+
+full text: 
+Marie Huillet
+World's Top Four Auditors Join Taiwan-Led Trial for Blockchain Fiscal Audit System
+The world's four largest auditing firms have joined 20 Taiwanese banks to pilot blockchain technology for fiscal audits.
+11470 Total views
+324 Total shares
+News
+The world's four largest auditing firms — Deloitte , Ernst & Young, KPMG and PwC —have joined 20 Taiwanese banks to pilot blockchain technology for fiscal audits, local news outlet CTEE reports July 19.
+The “big four” will join a consortium of major Taiwanese banks to test a blockchain solution for auditing companies’ interim financial reports, focused on streamlining so-called ‘external confirmation’ processes. These currently require an auditor to manually obtain and verify audit evidence of companies’ transactions with third parties.
+The pilot — which has been developed by the banking consortium alongside Taiwan's Financial Information Service Co. (FISC) — harnesses the tamper-proof, distributed, and immutable structure of a blockchain system to secure and automate the confirmation process, potentially allowing auditors to assess the fiscal health of firms in record time.
+The banks will act as validators to migrate companies’ transaction data onto a blockchain that will subsequently be accessible by the participating audit firms. The FISC anticipates that the new system will accelerate confirmation times from an average of two weeks to “within a day.”
+Expansion of the trial system is planned for more than 1,400 publicly-listed companies in China starting next year.
+This spring, Cointelegraph reported on a major Deloitte study that argued that businesses who don’t consider integrating blockchain systems are “at risk of falling behind,” predicting that it would become “a standard operational technology across the financial, manufacturing and consumer industries” in the future.
+For its part, PwC has also kept its pulse on the crypto and blockchain space. The company released a joint report with the Swiss Crypto Valley Association just two weeks ago indicating that Initial Coin Offerings ( ICOs ) are thriving in 2018, with their volume thus far already twice as high as it was during the entirety of 2017.
+
+
+url: 
+https://cointelegraph.com/news/world-s-top-four-auditors-join-taiwan-led-trial-for-blockchain-fiscal-audit-system

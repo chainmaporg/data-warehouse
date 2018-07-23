@@ -1,0 +1,27 @@
+date: 
+2018-07-22 17:26:00+01:00
+
+summary: 
+ The Bank of Canada has published a study on the "Incentive compatibility" of blockchain technology this week, finding that double spending is an "Unrealistic" outcome. The new BoC study focuses on a proof-of-work protocol for blockchain technology, modelling the behaviors of a "Honest miner" and a "Dishonest miner." The study finds that if one miner controls more than half of all of the computational power, the miner would hypothetically be able to stage a "51% attack," where.
+
+full text: 
+Max Yakubowski
+Bank of Canada Study Finds Double Spending in Blockchain is ‘Unrealistic’
+A recent study by the Bank of Canada on the possibility of cheating in blockchain finds that double spending is “unrealistic.”
+8596 Total views
+361 Total shares
+News
+The Bank of Canada (BoC) has published a study on the “incentive compatibility” of blockchain technology this week, finding that double spending is an “unrealistic” outcome.
+The new BoC study focuses on a proof-of-work ( PoW ) protocol for blockchain technology, modelling the behaviors of a “honest miner” and a “dishonest miner.”
+The Canadian bank’s researchers modelled a system to check whether a digital ledger like blockchain was immune to types of “cheating” such as double spending, when users change records in the ledger for their own gain.
+The study writes that the main innovation of a digital ledger technology like blockchain is to make the users within the system responsible for the guarding of the system itself. For blockchain technology, the system approves new transactions when an update is agreed upon by all users in the system.
+The study finds that if one miner controls more than half of all of the computational power, the miner would hypothetically be able to stage a “51% attack,” where
+“Confirmation lags, in theory, lose their power in controlling double-spending incentives. The dishonest miner creates an arrival rate that is larger than those of the other honest miners combined [...] and, thus, can always cheat by double spending.”
+However, the study notes that in order for this to happen from an economic standpoint, a “dishonest miner” must have “deep pockets” and be “risk neutral,” concluding,
+“These assumptions tend to be unrealistic and, in practice, users have little economic incentives to launch such an attack, especially when the computational investment by other miners is large.”
+James Chapman, senior research director at the BoC’s funds management and banking department, had previously questioned the effectiveness and security of using blockchain tech for banking.
+Another study conducted by major global management consultancy firm Bain & Company found that the implementation of distributed ledger tech like blockchain “has the potential to revolutionize transaction banking.”
+
+
+url: 
+https://cointelegraph.com/news/bank-of-canada-study-finds-double-spending-in-blockchain-is-unrealistic

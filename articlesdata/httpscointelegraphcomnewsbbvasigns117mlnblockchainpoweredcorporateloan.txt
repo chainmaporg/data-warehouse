@@ -1,0 +1,24 @@
+date: 
+2018-07-21 00:51:00+01:00
+
+summary: 
+ In April, 2018, BBVA successfully carried out "The first global corporate loan transaction" using blockchain technology with a Spanish information technology Indra. Last month, the BBVA reported that it signed another blockchain-based agreement with one of the leading global oil and gas industry companies Repsol to renew a credit line worth u20ac325 million, which is reportedly the first application of blockchain technology in the sphere of corporate finance. While the company is actively embracing blockchain technology, also applying distributed ledger technology in processing and handling shipping document submissions, BBVA CEO Carlos Torres recently claimed that blockchain is "Not mature" and faces major issues.
+
+full text: 
+Helen Partz
+BBVA Signs $117 Mln Blockchain-Powered Corporate Loan
+BBVA has signed a new blockchain-powered loan, having completed the first global blockchain-based pilot on loans and corporate finance.
+23923 Total views
+323 Total shares
+News
+Banco Bilbao Vizcaya Argentaria ( BBVA ) has signed a new blockchain -based loan with civil engineering firm ACS Group , according to the BBVA’s official statement July 19.
+BBVA, a multinational Spanish banking group, signed an agreement with ACS to provide a long-term bilateral corporate loan of €100 million ($117 million).
+The new blockchain-powered loan contract will reportedly boost the efficiency in financial processes of the company, allowing for better transparency and traceability of contractual process.
+Settling the loan on a blockchain allows both parties to independently monitor the stages of a contract, as well as the conditions. The pilot also includes digitization of the negotiating process with the management time expected to be reduced “from days to hours.”
+In April, 2018, BBVA successfully carried out  “the first global corporate loan transaction ” using blockchain technology with a Spanish information technology Indra .
+Last month, the BBVA reported that it signed another blockchain-based agreement with one of the leading global oil and gas industry companies Repsol to renew a credit line worth €325 million ($377 million), which is reportedly the first application of blockchain technology in the sphere of corporate finance .
+While the company is actively embracing blockchain technology, also applying distributed ledger technology (DLT) in processing and handling shipping document submissions, BBVA CEO Carlos Torres recently claimed that blockchain is “not mature” and faces major issues. Torres added that, despite its contemporary challenges, “when it is mature and regulators are ready,” BBVA wants to have the tools necessary to apply the technology to relevant use cases.
+
+
+url: 
+https://cointelegraph.com/news/bbva-signs-117-mln-blockchain-powered-corporate-loan

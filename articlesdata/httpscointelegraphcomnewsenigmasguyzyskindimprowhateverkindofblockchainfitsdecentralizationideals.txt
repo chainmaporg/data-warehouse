@@ -1,0 +1,61 @@
+date: 
+2018-07-19 16:41:00+01:00
+
+summary: 
+ Cointelegraph recently spoke to Guy Zyskind, the founder and CEO of decentralized blockchain company Enigma and graduate of the Massachusetts Institute of Technology, about the future of blockchain protocols and where Enigma fits in. During TechCrunch's recent Ethereum Meetup in Zug, Switzerland, Zyskind elaborated on his successful experience teaching a blockchain course at MIT, as well as his regrets over missing out getting into crypto way back in 2010. I'm very much pro-Ethereum, pro-whatever blockchain that can fit those kind of ideals.
+
+full text: 
+Molly Jane Zuckerman
+Enigma’s Guy Zyskind: ‘I’m Pro-Whatever Kind of Blockchain Fits Decentralization Ideals’
+Cointelegraph spoke with Enigma’s Guy Zyskind on the unique nature of the platform’s “secret contracts” and the fun he had teaching blockchain at MIT.
+8634 Total views
+Interview
+This interview has been edited and condensed.
+Cointelegraph recently spoke to Guy Zyskind, the founder and CEO of decentralized blockchain company Enigma and graduate of the Massachusetts Institute of Technology (MIT), about the future of blockchain protocols and where Enigma fits in.
+During TechCrunch’s recent Ethereum Meetup in Zug, Switzerland, Zyskind elaborated on his successful experience teaching a blockchain course at MIT, as well as his regrets over missing out getting into crypto way back in 2010.
+Molly Jane: First off, could you explain what the Enigma protocol is and how you originally ended up in the blockchain world?
+Guy Zyskind: I’m Guy Zyskind, co-founder and CEO of Enigma. Enigma is building a platform for privacy-preserving smart contracts. We call it “secret contracts’” for the fact that no one’s internet network can actually see the data they are computing on. This is in contrast to public blockchains like Ethereum and pretty much everything there is today.
+My background is that I was born and raised in Israel , moved five years ago the States and went to grad school at MIT. That’s really where I got interested in blockchain and the intersection of privacy. I published a few papers — one of them was the Enigma white paper — which was the predecessor to the platform that we’ve been building today.
+MJ: How closely do Enigma and MIT work together?
+GZ: I am working on Enigma full time. We are affiliated with MIT, so the MIT E14 fund [part of the MIT Media Lab] and the Engine Fund have invested in us. 
+My professor, MIT’s advisor Sandy Pentland, is a co-founder and advisor to the company. We’re still very often at MIT, very connected to the ecosystem, but we’re not directly affiliated to MIT today.
+MJ: Is what Enigma is doing with secret contract the first of its kind?
+GZ: As far as we know, we’re the first of our kind. Definitely, when we started in 2015, that was like the first-time that privacy-preserving smart contracts came to us even as an idea, and I believe we have the first implementation in the world right now.
+MJ: When was the first time you heard about Bitcoin? When was the first time cryptocurrency became a real concept for you?
+GZ: That’s an unfortunate story. That was 2010. We had our own geeky, closed secret group of people and my friend was like, “Oh, there’s that cool thing Bitcoin. You should download it and we should start mining.” And we were all like, “Yeah, sure. Forget about it,” and it was 2010. Could have been really interesting.
+I seriously got into it around 2013, so I started working on it in 2012. 2013 was when I got really hooked and, since then, I’ve been working on it full time.
+MJ: You didn’t end up mining Bitcoin back in 2010, but are you investing in it now?
+GZ: I hold some Bitcoin, I hold some Ethereum. Obviously, I hold Enigma. That’s pretty much it when it comes to the space.
+MJ: So, you don’t like to play around with the market?
+GZ: Honestly, I don’t have the bandwidth. I’m more in this for the tech. I’m more interested in building, I’m less in for investing. I think I’m a really poor investor.
+You can watch the interview here:
+MJ: On your website profile it says you’re a Bitcoin evangelist, so what are you doing at an Ethereum meetup today?
+GZ: Well, I’m not a Bitcoin maximalist. I’m pro-decentralization, basically. I got hooked on Bitcoin because of the idea that you can do consensus at scale — at internet-scale — for the first time. That’s what took me in Bitcoin. I’m very much pro-Ethereum, pro-whatever blockchain that can fit those kind of ideals.
+MJ: Could you explain in layman’s terms the difference between the Ethereum blockchain and the Bitcoin blockchain?
+GZ: When Ethereum started, people were saying that Bitcoin does not allow you to do any type of computation, any type of application. It’s only mildly true. It’s true that Ethereum built a way to build more kinds of applications than just sending payments. I still think that both Bitcoin and Ethereum are basically giving us internet-scale consensus.
+Having a system where you have different actors, different machines that can reach the same conclusion on some problem. In Bitcoin, the problem is starting the ledger in a way that everyone agrees on, even if they are dishonest or malicious.
+To me, the big difference between Ethereum and Bitcoin is the ecosystem. Ethereum really made it possible and accessible for developers to start developing applications that can run not in one place, but in many places at once.
+MJ: I’ve read that you taught a course on blockchain at MIT. Can you tell me how that went over?
+GZ: Right. That was a few years ago. It was when the Digital Currency Initiative (DCI) was formed, and we were like, we have great students, great talent. There were a few of us. I and a few others were talking about it, we need more people working on blockchain at MIT, and they said, ok, let’s open a class.
+I taught a class together with basically the head developer in our circle and another person from the DCI, which was very successful and — as I mentioned — published a few papers on the topic of blockchain privacy.
+MJ: How did the students like the class? Did you see a lot of enthusiasm for blockchain?
+GZ: Oh yeah. We had about 40 people, which, for a first-time class that was arranged two weeks before the start of the semester, was a really good number. We got really good projects, what we did was we taught the students what blockchain is, what consensus is. Ethereum was only beginning, so we didn’t teach as much about Ethereum as we did with Bitcoin , but we wanted people to experiment a little bit with Serpent back then, that was before Solidity.
+And then we had the finals where people presented their projects and that was really cool. All of the works were great. One of the projects actually became a paper of its own and the first project of the DCI, which, I believe, was about blockchain in the medical industry.
+MJ: When you taught the class on blockchain, how did you introduce the concept of this technology?
+GZ: I just explained Bitcoin. Let’s say there is a new company that says, “We are maintaining a new kind of money,” right? It’s totally not on a database. And you could transact. We could give $1 to every person in the world and you can start transacting with it.
+But then, after that point, if you want to buy more, you’re going to start depositing money. And this is an untrusted company, not a bank, not affiliated with a country. And I ask people in the class, “Are you comfortable trusting and continuing to pour money into that kind of system?” And the answer is always “no” from everyone.
+And then I start to explain how Bitcoin works in a very high-level way, and how even though you don’t trust one entity, if you have many of them and you don’t trust them individually, but somehow, collectively, you can trust them to actually transact and approve any transaction you send to people. And that kind of clicks and from that we go more technical.
+MJ: Do you see MIT offering this class again in the future?
+GZ: I know that after we taught it, there was a bit of a break. But from what I’ve heard recently, the class is now returning and there are actually even more people working on it and more researchers. Blockchain at MIT has really evolved in those spheres, which is amazing.
+MJ: Can you tell me more about Enigma’s recent announcement of a partnership with Intel ?
+GZ: Basically, what we offer — that others do not — is to create scalable, privacy-preserving smart contracts. Right now, when you look at blockchains, the way they’ve been developed — Ethereum included — is that you take a computation and verification and you do them in the same place. In Ethereum, you have an application running as a smart contract on the blockchain: Basically, every node in the network has to run every computation and validate that computation, which is very, very costly.
+We’re trying to split that, and we’re trying to make sure that all computations that are happening are working on data that the nodes themselves cannot see. There are several ways to do it. There are hardware-assisted ways and there are purely cryptographic ways. At Enigma we’re developing both because we want to give developers the choice.
+When it comes to hardware system techniques, that’s known as trusted execution environments. Intel has been developing one of the leading examples of that, which is called the Intel SGX. And we used that to build our first situation of a test. We partnered with Intel together to develop that further, to see how far this technology can go, how helpful it can be for Enigma and for blockchains in general, also to continue researching and improving the systems and even make them more trustless and permissionless.
+MJ: In the future, 10 years down the line, which blockchain protocols do you think will be left standing?
+GZ: I think it’s safe to say that most protocols won’t exist. Most tokens won’t exist. I think there will be more than one to two winners. I think there’s a place for like 10, 20, maybe even 50, but what I’m really curious about is to see how protocols and projects will start merging with each other.
+Because, obviously, it’s not possible to have 2,000 projects. If you look at 2014, there were all these outcomes of Bitcoin in all these forms, and most of them didn’t survive. But some did. So, I think some will survive and those are the ones that are doing really legit work and actually advancing the tech and the applications.
+MJ: Great! Thank you so much.
+
+
+url: 
+https://cointelegraph.com/news/enigma-s-guy-zyskind-i-m-pro-whatever-kind-of-blockchain-fits-decentralization-ideals

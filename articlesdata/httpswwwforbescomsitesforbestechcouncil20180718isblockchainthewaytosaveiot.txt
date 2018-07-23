@@ -1,0 +1,48 @@
+date: 
+2018-07-18 13:00:00+00:00
+
+summary: 
+ Gartner has warned that three-quarters of all IoT projects will take twice as long as planned to implement, and IoT security has been called "a doomsday scenario waiting to unfold." It turns out that IoT is hard! Tackling this complexity is core to capturing the promised benefits of IoT. In today's increasingly digitalized world, the ability to make sensors, devices and computational "Things" perform tasks and functions for us is becoming a necessity. In spite of the Byzantine complexity and myriad threats involved, IoT adoption continues to accelerate, with analysts forecasting nearly $15 trillion in aggregate IoT investment by 2025. Why? The 2017/18 Vodafone IoT Barometer survey of 1,278 enterprise and public sector executives from 13 countries holds a clue: 74% of respondents who have adopted IoT technologies claim digital transformation is impossible without it.
+
+full text: 
+Forbes CommunityVoice Connecting expert communities to the Forbes audience. What is This?
+Is Blockchain The Way To Save IoT?
+Post written by
+Nelson Petracek
+TIBCO Software's Global Chief Technology Officer, helping to shape the development of TIBCO's emerging technology platforms and products.
+Share to facebook
+Share to linkedin
+Shutterstock
+The internet of things (IoT) was a hot topic in tech a few years ago, with everyone and their mother pitching IoT platforms, “smart” products and automated, real-time, interconnected “things” everywhere. Though IoT is still humming along, the hype has been somewhat curbed by high deployment failure rates and the shadow cast by IoT-enabled cyberthreats like the Mirai botnet.
+Gartner has warned that three-quarters of all IoT projects will take twice as long as planned to implement, and IoT security (or a lack thereof) has been called “a doomsday scenario waiting to unfold.” It turns out that IoT is hard! Tackling this complexity is core to capturing the promised benefits of IoT. In today’s increasingly digitalized world, the ability to make sensors, devices and computational “things” perform tasks and functions for us is becoming a necessity. Human beings just can’t manage the explosion of data and “interconnectedness” on their own — but we also don’t need bad bots running amok.
+Establishing helpful IoT systems that run securely, efficiently and independently has proved incredibly difficult. Blockchain shows promise for easing that burden.
+IoT Challenges
+Cybercrime that exploits IoT devices and networks shows no sign of abatement. Thus security, privacy and identity verification remain foundational concerns in IoT deployments. Vast amounts of IoT data must be collected, transferred and delivered in a secure fashion amongst valid stakeholders, and processing now occurs at various layers within an architecture to trigger decisions at the right point. Misbehaving sources must also be detected and resolved, as device-related threats may include:
+• Physical device attacks (unauthorized device control).
+• Software attacks (malware such as viruses or worms).
+• Network attacks (Denial of Service assaults, wireless vulnerability exploits).
+• Encryption attacks (brute-force password cracking, “ Man In the Middle ” attacks).
+The fact that there are so many types of threats and so many unsecured or poorly secured devices (and no standard authority for connectivity requirements) further confuses matters. Add to this the growing cadre of IoT communication protocols and you have an extremely complex problem that is difficult to solve at scale.
+IoT Today
+In spite of the Byzantine complexity and myriad threats involved, IoT adoption continues to accelerate, with analysts forecasting nearly $15 trillion in aggregate IoT investment by 2025. Why? The 2017/18 Vodafone IoT Barometer survey  (download required) of 1,278 enterprise and public sector executives from 13 countries holds a clue: 74% of respondents who have adopted IoT technologies claim digital transformation is impossible without it. Basically, it doesn’t matter if it’s hard -- it has to be done if you want to do business in the modern world.
+Using the Industrial Internet Consortium’s reference architecture as an example, a basic business IoT system will have enterprise, platform and “edge” tiers managing the devices themselves in addition to contextual rules, events, business state, multiple protocols, various data formats, supporting analytical models and storage — all through varied and dynamic networks. Traditional IT systems are not sufficient: Enterprise systems will need to be extended and enhanced to handle the volume, velocity and variety of data produced by IoT networks and the ability to trigger timely decisions against trusted data will need to be enabled at each level in the architecture.
+This represents an awful lot of potentially vulnerable technology moving an awful lot of potentially vulnerable data and an awful lot of complexity to manage. Never mind adding the notion that we will soon have devices “paying” each other for capabilities without human involvement, thus adding to the complexity of emerging IoT systems.
+Enter Blockchain
+The blockchain model based on cryptographically secured, immutable distributed ledger technology and consensus could enhance IoT frameworks with more automated resource optimization and innate security by providing:
+• A distributed system of record for sharing data across a network of key stakeholders.
+• Embedded business terms for automating interactions between nodes in the system.
+• Hash-based security, verification of identity and provenance authentication.
+• Consensus and agreement models for detecting bad actors and mitigating threats.
+With such features, a blockchain-enabled IoT deployment could improve overall system health and integrity by allowing devices to register and validate themselves against the network. Business logic could execute automatically via smart contracts . And with no central system to attack, threats like denial of service attacks could be inherently deterred at different layers in the architecture.
+Applying a blockchain model in an IoT network could solve a host of real-world digital business issues, including:
+• Analytical model tracking: Allow the system to record metadata and results about logic executed at the edge of the network for the purposes of regulatory compliance, and create an immutable history of why certain “decisions” were made during IoT processing.
+• Secure software updates: The ability to publish software updates as a URL on the blockchain, along with a cryptographic hash of the update which can be validated by blockchain-connected IoT devices during the process.
+• Payments and micropayments: Automated payments to business network participants based on sensor data (indicating, for example, service completion or product delivery), as well as micropayments between devices themselves in certain networks for functions and capabilities — all without human involvement.
+There’s No Such Thing As A Magic Bullet
+In spite of all this potential, applying blockchain to IoT is not a cure-all. Current performance and scalability limitations are incompatible with many IoT functions. External data must be incorporated via trusted “ oracles .”  A new type of blockchain platform supporting the volume of devices involved in an IoT deployment is needed, with capabilities that extend beyond today’s common models. What will likely emerge is a hybrid or polyglot architecture, with varying frameworks customized to utilize blockchain differently at IoT’s edge, platform and enterprise layers.
+But as businesses continue to grapple with core IoT complexity and security problems, it is becoming obvious that blockchain-based solutions have merit and bring real value to the table.
+Blockchain is not the answer to everything that ails IoT, but it can play a powerful role in solving some serious issues. It won’t save IoT, but it might just improve it.
+
+
+url: 
+https://www.forbes.com/sites/forbestechcouncil/2018/07/18/is-blockchain-the-way-to-save-iot/

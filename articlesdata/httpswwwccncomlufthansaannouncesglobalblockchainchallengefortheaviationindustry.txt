@@ -1,0 +1,38 @@
+date: 
+Exception in extractArticlePublishedDate for https://www.ccn.com/lufthansa-announces-global-blockchain-challenge-for-the-aviation-industry/
+
+summary: 
+ Leveraging Lufthansa's sizable R&d ecosystem and industry experience alongside SAP's extensive blockchain development experience and mentorship, the challenge will place the world's most promising blockchain entrepreneurs in front of key decision makers and give their businesses great publicity. "Blockchain is one of the game-changing technologies of our time, which we are systematically addressing as part of our digital strategy for the Lufthansa Group. We look forward to discussing innovative solutions and initiating experiments together with our partner SAP at the Aviation Blockchain Challenge. By combining our aviation industry expertise with the Blockchain technology of a world market leader, we are creating the ideal worldwide framework for addressing Blockchain entrepreneurs with an affinity for travel and mobility". The Blockchain Aviation Challenge is divided into three categories namely the Airline Challenge, the Traveler Challenge and the Supplier Challenge.
+
+full text: 
+Lufthansa Announces Global Blockchain Challenge for the Aviation Industry
+Advertisement
+Lufthansa Innovation Hub (LIH) and the SAP.iO Berlin Foundry have teamed up to launch the first ever Aviation Blockchain Challenge worldwide.
+Announced in a blog  recently, the challenge seeks to explore potential opportunities and drive adoption of Blockchain technology in the airline industry.
+The Challenge
+According to the reveal announcement, application of blockchain technology in finance currently dwarfs what is obtainable in the Travel and Mobility Tech scene. In order to change this, the challenge aims to attract the most talented blockchain entrepreneurs from all over the world and give them an enabling environment to create ideas and experiment with new ways of doing things.
+Leveraging Lufthansa’s sizable R&d ecosystem and industry experience alongside SAP’s extensive blockchain development experience and mentorship, the challenge will place the world’s most promising blockchain entrepreneurs in front of key decision makers and give their businesses great publicity.
+Explaining why the challenge was created, Thorsten Dirks, Eurowings CEO and Lufthansa Group board member said:
+“Blockchain is one of the game-changing technologies of our time, which we are systematically addressing as part of our digital strategy for the Lufthansa Group. We look forward to discussing innovative solutions and initiating experiments together with our partner SAP at the Aviation Blockchain Challenge. By combining our aviation industry expertise with the Blockchain technology of a world market leader, we are creating the ideal worldwide framework for addressing Blockchain entrepreneurs with an affinity for travel and mobility”
+On his part, Deepak Krishnamurthy, Chief Strategy Officer & Executive Vice President of SAP praised the partnership, describing it as a key part of “a new innovation ecosystem that can potentially transform the entire travel industry.”
+Challenge Categories
+The Blockchain Aviation Challenge is divided into three categories namely the Airline Challenge, the Traveler Challenge and the Supplier Challenge. The Airline Challenge aims to promote solutions that eliminate errors and increase accuracy in airline operations, for example through enhanced ease of data-sharing across department and organisation lines.
+The Traveler Challenge is for solutions that improve the passenger experience by making it more efficient and comfortable. It aims to identify ideeas that provide added value for passengers and make the overall transit experience more enjoyable and less complicated.
+The Supplier Challenge seeks to promote ideas that enhance transparency of supply chains and maintenance, which are central to the safe and reliable operations of airlines.Such ideas have the capacity to positively revolutionize parts of an airline’s maintenance and supply chain management.
+Challenge Timeline and Prizes
+The Blockchain Aviation Challenge kicks off with the ideas submission phase which ends on the 31st of August , 2018. The selection shortlist will be announced afterward, followed by mentoring and pitch preparation by SAP Blockchain specialists and LIH experts. The final pitch takes place at the Lufthansa Innovation Forum in front of senior management from Lufthansa Group and SAP.
+According to the announcement, prizes for the selected entries include:
+A Global stage for your idea incl. international press coverage and media awareness
+Potential pilot project with Lufthansa Group
+Professional mentoring for all shortlisted teams
+Possibility to pitch in front of senior management
+Coverage of travel expenses (up to 2500€ per team)
+Finalists can get access to Blockchain-as-a-Service from SAP in order to build or improve their MVP
+Office space for up to 3 months in the Berlin ecosystem
+LIH and SAP take zero equity
+Interested applicants can enter the aviation blockchain challenge  here .
+Featured image from Shutterstock.
+
+
+url: 
+https://www.ccn.com/lufthansa-announces-global-blockchain-challenge-for-the-aviation-industry/

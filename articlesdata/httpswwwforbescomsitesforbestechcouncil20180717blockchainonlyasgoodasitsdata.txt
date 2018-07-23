@@ -1,0 +1,36 @@
+date: 
+2018-07-17 11:15:00+00:00
+
+summary: 
+ Among them is that a blockchain is only as good as its data. As a distributed or shared ledger of transactions, blockchain is supposed to promote transparency of its data while being secure. I'm sure there will be some applications that blockchain will be perfect for, but when you're thinking about high volume transactions, like shipments, I don't think blockchain is a practical solution for it today.
+
+full text: 
+Forbes CommunityVoice Connecting expert communities to the Forbes audience. What is This?
+Blockchain: Only As Good As Its Data
+Post written by
+Shannon Vaillancourt
+President and Founder of RateLinx , transforming supply chain management by providing customized, integrated data services and consulting.
+Share to facebook
+Share to linkedin
+Shutterstock
+Blockchain has without a doubt created a lot of discussion as the next big thing, especially in supply chain. Before blockchain can become the next tech blockbuster, there are several hurdles to clear including making sure the applications make sense functionally and financially. Even so, conference speakers, consultants, academia and even state governments have joined the conversation, and many have jumped on the blockchain bandwagon. In the rush to define the promise of a “new, transformational technology,” several key factors are being overlooked. Among them is that a blockchain is only as good as its data.
+A Foundational Technology From The 1970s
+Blockchain is not “new,” nor is it a transformational technology. Often, Bitcoin cryptocurrency is credited as the first application of blockchain about a decade ago, but concepts of cryptography to facilitate transactions using computers can be traced back to the mid-1970s . It could not be widely used at the time because we did not yet have the computing power available in today’s computers or the distributed storage that the internet has made available. Blockchain is not a disruptive technology that will attack the current methods of transacting business. Instead, it is a foundational technology that will require time for applications to be built on the technology and adopted by the general public.
+Data Drives Blockchain Applications
+As a distributed or shared ledger of transactions, blockchain is supposed to promote transparency of its data while being secure. Each block added to the chain contains the sequential history of the transaction, so you have complete transparency as to what has happened. It is secure because the transactions don’t sit in one central spot where they can be manipulated. Once a data block is added to the chain, it cannot be changed. It is immutable.
+Having the ability to view the blocks in the chain to know exactly where a given product came from and how it got to its final destination could be very valuable. Without blockchain, each update to a product’s movement has the potential to erase the previous record. That’s how systems store data today. One record is kept with the latest status of a product and each time the status is updated, the record is overwritten. In the event the product’s history is incomplete, it can be difficult figuring out how you arrived at the given status. The most compelling aspect of blockchain is the transparency of the data. The challenge for logistics managers and providers is going to be integrating with the blockchain and providing clean, accurate data. Once the data is in the chain, it cannot be changed and transparency to inaccurate data is of little value.
+The Slippery Slope Of Speed And Size
+Another challenge with using blockchain effectively is speed and size. Adding a block to the chain takes minutes to do. The reality is that you can easily have a large amount of data chained together for every transaction, impacting processing. Key players in supply chain are currently working through proofs-of-concept for blockchain pilots and platforms. I’m sure there will be some applications that blockchain will be perfect for, but when you’re thinking about high volume transactions, like shipments, I don’t think blockchain is a practical solution for it today.
+Making The Business Case For Blockchain (Or Not)
+There are three main issues supply chain executives should consider when attempting to build the business case for a blockchain application.
+1. Expensive
+Blockchain requires a very different technology stack, which requires a different set of hardware and personnel to work with it.
+2. Compatibility
+Blockchain applications will have to be integrated to the current legacy systems. The cost of replacing your current systems along with the disruption that a project like that would cause is too overwhelming for almost any company.
+3. Fit
+Using blockchain to solve the right problem is going to be a challenge. I can see some companies implementing a blockchain application only to find out that it solved nothing and only added time and cost to their current process.
+For now, patience is the best course of action. Foundational technology takes time, and the right application will reveal itself. It will have to make sense financially and functionally and right now I just don't see it.
+
+
+url: 
+https://www.forbes.com/sites/forbestechcouncil/2018/07/17/blockchain-only-as-good-as-its-data/

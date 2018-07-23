@@ -1,0 +1,41 @@
+date: 
+2018-07-22 08:09:28-04:00
+
+summary: 
+ As one of the largest holdings within Invesco QQQ, Microsoft is positioning itself to be a provider of blockchain solutions for its clients. Nasdaq, the index provider for Invesco QQQ, is using blockchain to enhance its own exchange as well as other exchanges that implement Nasdaq software. Investors wishing to increase their exposure to companies implementing blockchain solutions may wish to consider Invesco QQQ, an exchange-traded fund that tracks the Nasdaq-100 Index and includes many of the world's largest technology companies.
+
+full text: 
+Why All Investors Should Have Exposure To The Blockchain (QQQ)
+Share This Article
+July 22, 2018 8:09am NASDAQ:QQQ
+From Invesco : Over the past year, it’s been next to impossible to avoid a conversation or news story on bitcoin.
+It went from a relatively arcane subject to possibly the most discussed topic within financial markets across both Wall Street and Main Street. (It certainly didn’t hurt that 2017 bitcoin returns were over 1,300%1). Now, after about a year of (perhaps) irrational  bitcoin exuberance  (and the 2018 reversal of more than half its gains from last year1), many are looking at the underlying technology as the true game-changer. While it is unlikely that bitcoin or other cryptocurrencies will soon upend how we all transact, I believe that blockchain has the potential to reshape the global economy as we know it.
+Blockchain — defined
+Many people confuse cryptocurrencies with blockchain. In reality, the two terms are related but cannot be used interchangeably. As an example, blockchain is to cryptocurrency as the internet is to email. Cryptocurrencies are just one example of how blockchain can be used, just as the internet allows for more than email.
+In its simplest definition, blockchain is merely a decentralized, distributed digital system that records transactions in a secure, verifiable and permanent manner. When thinking about the application of this technology more broadly, industries that place an importance on transacting with efficiency and certainty could benefit. Given the vast number of financial transactions conducted every day (more than 1.5 billion2) across the world economy, it becomes clear how impactful blockchain could be — consider these potential benefits:
+Lower costs. Third-party intermediaries typically act as central hubs and are trusted to be the broker of assets or information. Once these third parties are removed, direct interaction between the two remaining parties is possible, likely leading to cost savings.
+Enhanced risk mitigation. Blockchain’s distributed network and transparency reduces the threat of fraud, hacking and data manipulation. With no information being siloed, the likelihood of errors or intentional changes is minimized.
+Increased efficiency. Transactions can be overly complex, with each participant keeping their own separate records (manual, paper intensive, etc.). By using a single, trusted system, transactions can be completed more quickly and efficiently.
+Bringing down the house
+One example of where blockchain technology could dramatically enhance a common transaction (one that many people can relate to), is buying a home. The process is slow, tedious, laden with mounds of duplicative paperwork and seemingly fragmented. While fraud is unlikely, its effects could be devastating given the large amounts of money involved.
+Operating on a single platform that all parties could trust and verify could make the home-buying process much more streamlined, efficient and safer — after all, it’s not just the buyer and seller who are involved, but also banks, local governments, insurers, agents, inspectors, appraisers and title companies. Each of these players has a distinct role and each requires their own verification. It’s possible that introducing blockchain into the home-buying process could eliminate some of the steps, or at the very least, make them radically more efficient. In addition, the decentralized structure of blockchain reduces the possibility of fraud because information is spread across a network. With no central administrator there is no single point of attack for hackers. Also, once agreed to by the network, transactions in the chain cannot be deleted or changed.
+Gaining investment exposure to blockchain
+As one of the largest holdings within  Invesco QQQ , Microsoft is positioning itself to be a provider of blockchain solutions for its clients (9.50% of the fund as of June 30, 2018). Nasdaq, the index provider for Invesco QQQ, is using blockchain to enhance its own exchange as well as other exchanges that implement Nasdaq software. When seeking to identify where blockchain could potentially increase efficiency, some common processes immediately come to mind. These include anytime assets are transferred in some form (physical, monetary or digital), the managing of cross-organizational workflows and anywhere there is a need for verification or audit. As such, blockchain has the potential to impact retail, industrial supply chains, insurance, capital markets, health care and the government.
+Investors wishing to increase their exposure to companies implementing blockchain solutions may wish to consider  Invesco QQQ,  an exchange-traded fund that tracks the Nasdaq-100 Index and includes many of the world’s largest technology companies.
+Recently, I participated in a webcast for financial professionals about this important topic. To learn more, visit “ Blockchain: What it is & implications for investors .”
+1 Source: Businessinsider.com, the bitcoin closing price on Dec. 31, 2016 was $958.24 and at 6 p.m. on Dec.31, 2017 it was $14,129. At the close on July 16, 2018 it was $6,728.
+2 Source: Capgemini and BNP Paribas, World Payments Report 2017
+Important information
+Bitcoin is a digital currency (also called cryptocurrency) that is not backed by any country’s central bank or government. Bitcoins can be traded for goods or services with vendors who accept Bitcoins as payment.
+Cryptocurrencies are digital currencies (such as bitcoin) that use cryptography for security and are not controlled by a central authority, such as a central bank.
+The Nasdaq-100 Index includes 100 of the largest domestic and international non-financial securities listed on the NASDAQ Stock Market based on market capitalization. An investment cannot be made into an index.
+Bitcoin are considered a highly speculative investment due to their lack of guaranteed value and limited track record. Because of their digital nature, they pose risk from hackers, malware, fraud, and operational glitches. Bitcoin are not legal tender and are operated by a decentralized authority, unlike government-issued currencies. Bitcoin exchanges and Bitcoin accounts are not backed or insured by any type of federal or government program or bank.
+There are risks involved with investing in ETFs, including possible loss of money. Shares are not actively managed and are subject to risks similar to those of stocks, including those regarding short selling and margin maintenance requirements. Ordinary brokerage commissions apply. The fund’s return may not match the return of the underlying index. The fund is subject to certain other risks. Please see the current prospectus for more information regarding the risk associated with an investment in the fund.
+Shares are not individually redeemable and owners of the Shares may acquire those Shares from the Funds and tender those shares for redemption to the Funds in Creation Unit aggregations only, typically consisting of 50,000, 75,000, 80,000, 100,000 150,000, or 200,000 shares.
+The Invesco QQQ ( QQQ ) closed at $178.99 on Friday, down $-0.04 (-0.02%). Year-to-date, QQQ has gained 15.10%, versus a 5.22% rise in the benchmark S&P 500 index during the same period.
+QQQ currently has an ETF Daily News SMART Grade of A (Strong Buy), and is ranked #1 of 38 ETFs in the Large Cap Growth ETFs category.
+This article is brought to you courtesy of Invesco .
+
+
+url: 
+https://etfdailynews.com/2018/07/22/why-all-investors-should-have-exposure-to-the-blockchain-qqq/

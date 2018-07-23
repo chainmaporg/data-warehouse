@@ -1,0 +1,28 @@
+date: 
+2018-07-22 12:37:38+04:00
+
+summary: 
+ Beginning in 2016 with the Global Blockchain Council and the Dubai Blockchain Strategy, then the Dubai Paperless Strategy announced this February, and followed by the April announcement of the Emirates Blockchain Strategy, the UAE Government has repeatedly demonstrated an open and eager embrace of blockchain. With two years to go to build an international, interoperable blockchain platform, the UAE may have just found the perfect prototyping partner in China. With a shared commitment to innovative partnerships and a successful track record for collaboration, China and the UAE have a tailor-made opportunity to research a new model for interoperability the might just push blockchain into the mainstream once and for all.
+
+full text: 
+LARGE
+The UAE and China share a passion for technology. Under President Xi Jinping’s leadership, China is implementing an innovation-driven development strategy that has western nations scrambling. Likewise, the UAE is investing in ecosystems and disruptive technologies in a bid to become the Arab Silicon Valley.
+But there is one technology domain where the two nations have not seen eye to eye until now — blockchain.
+Beginning in 2016 with the Global Blockchain Council and the Dubai Blockchain Strategy, then the Dubai Paperless Strategy announced this February, and followed by the April announcement of the Emirates Blockchain Strategy, the UAE Government has repeatedly demonstrated an open and eager embrace of blockchain.
+China’s relationship with the technology has been less clear-cut. Chinese officials issued a ban on fund-raising through Initial Coin Offerings (ICOs) in September 2017. This January, the Chinese central bank cracked down on Bitcoin mining operations and urged local governments to regulate miners’ electricity usage. Starting in February, the central bank began shuttering cryptocurrency exchanges.
+The campaign has contributed to a $340 billion (Dh1.25 trillion) decline in the global Bitcoin market since January.
+But the Chinese government’s attitude toward blockchain has warmed in recent months. In May, President Xi remarked that blockchain had “breakthrough applications”, and called on his country to take the lead in developing the technology. A week later, Chinese state TV aired an hour-long documentary on blockchain, declaring that “the value of blockchain is 10 times that of the internet”.
+Analysts predict that Chinese officials are setting the stage for a new blockchain strategy. If so, then China will soon join the UAE in shifting all applicable government transactions to local and federal blockchains. Given China’s influence on the blockchain industry, such a move is likely to have a profound impact on the trajectory of the evolving technology.
+With a two-year head start on blockchain development for the public sector, the UAE’s blockchain pioneers will be able to share valuable lessons with their Chinese counterparts. But China’s blockchains will do little to advance the UAE’s own ambitions.
+In fact, the different blockchains might not be able to interact with each other at all.
+Blockchain uses distributed databases and cryptographic protocols to allow any two parties in a network to transact with each other, near-instantaneously, without the need for an intermediary. But data stored in one blockchain network is not easily transferable to another network.
+Interconnectivity between blockchains is a recurring problem and a hindrance to blockchain’s scalability and adoption. It is like having a smartphone, but not being able to connect with anyone outside your carrier network. Addressing the interoperability challenge will be crucial to wide-scale adoption of blockchain technology.
+For government blockchains, which must adhere to local and federal law as well as individual platform protocols, the challenge of interoperability grows even more nuanced — and more critical. We often warn clients that a blockchain for a single organisation is no more than a glorified Excel sheet.
+The same is true for nations. Government blockchains should allow multiple entities to participate on a single network. But the really exciting stuff, like contactless international travel, only happens when countries participate on interoperable, distributed networks.
+Expo 2020 is just around the corner. Dubai will be pulling out all the stops to give visitors a taste of the future, and blockchain is sure to feature prominently. With two years to go to build an international, interoperable blockchain platform, the UAE may have just found the perfect prototyping partner in China.
+With a shared commitment to innovative partnerships and a successful track record for collaboration, China and the UAE have a tailor-made opportunity to research a new model for interoperability the might just push blockchain into the mainstream once and for all.
+— Mary Ames is adviser for Strategy at Xische & Co.
+
+
+url: 
+https://gulfnews.com/business/analysis/china-uae-can-connect-on-blockchain-future-1.2255068

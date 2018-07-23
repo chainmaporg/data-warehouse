@@ -1,0 +1,30 @@
+date: 
+Exception in extractArticlePublishedDate for https://cryptodisrupt.com/italian-university-issues-digital-blockchain-degree-certificates/
+
+summary: 
+ We were given an indication of just how far blockchain technology has come when the Italian University of Cagliari announced that it intends to issue digital blockchain degree certificates to the graduating class of this year. MIT has begun to issue blockchain degree certificates to graduates of their Computer Science course already, allowing those students who graduate to enjoy the benefits that a secure, digitized degree provides. Over the coming years, we'll see more uses for blockchain technology in sectors across the board, but I think we'll see more and more Universities look to combat false qualifications and help students authenticate their hard-earned degrees by way of blockchain degree certificates.
+
+full text: 
+Italian University Issues Digital Blockchain Degree Certificates
+By
+-
+July 22, 2018
+We were given an indication of just how far blockchain technology has come when the Italian University of Cagliari announced that it intends to issue digital blockchain degree certificates to the graduating class of this year.
+The effects that blockchain technology can have on the education sector, in particular, are significant, to say the least.
+False degrees are more prominent than most would think
+The problems caused by people trying to use false degrees, be they simply made up and added to their resumes, or purchased from a 3rd party have a significant effect on the employment market, with thousands thought to be trying to dupe prospective employers.
+Of great concern is that many of these potential employees with false documents are trying to enter fields such as healthcare, with reports of nurses, anesthetists and even doctors having been caught out attempting to dupe employers.
+A former FBI agent in the US who has experience of investigating the companies who provide fake documents said –
+“Employers are not doing their due diligence in checking out the papers, so it makes it work. It’s the damnedest thing we’ve ever seen.”
+It has been reported that at the moment only a fifth of employers actually carries out checks on applicants qualifications, for a whole host of reasons.
+With a blockchain degree certificate, many of these problems are instantly removed, because the information is public, easy to find, and cannot be changed.
+This would allow any employer looking over a prospective employees resume to verify that the person they’re considering hiring was awarded the degree that they claim they have.
+MIT issuing blockchain degree certificates
+As with many blockchain technologies, it isn’t very long before you see the use being adapted and adopted all over the planet, and that is indeed the case with blockchain degrees and other academic certificates.
+MIT has begun to issue blockchain degree certificates to graduates of their Computer Science course already, allowing those students who graduate to enjoy the benefits that a secure, digitized degree provides.
+As far away as India , we see educational establishments look to capitalize on the technology as the Indian Institute of Technology, which is run by India’s federal government, is set to launch its own blockchain project titled IndiaChain, which will first roll out in their Bombay campus.
+Over the coming years, we’ll see more uses for blockchain technology in sectors across the board, but I think we’ll see more and more Universities look to combat false qualifications and help students authenticate their hard-earned degrees by way of blockchain degree certificates.
+
+
+url: 
+https://cryptodisrupt.com/italian-university-issues-digital-blockchain-degree-certificates/

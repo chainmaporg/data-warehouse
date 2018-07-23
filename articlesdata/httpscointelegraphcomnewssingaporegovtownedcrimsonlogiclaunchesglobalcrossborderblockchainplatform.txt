@@ -1,0 +1,24 @@
+date: 
+2018-07-19 15:23:00+01:00
+
+summary: 
+ Singapore e-government service provider CrimsonLogic has unveiled its cross-border blockchain network for global trade, according to a July 18 press release. According to Eugene Wong, the chairman of CrimsonLogic and its subsidiary, GeTS, which will operate the platform, blockchain tech can "Help create greater trust amongst cross-border traders," adding. The move marks a further venture into the blockchain revolution for Singapore, CrimsonLogic being owned by a city-state governmental authority and port operator.
+
+full text: 
+William Suberg
+Singapore: Gov’t Owned CrimsonLogic Launches Global Cross-Border Blockchain Platform
+A Singapore blockchain platform is targeting the Southeast Asian and China regions, designed to boost the efficiency of its trade corridors.
+10719 Total views
+275 Total shares
+News
+Singapore e-government service provider CrimsonLogic has unveiled its cross-border blockchain network for global trade, according to a July 18 press release .
+Dubbed the Open Trade Blockchain (OTB), the platform is principally designed to boost the efficiency of trade corridors between China and the Association of Southeast Asian Nations (ASEAN) nations.
+Various operators have already signed up to join OTB, including the China-ASEAN Information Harbor Co., TIFFA Group, and Singapore’s Commodities Intelligence Centre.
+According to Eugene Wong, the chairman of CrimsonLogic and its subsidiary, GeTS, which will operate the platform, blockchain tech can “help create greater trust amongst cross-border traders,” adding
+“Trade volume between ASEAN and China would become the single largest transaction between two regions and we hope to facilitate this.”
+The move marks a further venture into the blockchain revolution for Singapore, CrimsonLogic being owned by a city-state governmental authority and port operator.
+In April, a meeting of ASEAN nations saw Singapore pledge wide-reaching support for blockchain throughout the area, with finance minister Heng See Keat noting that distributed ledger tech can “promote financial inclusion for underserved and underbanked segments in ASEAN.”
+
+
+url: 
+https://cointelegraph.com/news/singapore-gov-t-owned-crimsonlogic-launches-global-cross-border-blockchain-platform

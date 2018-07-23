@@ -1,0 +1,23 @@
+date: 
+2018-07-21 18:00:00+01:00
+
+summary: 
+ The Liverpool City Council announced it will be using blockchain tech to mitigate the city's climate impact, local news outlet edie.net reported July 19. A tweet from the LCC explains that the effort to reduce the city's climate impact is a bid to become the "World's first climate-positive city by 2020." The LCC will partner with the Poseidon Foundation to conduct a year-long trial of a blockchain platform that will facilitate the security and exchange of tokenized carbon credits with the goal of offsetting the city's climate impact by more than 110 percent. The Mayor of Liverpool Joe Anderson said that Poseidon's technology "Is the first of its kind to truly deliver a solution to governments, businesses and individuals around the world to help reverse the causes of climate change and I am thrilled this agreement will bring this cutting-edge technology to our city."
+
+full text: 
+Maxwell William
+Liverpool Aims to Become ‘World’s First Climate-Positive City’ Using Blockchain Tech
+The city of Liverpool will utilize blockchain tech to cut carbon impact by 40% in the city by 2030.
+22353 Total views
+518 Total shares
+News
+The Liverpool City Council (LCC) announced it will be using blockchain tech to mitigate the city’s climate impact, local news outlet edie.net reported July 19.
+A tweet from the LCC explains that the effort to reduce the city’s climate impact is a bid to become the “world’s first climate-positive city by 2020.” The LCC will partner with the Poseidon Foundation to conduct a year-long trial of a blockchain platform that will facilitate the security and exchange of tokenized carbon credits with the goal of offsetting the city’s climate impact by more than 110 percent.
+On its way to a 110 percent offset, edie.net reports that the LCC has the benchmarks of reducing the city’s climate impact 40 percent by 2030 and is already installing 15,000 energy-saving LED streetlights across 2,000 streets in order to reduce streetlight energy consumption by 82 percent. The city also has a history of taking action against carbon emissions, having cut out more than 558,000 tons since 2012.
+The Mayor of Liverpool Joe Anderson said that Poseidon’s technology “is the first of its kind to truly deliver a solution to governments, businesses and individuals around the world to help reverse the causes of climate change and I am thrilled this agreement will bring this cutting-edge technology to our city."
+The Poseidon Foundation is a Malta-based nonprofit that, according to their white paper , “uses blockchain technology that introduces transparency and traceability to make and track an impact where it matters most – forest conservation.” The organization has already completed a successful test of their platform in partnership with ice cream producer Ben & Jerry’s.
+Liverpool is no stranger to blockchain and the crypto industry. As Cointelegraph reported last year, local independent business advocates Independent Liverpool partnered with Tel-Aviv-based blockchain startup Colu to launch a local digital currency for both UK residents and foreign travelers to use.
+
+
+url: 
+https://cointelegraph.com/news/liverpool-aims-to-become-world-s-first-climate-positive-city-using-blockchain-tech

@@ -1,0 +1,38 @@
+date: 
+2018-07-18 11:22:53
+
+summary: 
+ The small European island of Malta is becoming a blockchain hub. Malta believes the island can become a haven for cryptocurrencies like Bitcoin - the most well-known application of ledger technologies - but it also believes blockchain can help transform the country's transportation and education systems. "Malta has accepted the fact that blockchain technology and cryptocurrencies are inevitably going to become more popular," said Joseph Borg, head of blockchain advisory at the WH Partners legal firm.
+
+full text: 
+Malta wants to become 'Blockchain Island'
+by Talib Visram   @CNNMoney July 18, 2018: 1:21 PM ET
+What is blockchain?
+The small European island of Malta is becoming a blockchain hub.
+Striving to turn the Mediterranean nation into "Blockchain Island," the government is opening its doors to blockchain and other so-called distributed ledger technologies.
+These technologies allow transactions to quickly be carried out between people without interference or control by third parties. Blockchain promises to improve security and reduces transaction costs.
+Malta believes the island can become a haven for cryptocurrencies like Bitcoin -- the most well-known application of ledger technologies -- but it also believes blockchain can help transform the country's transportation and education systems.
+Legislative action
+On July 4, the Maltese parliament passed three bills to set a regulatory framework and drive innovation in blockchain-like technologies. The government hopes these laws will attract foreign financial tech companies to establish themselves in the country.
+The legislative win made Malta "the first world jurisdiction to provide legal certainty to this space," the Maltese junior minister for financial services, digital economy and innovation, Silvio Schrembi, said in a tweet.
+Analysts say the move shows Malta's trailblazing approach to blockchain.
+"Malta has accepted the fact that blockchain technology and cryptocurrencies are inevitably going to become more popular," said Joseph Borg, head of blockchain advisory at the WH Partners legal firm. "By taking this step, Malta is destined to become a hub for innovative technology startups and established blockchain-based businesses to thrive, while creating economic growth on the island."
+Within the European Union, Malta is ahead of the curve in establishing a legislative framework for blockchain, though it's not the first European nation to embrace it. Lithuania is also becoming a cryptocurrency hub, and Estonia was close to introducing a national digital currency called Estcoin. Outside of the EU, Switzerland has designated its canton of Zug as a "Crypto Valley."
+Broader application of blockchain
+But Borg said the difference lies in the approach. Although other countries are focusing on cryptocurrencies, Malta's attention is on the blockchain technology itself and its wider application.
+"Blockchain technology is a key part of our overall national technology strategy that will see us transform different sectors across government," said the Maltese minister for transportation.
+In May, the government announced a partnership with a British blockchain platform, Omnitude , to improve the island's public transportation network.
+Since 2017, it's been collaborating with Learning Machine Technologies on a pilot program to allow Maltese higher-education and vocational students to access and retrieve educational transcripts and records using blockchain technology.
+And the country knows there's yet more potential in other sectors. In an official regulation , the office of the prime minister said blockchain could be used for voting on smartphones and protecting the privacy of health care information.
+Related: What is blockchain?
+Welcoming fintech
+The innovative drive has made the island appealing for fintech companies, as well. Binance, the world's largest cryptocurrency exchange, recently moved its headquarters from Hong Kong to Malta, following regulatory obstacles in the Far East.
+And plans are currently underway for Malta to be the home of the world's first decentralized bank. Founders Bank won't have any central authority. Instead, it will be community-owned by all its customers. Binance is backing the bank, serving as one of its first investors.
+Joseph Borg said that it's too early to tell whether this pioneering venture will be successful. But he's optimistic.
+"If successfully implemented, the concept will certainly enhance the blockchain ecosystem within the Maltese jurisdiction."
+CNNMoney (New York) First published July 18, 2018: 11:22 AM ET
+Personal Finance
+
+
+url: 
+https://money.cnn.com/2018/07/18/technology/startups/malta-blockchain/index.html
