@@ -1,0 +1,31 @@
+title: 
+How blockchain and technology are digitizing the first mile â€” FreightWaves
+
+date: 
+2018-07-25 00:00:00
+
+summary: 
+,"sm_api_message":"THE PAGE IS TOO LONG TO RETRIEVE"}
+
+full text: 
+/ Maria Baker
+(Image: Shutterstock)
+According to CB Insights , “the maritime shipping industry accounts for 90% of global trade and is only now beginning to leverage technology. This shift could have far-reaching impact on retailers, consumer goods companies, manufacturers, and more.”
+With this important industry in mind, CB Insights hosted a July 24 webinar to “explore how shipping companies and global ports are utilizing automation and blockchain technology to revolutionize the shipping industry,” taking a look at various aspects of the supply chain along the way.
+Natan Reddy, an intelligence analyst at CB Insights who specializes in retail, supply chain, logistics, and ecommerce, led the conversation on innovation in the realm of maritime shipping.
+“While people often talk about technology and last mile delivery, we don’t often talk about the first mile, which is another word for the global trade supply chain, which transports goods from manufacturers and growers to businesses around the globe,” Reddy explained.
+This webinar, while touching on trends in maritime shipping, also reiterated the importance of ocean shipping innovation. “Over 90% of goods in the world that are shipped internationally are shipped by ocean,” Reddy noted, acknowledging the broader supply chain that includes manufacturers, warehouses, freight forwarders.
+“A major issue in maritime shipping—and in the global supply chain—is a lack of general visibility for those looking to ship,” citing the 2016 Hanjin collapse in which “many of their ships were shut out of various ports around the world, causing thousands of containers of cargo to be stranded at sea.”
+Reddy noticed an uptick in maritime innovation news media mentions in 2016, attributing the “greater attention to maritime innovation and the real necessity for visibility in the space”  to the disruption caused by Hanjin.
+“Beyond a lack of visibility, there are issues surrounding cyber security as well as general supply chain management and flexibility given recent tariff developments that have taken place. Over the last few years, we’ve actually seen an increase in news and media buzz surrounding maritime supply chain and innovation,” according to Reddy.
+Reddy drew attention to three major trends that have rippled across the industry, particularly from start-ups in the field: an increase in visibility, connectivity, and automation, “helping supply chain players gain better oversight and understanding of their operations.”
+In reference to the rise in blockchain technology, Reddy noted the importance of standardization. “If blockchain is going to be successful in shipping, everyone will have to be on the same platform, or the platforms that are being developed will need to be interoperable” Reddy stated. “If that is achieved, we could see an increase in the efficiency of global trade, a decrease in fraud, and an improvement in the overall tracking and transparency of goods.”
+Autonomous shipping has also become an important aspect of the supply chain. As Reddy said, “While full autonomous shipping might be further out, we are seeing startups taking baby steps in that direction.” Reddy counts “greater operational safety of ships, a reduction in overhead costs, and energy efficiency” among the benefits of autonomous shipping.
+Reddy also pointed to ports for their history of being “a driving force behind automation and technology integration in maritime shipping,” specifically discussing the Port of Rotterdam, “which has automated much of its operations already,” as FreightWaves’ Craig Fuller covered in June.
+As the webinar concluded, CB Insights presented their findings on the effects of maritime shipping and supply chain innovation, ranging from near-term to long-term impacts in port automation, freight booking digitalization, fuel efficiency technology, blockchain shipping, and autonomous shipping. Benefits include port efficiency that “helps cut down on delays for truckers” and blockchain standardization that could help “all players involved in shipping goods save money on paperwork, decrease shipping delays, and avoiding fraud.”
+Stay up-to-date with the latest commentary and insights on FreightTech and the impact to the markets by subscribing.
+Featured
+
+
+url: 
+https://www.freightwaves.com/news/how-blockchain-and-technology-are-digitizing-the-first-mile

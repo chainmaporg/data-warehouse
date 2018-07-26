@@ -1,0 +1,37 @@
+title: 
+CFTC Chair Says Regulator Is &#039;Behind&#039; on Blockchain - CoinDesk
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/cftc-chair-says-regulator-is-behind-on-blockchain/
+
+summary: 
+ He noted that the regulator is hamstrung in certain ways - for example, Giancarlo said that the CFTC can't operate a node on a blockchain operated by a banking consortium - despite being invited to by those institutions - because the sharing of information and data is considered a gift and therefore is something the CFTC can't accept. I feel we're four years behind because we do need to test it, we do need to understand it so we can do a better job as regulator before I then come to Congress and say we need money to to build something. The ironic part, Rep. Michael Conaway quipped, is that the CFTC does have legal authority to demand information after the blockchain is launched, but current laws prevent the regulator from looking at the information prior to that point.
+
+full text: 
+CFTC Chair Says Regulator Is 'Behind' on Blockchain
+NEWS
+Nikhilesh De
+Jul 25, 2018 at 18:00 UTC
+The head of the U.S. Commodity Futures Trading Commission (CFTC) told Congress on Wednesday that the agency is "falling behind" on the subject of blockchain compared to other countries.
+Chairman J. Christopher Giancarlo was speaking before the House Committee on Agriculture, addressing questions about the agency's performance and future agenda. It was during that time that the chairman fielded a question about blockchain.
+He noted that the regulator is hamstrung in certain ways – for example, Giancarlo said that the CFTC can't operate a node on a blockchain operated by a banking consortium – despite being invited to by those institutions – because the sharing of information and data is considered a gift and therefore is something the CFTC can't accept.
+Similarly, the CFTC cannot purchase or rent the ability to run a node because it would require an appropriations bill through Congress. As a result, he said, "by the time we go through all that, this thing is already launched."
+Instead, he advocated for a bill introduced by Rep. Austin Scott which would grant the regulator the ability to accept shared data – something that would give the CFTC a leg-up on the topic.
+"We're falling behind. Just two days ago the Bank of England announced that they're putting in a new bank-to-bank payment system in the UK and it's going to be blockchain-complaint," Giancarlo said during the hearing.
+He went on to explain:
+"[The Bank of England has] had the last four years ... to participate in all these blockchain beta tests that we have not been able to participate in and they've been able to get comfortable with the technology and now they're incorporating it. I feel we're four years behind because we do need to test it, we do need to understand it so we can do a better job as regulator before I then come to Congress and say we need money to to build something."
+The ironic part, Rep. Michael Conaway quipped, is that the CFTC does have legal authority to demand information after the blockchain is launched, but current laws prevent the regulator from looking at the information prior to that point.
+Giancarlo agreed, saying "we do have subpoena authority [but] that's probably the wrong way to get involved."
+Eye on the market
+Giancarlo also addressed the regulator's ability to oversee cryptocurrencies specifically, noting that the regulator is limited to commodities and futures contracts, as well as fraud and manipulation.
+That being said, he added, "the amount of ink that's devoted to [cryptocurrency] far outweighs their real role in the economy."
+He explained that the total market capitalization of all cryptocurrencies "is probably less than one publicly traded company," adding:
+"The best model I like to point to in the 1990s when a Democrat White House and a Republican Congress worked together around this thing called the internet and took a 'first-do-no-harm' approach. Regulation came slowly and let the technology evolve."
+"I think we need to stay close to it, we need to be careful, but I think we can let it develop a little bit before we run in with regulation," he concluded.
+Christopher Giancarlo image via House Committee on Agriculture
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+This article is intended as a news item to inform our readers of various events and developments that affect, or that might in the future affect, the value of the cryptocurrency described above. The information contained herein is not intended to provide, and it does not provide, sufficient information to form the basis for an investment decision, and you should not rely on this information for that purpose. The information presented herein is accurate only as of its date, and it was not prepared by a research analyst or other investment professional. You should seek additional information regarding the merits and risks of investing in any cryptocurrency before deciding to purchase or sell any such instruments.
+
+
+url: 
+https://www.coindesk.com/cftc-chair-says-regulator-is-behind-on-blockchain/

@@ -1,0 +1,59 @@
+title: 
+Can't extract title
+
+date: 
+2018-07-24 10:53:21-04:00
+
+summary: 
+ "We recognize the significant role that advertising can play in a newsroom's revenue model. We're not looking to create an additional hurdle by banning ads outright. Newsrooms will need to be transparent about advertisers, and recognize that their ability to publish on Civil can be challenged if there's ever a credible case that advertisers are influencing their editorial process," the Civil team wrote in an email. More centrally, citizens can also use tokens to challenge a newsroom they find in gross violation of Civil's constitution, which is built upon standard journalism ethics and prohibits things like hate speech, misinformation promotion and plagiarism. If a citizen notices a newsroom in violation of Civil's constitution, he or she can stake tokens to challenge that newsroom.
+
+full text: 
+Here's what that start-up using blockchain to save journalism is actually doing
+Blockchain-based media start-up Civil Media is launching its cryptocurrency CVL on Aug. 13.
+The company looks to sell a maximum of $34 million in CVL tokens, which will be valued at 27 to 94 cents each.
+Published 10:53  AM ET Tue, 24 July 2018
+Updated  11:29  AM ET Tue, 24 July 2018
+CNBC.com
+Adam Jeffery | CNBC
+Joseph Lubin, co-founder of Ethereum.
+A start-up called Civil Media has an ambitious plan to save journalism using blockchain technology and cryptoeconomics.
+After assembling 13 start-up newsrooms to kick things off, Civil announced last week it will launch its cryptocurrency on Aug. 13, followed by its blockchain-based publishing protocol about a week later.
+The company used a lot of buzzwords in its announcement, like calling itself a "protocol" for journalism and saying it valued "decentralization."
+But between the buzzwords, what is the company actually trying to do?
+We talked to the company and think we figured it out.
+The problem with journalism, according to Civil, is that reporters are compromised by working for companies that value returns to shareholders over the relentless pursuit of truth. Ad-based business models drive reporters to generate shallow content to generate page views, while threats from advertisers or wealthy people threatening lawsuits can cause publishers to alter or remove controversial stories.
+Civil believes that one way to restore alignment between reporters and readers is to let readers buy the right to "vote" on whether a newsroom represents fair, quality journalism or not. The only way newsrooms can be challenged is if a majority of involved readers agree.
+The currency used in this process: Civil's cryptocurrency, CVL, which will be based on the Ethereum blockchain.
+"The single most significant aspect of why we are applying blockchain and the cryptoeconomic model to what we are trying to do is because we think it has the potential trying to flip the system on its head and create an environment in which journalists can truly be beholden to their readers above all else, not to a company with shareholders and ... a fiduciary responsibility to maximize profits,” co-founder Matt Coolidge said.
+Challenging the news
+Civil is a platform, not a publisher, Coolidge emphasized. In that respect, it’s more like Facebook or Twitter than The Washington Post.
+Right now, 13 fledgling newsrooms have signed up to be on the platform, including the Colorado Sun, a local investigative newsroom staffed by former Denver Post reporters , and Documented , which covers immigrants and immigration policy in New York City.
+show chapters
+10:18  PM ET Sun,  6 May 2018 |  04:46
+Beginning Aug. 13, Civil will have an initial coin offering, selling up $32 million worth of its cryptocurrency tokens, CVL, valued at 27 to 94 cents each. There will be a fixed number of tokens.
+The company prefers to call the ICO a “token launch,” because it's meant for people who want to participate in the platform rather than for speculators. To weed out people just trying to cash in, interested buyers are required to register, answer and pass a questionnaire and be approved. Then, they must demonstrate "proof of use" to ensure tokens are being used as intended.
+People won't have to use CVL tokens just to read the news — each newsroom will be a free-standing organization with conventional revenue streams, like subscription models and donations. Advertising-based revenue models are not banned, but Civil newsrooms will have to be transparent about their advertisers.
+"We recognize the significant role that advertising can play in a newsroom’s revenue model. We’re not looking to create an additional hurdle by banning ads outright. Newsrooms will, however, need to be transparent about advertisers, and recognize that their ability to publish on Civil can be challenged if there’s ever a credible case that advertisers are influencing their editorial process," the Civil team wrote in an email.
+Instead, the CVL tokens are meant to distribute the accountability for producing quality journalism among a large number of stakeholders interested in journalism, rather than a narrow group of business owners interested only in profits. The tokens give stakeholders, known as citizens, the power to launch their own newsrooms on the platform, and to reward quality journalism by buying memberships to particular publications (although traditional currency can also be used for that).
+More centrally, citizens can also use tokens to challenge a newsroom they find in gross violation of Civil's constitution, which is built upon standard journalism ethics and prohibits things like hate speech, misinformation promotion and plagiarism.
+“If you are committing a gross violation of these things, you have an incentivized audience ready to challenge a newsroom,” Coolidge said.
+If a citizen notices a newsroom in violation of Civil's constitution, he or she can stake tokens to challenge that newsroom. The stake is high, about $1,000, to dissuade citizens from challenging a newsroom based on typos and other minor mistakes.
+Once a newsroom has been challenged, other citizens can then use tokens to vote on the issue. If the violation is determined to be valid, the newsroom must surrender the amount staked by the challenger, who then keeps half. Those who weigh in with their votes also get a token payout, thus giving citizens a financial incentive weigh in on the quality of the journalism they consume.
+“We are using cryptoeconomics — cryptoeconomic games — to create a dynamic of incentives and dissuasion to facilitate good actors,” Civil co-founder Lillian Ruiz said.
+Civil acknowledges the opinion of the masses is not infallible. In the case of a malicious attack or mob rule, token holders, journalists or newsrooms can appeal to a third party arbiter, known as the Civil Council. The Council is made up of notable journalists, including the Tow Center's Emily Bell, Rappler CEO Maria Ressa, former Wikimedia Foundation director Sue Gardner, Columbia University professor Raju Narisetti and Ellen Goodman, professor of Law at Rutgers University.
+If a newsroom violates the constitution, it will be excluded from the Civil Registry, a list of trustworthy news organizations.
+Why blockchain?
+So why does this process have to involve the blockchain and a new type of cryptocurrency? If people are simply buying the right to launch new publications and challenge stories, why not use a more traditional method, like making Civil a company and selling shares?
+The main reason, according to Civil's website, is to let publications store articles in a secure database, where they cannot be altered unless a voting majority of Civil citizens agree. In theory, this should make it hard for outsiders to interfere with articles for business reasons — it would be technically impossible for an angry billionaire to scrub critical stories from the internet without getting the majority of Civil voters to agree.
+In theory, it could be possible for a group of rich malefactors to buy up a controlling stake of Civil tokens just like they could buy up any other type of asset. But the Civil team argues that the Civil Council, and its the nonprofit overseeing it, the Civil Foundation, will counteract malicious players. And since tokens are easier to track than traditional currency, it will be pretty clear early on if individual parties or small groups begin to accumulate significant portions of CVL tokens.
+The other reason for an ICO is to provide financial support to the company and its newsrooms. Those 13 newsrooms received an initial sustainability grant of an unspecified amount of CVL tokens, as well as funding from Ethereum co-founder Joseph Lubin’s blockchain company ConsenSys, which contributed $5 million to Civil.
+Soon, Coolidge says, the platform will be open to any interested group looking to launch a newsroom on Civil — and that includes legacy news organizations.
+“We will have really exciting news on that front, too. Everyone who publishes on the platform will be beholden to the decentralized network, but we are not trying to discriminate against legacy news organizations,” Coolidge said.
+The Civil team's approach to saving journalism is bold, but maintains a spirit of play inherent to cryptocurrency and blockchain.
+"We want to see what happens when you flip this incentive system on its head, and a network of people comes together with a shared commitment to being a home for ethical journalism above all else. Both because they're ideologically incentivized to do so, ... but also because they're cryptoeconomically incentivized to do so," the Civil team wrote in an email.
+"Civil is an economic game — 'spot the unethical newsroom, keep it off the platform, be rewarded if you do so,'" the team added.
+show chapters
+
+
+url: 
+https://www.cnbc.com/2018/07/18/blockchain-media-startup-civil-doing-what.html

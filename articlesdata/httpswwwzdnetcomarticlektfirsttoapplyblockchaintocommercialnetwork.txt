@@ -1,0 +1,29 @@
+title: 
+KT first to apply blockchain to commercial network | ZDNet
+
+date: 
+2018-07-24 05:03:00
+
+summary: 
+ KT has applied blockchain to its commercial network, the telco has announced. KT said it is also sharing its blockchain technology with its KT Blockchain Eco Alliance, an alliance of partnered firms working in other technology areas, to expand into areas such as AI, security, and smart cars, among others. Nanjing, the capital of China's Jiangsu province, has launched a 10 billion yuan blockchain investment fund to foster the token economy and public blockchain projects.
+
+full text: 
+ZDNet Japan
+KT first to apply blockchain to commercial network
+KT has applied blockchain technology to its network and vowed to reach 100,000 transactions per second by next year. The telco plans to launch a slew of new platforms in multiple industries that capitalise on the network.
+Seo Yeong-il, head of KT's Blockchain Center, gives the lowdown on the telco's blockchain roadmap in Seoul.
+Image: Cho Mu-hyun
+KT has applied blockchain to its commercial network, the telco has announced.
+The telco built nodes combined with blockchain on its ultra-fast national network that guarantees both processing speed and trust.
+KT's blockchain currently has a transactions per second (tps) rate of 2,500, but the company will reach 10,000tps by the end of the year and 100,000tps by 2019, said Seo Yeong-il, the head of KT's Blockchain Center, at a press conference in Seoul.
+"Public blockchains have low processing speed and capacity, while private blockchains have low transparency," he said. "By applying blockchain onto our ultra-fast network, we have overcome both obstacles."
+KT said it developed its own engine that can process multiple blocks simultaneously in tandem. It will use its existing servers that have high-performance hardware, company officials said at the conference.
+The company has also applied blockchain for authentication in internet access. Instead of exposing a customer's IP address, KT will have an ID layer for each address based on blockchain to protect user identities. IPs will be protected at the network level to help prevent massive hacks.
+The Ministry of Science and ICT expects the local blockchain market to grow from 50 billion won in 2017 to 1 trillion won in 2022.
+The telco will also launch a blockchain platform for use in the energy market. Cryptocurrencies will be used in provinces by local governments and citizens for tax returns and other municipal payments.
+KT said it is also sharing its blockchain technology with its KT Blockchain Eco Alliance, an alliance of partnered firms working in other technology areas, to expand into areas such as AI, security, and smart cars, among others. The telco will open a blockchain trial centre in Seoul to collaborate with its partners on new projects, it added.
+The South Korean telecom giant unveiled innovative services this year ahead of the rollout of 5G. Last week, it launched its AI voice service with English language support for use in hotels.
+
+
+url: 
+https://www.zdnet.com/article/kt-first-to-apply-blockchain-to-commercial-network/

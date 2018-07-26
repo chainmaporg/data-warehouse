@@ -1,0 +1,25 @@
+title: 
+BitTorrent Acquired by Blockchain Startup Tron | Technology News
+
+date: 
+2018-07-25 13:39:31+05:30
+
+summary: 
+ In a new development, Blockchain startup Tron has acquired BitTorrent. The Blockchain company Tron was started by Justin Jun, and clarity on what it plans to do with BitTorrent remains little at the moment. "We wish to reiterate that BitTorrent has no plans to change what we do or charge for the services we provide. We have no plans to enable mining of cryptocurrency now or in the future. BitTorrent has been a pioneer of peer-to-peer file sharing and we believe our vision of democratizing the Web by enabling decentralized, resilient access to information remains as relevant as it was when we started," the company notes.
+
+full text: 
+BitTorrent Acquired by Blockchain Startup Tron
+BitTorrent Acquired by Blockchain Startup Tron
+BitTorrent was reportedly acquired for $126 million
+Details on acquisition and future plans are not known
+BitTorrent will work out of Tron's San Francisco office
+In a new development, Blockchain startup Tron has acquired BitTorrent . The file-sharing service has more than 100 million active users worldwide, and it has reportedly been acquired for $126 million. BitTorrent will continue operations as is, and will work out of Tron's San Francisco office moving forward. BitTorrent had earlier confirmed that it will not "change what we do or charge for the services we provide" and whether this promise holds after the acquisition or not, remains to be seen. For those who aren't aware, Tron has issued its own cryptocurrency dubbed TRX and reportedly has a market cap of $2.4 billion.
+The Blockchain company Tron was started by Justin Jun, and clarity on what it plans to do with BitTorrent remains little at the moment. TechCrunch reports that Tron closed the deal for $126 million in cash, however the two parties haven't revealed any financial details.
+In its blog post confirming the acquisition, BitTorrent notes that it "will continue operating from Tron's new San Francisco location, which is now the center of operations for the company's global market expansion. The division will provide robust support for Tron's global business development and partnerships, while pursuing its vision for the world's largest decentralized ecosystem."
+In a statement in June, BiTorrent confirmed to its users that it wouldn't indulge in Blockchain calculations inside its app in the future. "We wish to reiterate that BitTorrent has no plans to change what we do or charge for the services we provide. We have no plans to enable mining of cryptocurrency now or in the future. BitTorrent has been a pioneer of peer-to-peer file sharing and we believe our vision of democratizing the Web by enabling decentralized, resilient access to information remains as relevant as it was when we started," the company notes.
+As mentioned, acquisition details are scarce at the moment, so we are unsure whether all BitTorrent services like BitTorrent Now will remain, or will be shut down. Furthermore, whether BitTorrent will introduce new services under its own brand, or Tron will use up all of the resources to bolster its own offerings also remains to be seen.
+In a bid to steer clear from the piracy tag, BitTorrent launched its music and movies streaming app called BitTorrent Now for Android and iOS users in June 2016. Later in the same year, the company shut down its LA studio, let go of its CEO Robert Delamar, and was even reported to be shutting down BiTorrent Now , mainly because of the 'out of control' spending on the new service. The company was reported to be in a bit of turmoil, and that the amount of money being invested in BitTorrent Now was said to be burning huge holes in the company's pockets.
+
+
+url: 
+https://gadgets.ndtv.com/others/news/bittorrent-acquired-by-blockchain-startup-tron-1889411

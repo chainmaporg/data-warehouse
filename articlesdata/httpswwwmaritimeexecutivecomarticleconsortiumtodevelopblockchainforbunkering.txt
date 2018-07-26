@@ -1,0 +1,23 @@
+title: 
+Consortium to Develop Blockchain for Bunkering
+
+date: 
+None
+
+summary: 
+ A consortium of organizations aims to apply blockchain technology to bunkering to increase transparency and traceability. Blockchain Labs for Open Collaboration announced the project, through its subsidiary Maritime Blockchain Labs. Blockchain technology is already being taken up across the shipping industry with Maersk, ZIM and APL developing systems.
+
+full text: 
+Consortium to Develop Blockchain for Bunkering
+By MarEx 2018-07-25 20:23:33
+A consortium of organizations aims to apply blockchain technology to bunkering to increase transparency and traceability.
+Blockchain Labs for Open Collaboration announced the project, through its subsidiary Maritime Blockchain Labs. Industry partners will include Lloyd’s Register, Precious Shipping, Bostomar, BIMCO, International Bunker Industry Association and GoodFuels.
+The participants believe that the bunker industry, with its multiple, complex transactions is ideal for blockchain technology. They will evaluate how blockchain technologies could help to provide an efficient, tamper-resistant and auditable chain of custody on quality and quantity recording activities, together with a reputation system of the compliance of fuels prior to purchase, benefiting both buyers and regulatory bodies. This would help to provide greater confidence in the fuel being purchased, ultimately resulting in reduced safety risks and creating a more trustworthy framework for accurately monitoring emissions from shipping such as sulfur and carbon.
+Grant Hunter, Head of Contracts & Clauses at BIMCO, said: “Bunker purchase contracts are one part of a complex chain of activities in the bunker industry. Blockchain “Smart Contracts” based on harmonized terms and conditions like the BIMCO Bunker Terms 2018 could be a stepping stone for the industry to achieve greater transparency and efficiency.”
+Blockchain technology is already being taken up across the shipping industry with Maersk, ZIM and APL developing systems. Ports around the world, including Rotterdam, Abu Dhabi, Brisbane and Antwerp, are also developing systems. In May this year, Alibaba and four Australian and New Zealand companies introduced a food-tracing system based on blockchain technology. 
+Documentation and administration are estimated to be one-fifth of the $1.8 trillion spent annually to move goods across borders. According to The World Economic Forum, by reducing barriers within the international supply chain, global trade could increase by nearly 15 percent. 
+According to the International Data Corporation, global spending on blockchain solutions is forecast to reach $2.1 billion in 2018, more than double the $945 million spent in 2017. In 2021 annual spending is expected to reach $9.7 billion.
+
+
+url: 
+https://www.maritime-executive.com/article/consortium-to-develop-blockchain-for-bunkering

@@ -1,0 +1,48 @@
+title: 
+10 ways to learn more about blockchain | The Enterprisers Project
+
+date: 
+None
+
+summary: 
+ Blockchain Specialization - Offered by Coursera, this four-part program offers students "An understanding and working knowledge of foundational blockchain concepts, a skill set for designing and implementing smart contracts, methods for developing decentralized applications on the blockchain, and information about the ongoing specific industry-wide blockchain frameworks." Blockchain for Business 2018: The New Industrial Revolution - If you already know the basics of blockchain but don't know how it'll impact your business, this course from Udemy can help you better understand the business implications of blockchain technology across a variety of sectors. Blockchain Innovation: Interviewing The Brightest Minds In Blockchain - Add this podcast to your playlist for interviews with entrepreneurs, executives, and academics on a variety of blockchain themes - from the latest ICOs to the tactics and tools you can borrow for your own success.
+
+full text: 
+10 ways to learn more about blockchain
+10 ways to learn more about blockchain
+Still confused about blockchain? Whether you have time to watch a quick video, read a book, or take an online course, these resources will build your knowledge
+on
+July 24, 2018
+Do you get nervous when blockchain comes up in a room full of your peers? With all the hype surrounding blockchain, if you have limited knowledge on the subject it can feel like everyone but you is in on the big idea. Don’t worry: Blockchain is a notoriously hard concept to understand – so much so that one expert compared it to a school lunch trade to help people get it.
+[ Can you explain blockchain to non-techies? Read our related story,  How to explain blockchain in plain English . ]  
+But understanding blockchain is a good idea. Blockchain is already showing tangible progress in markets including finance, supply chain, real estate, and healthcare. Spending on blockchain is expected to increase at a rate of nearly 75 percent annually through the year 2022, according to an IDC report. While uptake among CIOs has been slow or non-existent , that’s not a great excuse for remaining in the dark on a technology that could radically transform entire industries.
+[ Where is blockchain making actual progress? See our related story:  Blockchain in action: 5 interesting examples.  ]
+In fact, it's time to put a little effort into understanding blockchain. Despite the hype, good information and resources are out there if you know where to look. We’ve rounded up 10 options that not only offer a baseline understanding of blockchain, but also help you think about blockchain in the context of your business. Whether you have a few minutes to watch a video, or more time to devote to an online course, there’s something here for everyone. No more excuses. Dig in:
+Videos:
+Videos provide the quickest way to deepen your understanding of any concept. There’s no shortage of TED Talks and YouTube tutorials out there, but we’ve picked two that pack a lot of useful insights into a short amount time.
+Blockchain expert explains one concept in 5 levels of difficulty – If you are fuzzy on what blockchain actually is, start here. In this video from WIRED, blockchain researcher Bettina Warburg defines and discusses the concept with a child, a teen, a college student, a grad student, and an expert.
+ 
+We’ve stopped trusting institutions and started trusting strangers – This TED talk from Rachel Botsman does a great job explaining how the new era of trust we are experiencing, in which people are more comfortable dealing with other people versus institutions (think Airbnb versus a hotel), paves the way for blockchain.
+ 
+Online courses:
+Online courses will require more of a time commitment, but if you are serious about expanding your knowledge and putting it to practice in your business, this might be the way to go. Here are two worth checking out.
+Blockchain Specialization – Offered by Coursera, this four-part program offers students “an understanding and working knowledge of foundational blockchain concepts, a skill set for designing and implementing smart contracts, methods for developing decentralized applications on the blockchain, and information about the ongoing specific industry-wide blockchain frameworks.”
+Blockchain for Business 2018: The New Industrial Revolution – If you already know the basics of blockchain but don’t know how it’ll impact your business, this course from Udemy can help you better understand the business implications of blockchain technology across a variety of sectors.
+Books:
+Books aren’t always the best source of information on an emerging technology because by the time it hits the shelves it’s no longer current. These recent books, however, serve as useful explainers on blockchain technology and look at how it could impact our future.
+story_blockchain.jpg
+The Story of the Blockchain: A Beginner's Guide to the Technology That Nobody Understands – Author Omid Malekan uses anecdotes and relatable analogies to make blockchain make sense for everyone, regardless of technical background. From the Amazon  description : “When all is said and done, you won't just understand this revolution. You'll be a part of it.”
+ciobooks2_blockchain-revolution.png
+Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies Is Changing the World – From the Amazon description : “In this revelatory book, Don and Alex Tapscott bring us a brilliantly researched, highly readable, and essential book about the technology driving the future of the economy.” This is an updated edition (June, 2018) which includes a chapter on new developments since the first printing of the book.
+Reports:
+Reports can offer an up-to-the-minute glimpse into how an emerging trend is impacting businesses and changing industries. Here are two that seek to cut through the buzz.
+Blockchain beyond the hype: What is the strategic business value? - Having trouble deciphering the hype from the reality? This report from McKinsey sheds some much-needed light. In it, they break down “more than 90 discrete use cases of varying maturity for blockchain across major industries” to help companies determine whether the use case justified strategic investment on their end.
+Blockchain-Based Transformation: A Gartner Trend Insight Report – Still unsure if blockchain is part of your business’s long-term transformation plans? This research from Gartner includes insights on blockchain’s potential, business impact, and technology domains.
+Other resources:
+Perhaps you learn better in a hands-on, face-to-face setting. Or maybe listening to podcasts on your work commute is how you brush up on new topics. These resources are for you.
+Blockchain Summit – Taking place on October 18, 2018, in San Francisco, CA, this conference promises to draw more than 1500 attendees to learn, connect, and network on all things blockchain. Sessions are still to be announced, but information on speakers can be found here .
+Blockchain Innovation: Interviewing The Brightest Minds In Blockchain – Add this podcast to your playlist for interviews with entrepreneurs, executives, and academics on a variety of blockchain themes – from the latest ICOs to the tactics and tools you can borrow for your own success.
+
+
+url: 
+https://enterprisersproject.com/article/2018/7/10-ways-learn-more-about-blockchain

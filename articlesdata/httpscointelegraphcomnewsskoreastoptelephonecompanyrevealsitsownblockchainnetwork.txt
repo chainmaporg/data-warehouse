@@ -1,0 +1,27 @@
+title: 
+S. Korea&rsquo;s Top Telephone Company Reveals Its Own Blockchain Network
+
+date: 
+2018-07-24 19:25:00+01:00
+
+summary: 
+ The firm has built a blockchain layer on top of its existing nationwide network in order to make it "More secure and transparent," according to an article by The Korea Herald published Tuesday, July 24. Cointelegraph reported on July 6 that KT Corporation has joined the Carrier Blockchain Study Group, a global blockchain consortium of telecom companies whose goal is to create a cross-carrier blockchain ecosystem with such capabilities as "[cell phone] top-up, roaming wallet, secured clearing and settlement, personal authentication [and] IoT applications. The blockchain market in Korea is expected to grow 20 times over in four years - from $44 million in 2018 to about $887 million in 2022 - The Korea Herald reports, citing the country's Ministry of Science and information and communications technology.
+
+full text: 
+Andrew Marshall
+S. Korea’s Top Telephone Company Reveals Its Own Blockchain Network
+South Korean KT Corporation has built a blockchain layer on top of its existing network to make it more secure and transparent, local media report.
+17671 Total views
+437 Total shares
+News
+State-owned KT Corporation, South Korea’s largest telephone company, has announced the launch of its blockchain -powered commercial network. The firm has built a blockchain layer on top of its existing nationwide network in order to make it “more secure and transparent,” according to an article by The Korea Herald published Tuesday, July 24.
+The news outlet reports the head of KT Blockchain Center Seo Young-il as saying that blockchain tech can be used in telecommunications for secure and efficient data management. Seo added:
+“The whole point of applying blockchain to networks is to address security and transaction issues by making the current networks more secure and trusted.”
+With its new network, KT plans to allow its individual and corporate clients to store and transfer their digital data with “less hacking risks,” The Korea Herald further reports. The network has a claimed capacity of 2,500 transactions per second (TPS), compared to Bitcoin’s ( BTC ) 3 TPS and Ethereum’s ( ETH ) 15 TPS .
+KT Corp. also has plans to offer blockchain-based roaming services with international mobile carriers, such as NTT Docomo, the top provider in Japan. According to The Korea Herald, the use of blockchain will allow the company to calculate roaming bills in real time and improve the speed of internet connection for customers.
+Cointelegraph reported on July 6 that KT Corporation has joined the Carrier Blockchain Study Group (CBSG), a global blockchain consortium of telecom companies whose goal is to create a cross-carrier blockchain ecosystem with such capabilities as “[cell phone] top-up, roaming wallet, secured clearing and settlement, personal authentication [and] IoT applications.”
+The blockchain market in Korea is expected to grow 20 times over in four years - from $44 million in 2018 to about $887 million in 2022 - The Korea Herald reports, citing the country’s Ministry of Science and information and communications technology (ICT).
+
+
+url: 
+https://cointelegraph.com/news/s-korea-s-top-telephone-company-reveals-its-own-blockchain-network

@@ -1,0 +1,14 @@
+title: 
+Can't extract title
+
+date: 
+2018-07-25 14:13:00
+
+summary: 
+ The Asia-Pacific Blockchain Technology market is expected to grow at the highest CAGR during the forecasted years of 2018-2023 and is expected to earn a revenue of USD 4.59 Bn by 2023. IBM is one of the leading Blockchain consulting firms to have initiated the application of Blockchain technology in China with supply chain trials. In China, though government bodies in key countries are accelerating Blockchain adoptions, recent regulations on Blockchain technology may pose challenges.
+
+full text: 
+
+
+url: 
+https://www.marketwatch.com/story/asia-pacific-blockchain-technology-market-2018-2023-key-players-are-microsoft-ibm-accenture-deloitte-and-capgemini---researchandmarketscom-2018-07-25

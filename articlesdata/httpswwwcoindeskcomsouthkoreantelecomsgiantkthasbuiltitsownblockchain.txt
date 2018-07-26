@@ -1,0 +1,28 @@
+title: 
+South Korean Telecoms Giant KT Has Built Its Own Blockchain - CoinDesk
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/south-korean-telecoms-giant-kt-has-built-its-own-blockchain/
+
+summary: 
+ KT Corporation, one of the two largest telecoms companies in South Korea, has launched a proprietary blockchain network, aiming to apply the technology across areas including ID verification, data roaming and energy trading. According to a report from CoinDesk Korea, the firm revealed its KT Network Blockchain on Tuesday, boasting a throughput of 2,500 transactions per second thanks to an integration with its existing high-speed commercial network. KT Network Blockchain is also expected to play a role in energy trading in the second half of the year, with corporations participating as nodes to exchange unused energy quotas across the distributed network.
+
+full text: 
+South Korean Telecoms Giant KT Has Built Its Own Blockchain
+NEWS
+Wolfie Zhao
+Jul 24, 2018 at 12:00 UTC  |  Updated  Jul 24, 2018 at 12:02 UTC
+KT Corporation, one of the two largest telecoms companies in South Korea, has launched a proprietary blockchain network, aiming to apply the technology across areas including ID verification, data roaming and energy trading.
+According to a report from CoinDesk Korea, the firm revealed its KT Network Blockchain on Tuesday, boasting a throughput of 2,500 transactions per second (TPS) thanks to an integration with its existing high-speed commercial network.
+The company further claims it can scale up that figure to 10,000 TPS by the end of the year and even as high as 100,000 TPS by 2019.
+With the launch, KT said it is now looking to employ the technology to authenticate users' identities in order to streamline international roaming services. The feature would allow users' information to be securely shared among global partners over a distributed network.
+For the first stage of the plan, the telco said it will work with China Mobile and Japanese mobile operator NTT DoCoMo to start exploring the tech in international data roaming within the year.
+KT Network Blockchain is also expected to play a role in energy trading in the second half of the year, with corporations participating as nodes to exchange unused energy quotas across the distributed network.
+Today's announcement follows a  plan  – announced by KT in April – to use a new telecommunications system integrated with blockchain security solutions as part of a digital infrastructure project dubbed "Future Internet."
+Network cables image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+This article is intended as a news item to inform our readers of various events and developments that affect, or that might in the future affect, the value of the cryptocurrency described above. The information contained herein is not intended to provide, and it does not provide, sufficient information to form the basis for an investment decision, and you should not rely on this information for that purpose. The information presented herein is accurate only as of its date, and it was not prepared by a research analyst or other investment professional. You should seek additional information regarding the merits and risks of investing in any cryptocurrency before deciding to purchase or sell any such instruments.
+
+
+url: 
+https://www.coindesk.com/south-korean-telecoms-giant-kt-has-built-its-own-blockchain/

@@ -1,0 +1,69 @@
+title: 
+China Now Downplaying Blockchain Could Be Social Construct to Build It Up
+
+date: 
+2018-07-24 13:13:00+01:00
+
+summary: 
+ In the latest calls from regulators, the bullishness on blockchain has come under some scrutiny as banking regulators have said that it would be dangerous to mythologize blockchain technology. He goes on to mention that the banking system in China might also be fearful of blockchain technology making them obsolete, so instead of letting the whole thing run wild, the central bank would rather build it up slowly and have it be based on their controls. "There's always the idea that 'Oh, blockchain and cryptocurrency are going to remove intermediaries, are going to change the world, etc.' But we know that we are still eons away from that utopian world. But in China, many projects are still money-making schemes. These projects are sprouting all over China, trying to ride on the blockchain wave. But nothing substantial comes out of these projects."
+
+full text: 
+Darryn Pollock
+China Now Downplaying Blockchain Could Be Social Construct to Build It Up
+China’s banking regulators are still playing down blockchain despite obvious interest. Could it have more to do with social situations?
+10395 Total views
+226 Total shares
+Analysis
+China has led the way in terms of harsh regulations to quash cryptocurrencies like Bitcoin. They were the first country to institute blanket bans on ICOs and exchanges, and have never taken to the decentralized and liberal freedoms that comes from cryptocurrencies.
+However, that does not mean that China is opposed to the potential revolutionary technology that comes from cryptocurrencies and their underlying base — blockchain. In fact, China is building toward being a nation that separates the decentralized cryptocurrencies from the underlying blockchain.
+But, in the latest calls from regulators, the bullishness on blockchain has come under some scrutiny as banking regulators have said that it would be dangerous to mythologize blockchain technology. In a similar vein, another regulator from the People’s Bank of China has reiterated the hard ban on ICOs, stating they will " crush” these operations .
+It is confusing to try to understand China’s position on the entire cryptocurrency space as it stands. When they put forward their bans in 2017 , it might have looked like it was making a complete withdraw from anything to do with blockchain and Bitcoin. But their subsequent change in attitude to blockchain , with the president, Xi Jinping praising blockchain on March 30 — and news that they are developing their own national digital currency , suggested by a patent filed for a digital wallet on June 26 — makes one question China’s real feelings toward Bitcoin.
+What is even more confusing is that the recent downplaying of blockchain , which has been highly regarded in the country, seems to be sending mixed messages. But, it could well be a way to ensure this revolutionary technology does not sweep up the citizens in a wave of hype, which could jeopardize the technology’s true potential.
+China’s history with Bitcoin and blockchain
+China’s association with Bitcoin has been stormy from the outset. As soon as things started to get a little more serious in terms of mainstream adoption in the latter months of 2017, the Chinese government cracked down severely.
+It began with an ICO ban on Sept. 4, as China’s central bank said ICOs are illegal and asked all related fundraising activity to be halted immediately. They issued one the strongest regulatory challenges and set a specific trend for other countries on ICOs.
+Soon after the ban, rumors started circulating that the government would be blocking access to exchanges within the state’s borders. Then, on Sept. 15, the rumors were realized as the regulators said that all exchanges must close by Sept. 30 .
+It was a hammer blow to the Chinese cryptocurrency economy. However, it was not enough to kill it off completely as traders were still managing to get around the bans and blockade to the exchanges .
+Finally, China was able to make itsknockout punch when it erected its firewall on February 5 that blocked foreign crypto exchanges from being used in the country. Since then, China’s national currency — the yuan — has been reportedly only making up 1 percent of the global cryptocurrency transactions — whereas in 2017, Chinese exchanges accounted for over 90 percent of the global crypto industry.
+The move to blockchain without Bitcoin
+This clampdown was not because China was thinking cryptocurrencies couldn’t work, or that blockchain was not a good technology, it was more based on issues of control in the Socialist Republic.
+China has strick capital control rules and has been fighting to keep money in the country for a long time. With the popularization of Bitcoin, it was suddenly much easier for citizens to anonymously — and through a decentralized system — get money out of the country .
+But with the central bank and the government effectively quashing Bitcoin and other cryptocurrencies which they could not control, it turned its attention to the power of blockchain technology and all it can offer to a country like China, which is on the forefront of technology and the Fourth Industrial Revolution.
+In fact, on May 30, Chinese president Xi Jinping said he considers blockchain as part of China’s technological revolution. This was reiterated when the state-controlled TV channel, CCTV, said that blockchain is 10 times more valuable than the internet .
+“The new generation of information technology represented by artificial intelligence, quantum information, mobile communication, Internet of Things and blockchain is accelerating breakthroughs in its range of applications.”
+Even looking at Alibaba — China’s version of Amazon — and its attitude toward blockchain over Bitcoin, there are some striking similarities. Jack Ma and his entire conglomerate have spouted the positives of blockchain but have shied away from the decentralized cryptocurrencies.
+Boosting blockchain and controlled digital currencies
+These statements by people as important as the president seemed to show that China was not looking to shut its doors on blockchain technology, but rather to be in control of it. This became even more evident with the news emanating that the central bank would be creating its own digital token .
+On March 9, Governor of the People’s Bank of China (PBoC) Zhou Xiaochuan seemingly outlined the banking sector’s attitude toward cryptocurrencies. He stated that the bank is in no rush to create their own token, but it would be inevitable — and, in the same breath, quashed Bitcoin as a payment system.
+“We do not currently recognize Bitcoin and other digital currencies as a tool like paper money, coins and credit cards for retail payments. The banking system does not accept it.”
+Downplaying blockchain
+So, it would appear that China, its central banks and even its major companies all agree that they have no use for decentralized, uncontrollable blockchains and cryptocurrencies but see blockchain technology as the future and state-run digital tokens as inevitable.
+Still, there is the downplaying of the potential of the blockchain, especially in a tech-orientated country like China.
+Fan Wenzhong, the head of the international department of the China Banking and Insurance Regulatory Commission, has warned against “mythologizing” blockchain technology, adding that it is hard to call it a revolution.
+It seems to be a strong juxtaposition from one of the central bank’s regulators, to suddenly start downplaying blockchain, especially after embracing it since the ban on cryptocurrencies.
+However, there is an important line that came from the central bank and its governor, Zhou Xiaochuan:
+“If blockchain technologies spread too rapidly, it may have a big negative impact on consumers. It could also have some unpredictable effects on financial stability and monetary policy transmission.”
+Herein lies the crux of the central bank’s relationship with blockchain technology as it stands in China at the moment. On one hand, China realizes the potential of block; but on the other, rushing its development in a place like China might ignite a wave of hype that could ultimately derail its potential.
+This position is also reiterated by a few citizens in China, who operate with cryptocurrencies and can see first hand what the banking sector is trying to do with its downplaying.
+A social construct
+Casper Wong, from Goldford Venture — working with blockchain startups and incubation projects across China, Hong Kong, and the rest of Asia — told Cointelegraph:
+“Wenzhong is saying this [about the dangers of mythologizing blockchain] because it has generated too many bubbles in the market already. If there is to be a healthy market for blockchain, it needs to be step by step.
+“The problem with the cryptocurrency market in China is that it is very fast, I would estimate there are over 20 million crypto investors in the country currently.”
+He goes on to mention that the banking system in China might also be fearful of blockchain technology making them obsolete, so instead of letting the whole thing run wild, the central bank would rather build it up slowly and have it be based on their controls.
+“It’s the issue all over the world, because blockchain has the potential to destroy the whole banking system. It conflicts with the existing system. And specifically in China, I think the problem right now is the potential for it all to [become a] bubble, so the government officials want to develop it steadily. But the point is they are not banning blockchain, they are encouraging it.”
+His sentiments were echoed by Wei Chun Chew, a business analyst for Y3 technologies in Shanghai:
+“There's always the idea that 'Oh, blockchain and cryptocurrency are going to remove intermediaries, are going to change the world, etc.' But we know that we are still eons away from that utopian world. But in China, many projects are still money-making schemes. These projects are sprouting all over China, trying to ride on the blockchain wave. But nothing substantial comes out of these projects.”
+He goes on to look at the social makeup of the Chinese wealthy elite and just how easy it is for them to get carried away with blockchain projects and potential scams.
+“If you can understand China now, a bulk of the wealthier population come from less educated populations who are able to earn their fortune either from the manufacturing boom or the real estate boom. The ban was partly to stop all the stupid money from pouring in to scam projects.
+“And the central bank is not creating cryptocurrencies, but rather digital coins to complement their current system. Blockchain, when properly harnessed in certain aspects, will aid their governance and overall dominance over its people.”
+Chew gives more insight into the daily lives of blockchain, Bitcoin, and cryptocurrency enthusiasts in China.
+“The Chinese government is trying to tone it down. In late 2017 and early January, the words Bitcoin and Ethereum were a taboo in Chinese society. You didn’t see people talking about it on the street or on social media. Blockchain is the 'appropriate' word to use even now.”
+Protecting and controlling the citizens
+The central bank’s relationship with cryptocurrencies is pretty straightforward, but the way in which it is reacting to blockchain is causing some confusion — especially to outsiders and the media. However, looking at it from the perspective of the Chinese government in relationship to the people, it becomes more understandable.
+China is a country of control and one where the government is in charge of protecting its people. They have stamped out Bitcoin and the like for the dangers they could potentially pose, but those dangers — scams and bad blockchain businesses — still exist.
+Cointelegraph looked to reach out to a number of major cryptocurrency and blockchain ventures that still find their home in China, even with its hard-nosed attitude toward companies not backed by the state. Requests for information were either ignored or denied, giving real insight into the difficult relationship the regulators have with cryptocurrency and blockchain projects that are out of their control.
+Blockchain may be the prefered term, but that word can still lead to hype and excitement which can be used as a tool for scams . For the government to tone down the blockchain space until it is ready to flourish could be another form of protection — as well as control.
+
+
+url: 
+https://cointelegraph.com/news/china-now-downplaying-blockchain-could-be-social-construct-to-build-it-up

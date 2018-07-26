@@ -1,0 +1,36 @@
+title: 
+A Quick Explanation of Mixed Contracts in Blockchain Investment | NewsBTC
+
+date: 
+Exception in extractArticlePublishedDate for https://www.newsbtc.com/2018/07/25/a-quick-explanation-of-mixed-contracts-in-blockchain-investment/
+
+summary: 
+ Mixed contracts came about amid an interesting period in the blockchain market. The concept of mixed contracts was developed by a group of funds that were interested in the ICO space at the time, in collaboration with blockchain expert Nick Evdokimov. In our hypothetical case Blockchain Fund B receives $2 million worth of tokens as a gift from Blockchain A. In Nick's words, "Here the transaction is structured for the fund as a purchase of 'equity', that is, the purchase of shares, and the tokens go for the same amount, basically insuring this transaction."
+
+full text: 
+A Quick Explanation of Mixed Contracts in Blockchain Investment
+Guest Author | July 25, 2018 | 8:00 am
+A Quick Explanation of Mixed Contracts in Blockchain Investment
+Guest Author | July 25, 2018 | 8:00 am
+Most blockchain investors and enthusiasts are very familiar with the concept of ICOs and token sales. However, few understand the concept of mixed contracts — one of the most important investment strategies in the market. These deals enable large investors such as venture capital firms to participate in the budding industry. In turn, the investors provide blockchain startups with the necessary funds to pursue their goals.
+Mixed contracts came about amid an interesting period in the blockchain market. Since ICOs generally issue utility tokens on behalf of investors, most venture capital firms had limitations when joining these processes. A fund’s shareholders generally have regulations in place that only allow the purchase of equity. For the purposes of these regulations, utility tokens are a product, not equity, because they’re considered digital assets. This made things difficult for institutional venture capital investments; it meant that blockchain startups weren’t entirely compatible with traditional investment models.
+The concept of mixed contracts was developed by a group of funds that were interested in the ICO space at the time, in collaboration with blockchain expert Nick Evdokimov . It resulted in an investment strategy that carries out both VC investments and ICO investments simultaneously, mixing the best of both models.
+The mechanism is effective and easy to implement, as Nick himself has explained in an online video course .
+First, large investors negotiate with a given startup that needs funding. The startup proceeds to perform an assessment of its business and presents a valuation to investors.
+Let’s say Blockchain Startup A is valued at $10 million.
+Once investors have decided how much equity they’re interested in, the equivalent amount of shares is purchased from the startup. This amount corresponds to a percentage of the given valuation.
+For example, Blockchain Fund B purchases 20% of Blockchain Startup A’s shares for $2 million.
+The startup then proceeds to emit tokens on behalf of the investors for the same amount of equity they purchased.
+In our hypothetical case Blockchain Fund B receives $2 million worth of tokens as a gift from Blockchain A.
+In Nick’s words, “Here the transaction is structured for the fund as a purchase of ‘equity’, that is, the purchase of shares, and the tokens go for the same amount, basically insuring this transaction.”
+After the transaction is closed, the fund separates the equity from the tokens. It transfers the shares it bought from the startup to one management company, then transfers the corresponding tokens to a separate management company.
+Under these circumstances, investors get to participate in both the equity and in the token economy of a blockchain startup. Likewise, the startup receives a significant amount of capital at once, through a single deal, instead of depending on a large number of separate investors making smaller token purchases. This arrangement is much simpler than clumsier funding mechanisms such as the SAFT agreement .
+Disclaimer: This information is the opinion of the provider and is for informational purposes  only.  It is not intended as and does not constitute investment advice or legal or tax advice  or an offer to sell any securities to any person or a solicitation of any person of any offer  to purchase any securities. This information should not be construed as any endorsement,  recommendation or sponsorship of any company or security.  There are inherent risks in relying  on, using or retrieving this information.  Seek the advice of professionals, as appropriate,  to evaluate any opinion, advice, product, service or other information provided.
+ 
+ 
+A Quick Explanation of Mixed Contracts in Blockchain Investment was last modified: July 24th, 2018 by Guest Author
+loading...
+
+
+url: 
+https://www.newsbtc.com/2018/07/25/a-quick-explanation-of-mixed-contracts-in-blockchain-investment/

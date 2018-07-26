@@ -1,0 +1,30 @@
+title: 
+Chinese Influencers Call for Blockchain to Solve Food and Drug Safety Problem | NewsBTC
+
+date: 
+Exception in extractArticlePublishedDate for https://www.newsbtc.com/2018/07/25/chinese-influencers-call-for-blockchain-to-solve-food-and-drug-safety-problem/
+
+summary: 
+ As the Chinese population experience a food and drug safety crisis, with the latest scandal being a fraudulent rabies vaccine for babies, leading technology experts are confident that the blockchain could solve problems related to lack of transparency in China's food and drug industries. "If the entire vaccine supply-chain was to use the token-free blockchain solution to record everything from start to finish, then most of the problems in drug safety could be solved," Li wrote on Chinese microblogging website Weibo. Leonhard Weese, president of the Bitcoin Association of Hong Kong, believes the solution for the drug and food safety problem is not blockchain, but other decentralized and transparent systems, which are far cheaper and faster.
+
+full text: 
+Chinese Influencers Call for Blockchain to Solve Food and Drug Safety Problem
+Ricardo Esteves | July 25, 2018 | 10:10 pm
+Chinese Influencers Call for Blockchain to Solve Food and Drug Safety Problem
+Ricardo Esteves | July 25, 2018 | 10:10 pm
+As the Chinese population experience a food and drug safety crisis, with the latest scandal being a fraudulent rabies vaccine for babies, leading technology experts are confident that the blockchain could solve problems related to lack of transparency in China’s food and drug industries.
+Decentralized Supply Chain May End Food and Drug Safety Scandals in China
+The most recent drug safety scandal involved Changsheng Biotechnology, which was found to have forged documents relating to a rabies vaccine for babies, including product inspection records.
+Its management is now under investigation by the police and the China Food and Drug Administration. Blockchain entrepreneurs, such as China’s biggest Bitcoin multimillionaire Li Xiaolai , are taking the debate to a national level. They are calling for the disruption of the pharmaceutical industry with the adoption of distributed ledger technology to restore public confidence in the health care system.
+“If the entire vaccine supply-chain was to use the token-free blockchain solution to record everything from start to finish, then most of the problems in drug safety could be solved,” Li wrote on Chinese microblogging website Weibo.
+A large number of blockchain initiatives have delved into supply chain management with the goal of making whole processes completely transparent as DLT would be able to trace and track the entire supply chain of any product by simply scanning quick-response codes. There is, however, one issue that could be fatal for the cause.
+If Changsheng Biotechnology, the pharmaceutical company behind the latest drug scandal in China, were to use blockchain technology in its process, it could still manage to cheat regulators and customers. That is because if someone intends to falsify records, blockchain will carry that fake data, according to the research department of Tencent,  who further explained that it is necessary to have regulations governing the use of the blockchain system.
+Leonhard Weese, president of the Bitcoin Association of Hong Kong, believes the solution for the drug and food safety problem is not blockchain, but other decentralized and transparent systems, which are far cheaper and faster.
+“Blockchains are slow and expensive. The amount of data that can be stored in them is minuscule. Instead, we should first figure out how to put it in a computer, then on the internet, and only then should we start talking about blockchains.”
+Supply chain is a top priority for blockchain disruption. Recent projects include the G Coin , which aims to track the gold supply chain, and Coca-Cola ‘s attempt to end forced labor.
+Featured image from Shutterstock.
+Chinese Influencers Call for Blockchain to Solve Food and Drug Safety Problem was last modified: July 25th, 2018 by Ricardo Esteves
+
+
+url: 
+https://www.newsbtc.com/2018/07/25/chinese-influencers-call-for-blockchain-to-solve-food-and-drug-safety-problem/

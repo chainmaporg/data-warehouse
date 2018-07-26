@@ -1,0 +1,28 @@
+title: 
+Singapore Airlines Launches Blockchain-Based Loyalty Wallet, Co-Developed by Microsoft
+
+date: 
+2018-07-24 16:49:00+01:00
+
+summary: 
+ Singapore Airlines has launched its own airline loyalty digital wallet that uses blockchain technology, it announced July 24. U.S. tech giant Microsoft has been steadily investing in blockchain technology, with early moves to implement an off-chain Ethereum-based protocol by its cloud computing arm, Microsoft Azure, in summer of last year. This February, the firm announced plans to integrate blockchain-based decentralized IDs into its Microsoft Authenticator app, and Azure formally announced the release of a blockchain app creation service, Azure Blockchain Workbench, in May. Most recently, Microsoft has been working to integrate blockchain and artificial intelligence for supply chain management solutions, as well as partnering with two major Asian tech companies on an enterprise blockchain platform.
+
+full text: 
+Marie Huillet
+Singapore Airlines Launches Blockchain-Based Loyalty Wallet, Co-Developed by Microsoft
+Singapore Airlines has announced the launch of a loyalty digital wallet that uses blockchain technology co-developed by Microsoft.
+15468 Total views
+367 Total shares
+News
+Singapore Airlines (SIA) has launched its own airline loyalty digital wallet that uses blockchain technology, it announced July 24. The software has been co-developed by Microsoft and KPMG Digital Village, according to the press release.
+The new wallet -- dubbed ‘KrisPay’ after SIA’s ‘KrisFlyer’ loyalty programme -- converts frequent flyer miles into digitized ‘KrisPay miles’ that can be used to pay for retail purchases via a mobile app.
+As minimum expenditure, users of the wallet can spend 15 KrisPay miles (equivalent to about  S$0.10, or US$0.73) to make or offset purchases at point-of-sale for food and drink, petrol, beauty treatments, and other products from selected retailers.
+According to SIA, KrisPay miles are currently accepted at 18 merchants island-wide, with more merchants to reportedly be added to the platform in future.
+As Cointelegraph reported, SIA first successfully tested the proof-of-concept for its blockchain-based loyalty wallet back in February.
+U.S. tech giant Microsoft, meanwhile, has been steadily investing in blockchain technology, with early moves to implement an off-chain Ethereum-based protocol by its cloud computing arm, Microsoft Azure, in summer of last year.
+This February, the firm announced plans to integrate blockchain-based decentralized IDs into its Microsoft Authenticator app, and Azure formally announced the release of a blockchain app creation service, Azure Blockchain Workbench, in May.
+Most recently, Microsoft has been working to integrate blockchain and artificial intelligence ( AI ) for supply chain management solutions, as well as partnering with two major Asian tech companies on an enterprise blockchain platform.
+
+
+url: 
+https://cointelegraph.com/news/singapore-airlines-launches-blockchain-based-loyalty-wallet-co-developed-by-microsoft

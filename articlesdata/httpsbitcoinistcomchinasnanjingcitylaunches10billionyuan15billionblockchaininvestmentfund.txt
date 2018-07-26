@@ -1,0 +1,31 @@
+title: 
+China&#039;s Nanjing City Launches $1.5 Billion Blockchain Investment Fund - Bitcoinist.com
+
+date: 
+Exception in extractArticlePublishedDate for https://bitcoinist.com/chinas-nanjing-city-launches-10-billion-yuan-1-5-billion-blockchain-investment-fund/
+
+summary: 
+ In an attempt to strengthen the token economy as well as public blockchain projects in the country, Nanjing City launched a 10 billion yuan investment fund. In April, the city of Hangzhou announced another $1.6 billion fund designated for companies occupying the blockchain field. Yuandao, Chairman of the Zhongguancun Blockchain Industry Alliance noted that industries which adopt blockchain will bring more technological breakthroughs.
+
+full text: 
+Georgi Georgiev | Jul 25, 2018 | 04:00
+Despite the nationwide ban on ICOs and offshore crypto exchange trading, China appears to be loosening its grip – at least where blockchain-based technologies are concerned.
+China represents an interesting dichotomy when it comes to cryptocurrencies and blockchain technology. On the one hand, they are incredibly restrictive, having instituted a nationwide ban on ICOs last year, as well as cracking down on local crypto exchanges – and banning foreign exchanges altogether. On the other hand, however, aspects of both industries appear to be flourishing.
+Despite the restrictions, China accounts for more than 70% of the total Bitcoin network’s hashrate and they lead the world in the number of blockchain patent applications . And now, it appears that the Chinese government has officially decided to take a more proactive stance with regards to the development of blockchain technology within the country.
+A chain of events took place in May, which catalyzed positive changes in the country. Its government announced that it’s beginning to work on blockchain standards and that it intends to introduce them by 2019. Shortly after, the Ministry of Industry and Information unveiled a whitepaper which revealed that the country is placing definitive focus on the development of blockchain technologies. The document also revealed that China is the world’s leader in terms of blockchain patents filed.
+To top it off, the country’s president Xi Jinping said that blockchain will be part of the “new industrial revolution.”
+More Money Towards Blockchain
+In an attempt to strengthen the token economy as well as public blockchain projects in the country, Nanjing City launched a 10 billion yuan ($1.5 billion) investment fund. The capital of Jiangsu Province joined the initiative together with Zhongguancun Blockchain Industry Alliance.
+The Alliance represents a conglomerate of blockchain companies as well as government research institutes based in Beijing.
+The announcement was made during the Industrial Public Chain Summit which was attended by high-ranking officials, including the deputy secretary of the Communist Party of China, Luo Qun.
+The purpose of the initiative is to incentivize the development of new blockchain-based technologies in different, cross-border platforms enhancing industries like energy, healthcare, intellectual property, environmental protection, and so forth.
+This is not the first major blockchain investment fund to attract official governmental involvement. In April, the city of Hangzhou announced another $1.6 billion fund designated for companies occupying the blockchain field.
+Plenty of Support
+The news was met with strong support among the representatives of different industries at the summit. Wang Xiaohui, deputy chairman of the Tsinghua University’s Internet Industry Research Center, outlined that worldwide cooperation with industries, consensus and autonomy are necessary to speed up the success of the field.
+Yuandao, Chairman of the Zhongguancun Blockchain Industry Alliance noted that industries which adopt blockchain will bring more technological breakthroughs.
+Do you think China’s broadening acceptance of blockchain technology will eventually carry over to the cryptocurrency space? Let us know in the comments below.
+Images courtesy of Shutterstock, Bitcoinist Archives
+
+
+url: 
+https://bitcoinist.com/chinas-nanjing-city-launches-10-billion-yuan-1-5-billion-blockchain-investment-fund/

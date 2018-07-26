@@ -1,0 +1,33 @@
+title: 
+Have you ever wondered what itâ€™s like to work at a blockchain lab?
+
+date: 
+2018-07-25 15:07:59+01:00
+
+summary: 
+ Blockchain is an emerging technology with a variety of applications, as employees at the Deloitte EMEA blockchain lab explained. Have you ever wondered what it's like to work at a blockchain lab? Better yet, did you know blockchain labs were even a thing? "Deloitte takes much pride in being technology-agnostic in the blockchain space and we want our people to look at the blockchain technology landscape and also other technologies because blockchain is not a technology on its own, it can play with other technologies."
+
+full text: 
+Paula Butler, technical manager, Deloitte EMEA blockchain lab. Image: Connor McKenna
+Have you ever wondered what it’s like to work at a blockchain lab?
+by Eva Short
+57 minutes ago38 Views
+Blockchain is an emerging technology with a variety of applications, as employees at the Deloitte EMEA blockchain lab explained.
+Have you ever wondered what it’s like to work at a blockchain lab? Better yet, did you know blockchain labs were even a thing?
+You’ll be forgiven for not immediately realising what a blockchain lab is. In truth, the rate at which technologies are emerging can mean that trying to keep on top of their developments could give you whiplash, figuratively speaking.
+Blockchain is best known as the technology that enables cryptocurrencies, the most famous of which is bitcoin. However, the applications of this distributed ledger technology are more far-reaching than crypto, explained the chief operating officer of the Deloitte EMEA blockchain lab, Anthony Day.
+“We need to divorce the difference between cryptocurrency and blockchain,” Day said. “For enterprise clients, the interesting part is how do we use distributed ledgers or blockchains to do the jobs that they’re already trying to do better, create new business models, creating operational efficiencies.”
+Furthermore, blockchain can easily be married with an array of other emerging technologies such as 3D printing, internet of things and robotics, to name but a few. “Where you see multiple technologies combined, that’s where you get the best business benefit and the most innovative propositions.”
+Antonio Senatore, chief technology officer of the lab, added: “The blockchain space is fairly large now and the technology landscape is fairly diverse. So, keeping an open mind about new technologies, new trends, is fairly important to us.
+“Deloitte takes much pride in being technology-agnostic in the blockchain space and we want our people to look at the blockchain technology landscape and also other technologies because blockchain is not a technology on its own, it can play with other technologies.”
+In a way, this makes it difficult to delineate what a blockchain lab is. The question that arises is more like: ‘What doesn’t it do?’
+Equally difficult to outline at times is what sort of skills you need to work in a blockchain lab. “We are looking for talent but we understand that blockchain is a new technology,” said Paula Butler, technical manager at the lab.
+“When we look for talent, we don’t expect people to have blockchain experience.” In a way, how could anyone have any substantial experience at this nascent stage in the development of the technology?
+Yet Deloitte still has particular attributes that it seeks in its applicants. There are a few core tenets that are necessary to working and thriving in a blockchain lab, and one is that you must have an open mind.
+This new technological frontier promises to be varied and exciting, but also removes the security of having a bedrock of tradition to lean on. In the lab, expect to see the rule book thrown on the fire, so to speak.
+You’ll also want to be able to pick up new technologies as soon as they arise. You’ll want to have the courage and curiosity to question clients in such a way that helps to clarify how best blockchain can be applied as a business solution to suit their needs.
+Want to know more? Check out our full interview with the people heading up Deloitte’s EMEA blockchain lab above.
+
+
+url: 
+https://www.siliconrepublic.com/people/deloitte-emea-blockchain-lab

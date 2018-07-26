@@ -1,0 +1,36 @@
+title: 
+Hubble Researcher Focuses on Blockchain for Space Data Processing - CoinDesk
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/hubble-researcher-focuses-on-blockchain-for-space-data-processing/
+
+summary: 
+ A Hubble Space Telescope researcher is testing a blockchain network for processing the vast amounts of data produced. Josh Peek, an associate astronomer with the Space Telescope Science Institute, told CoinDesk that the HST, like other space telescopes, requires "Millions upon millions" of hours of computing power to process data, which can become expensive. Hadron is a "Useful" proof-of-work blockchain, said AIKON co-founder and chief product officer Marc Blinder, that is processing the data Peek provides, with computing time paid for with AIKON's "CPU" tokens.
+
+full text: 
+Hubble Researcher Focuses on Blockchain for Space Data Processing
+NEWS
+Nikhilesh De
+Jul 24, 2018 at 15:00 UTC  |  Updated  Jul 24, 2018 at 15:01 UTC
+A Hubble Space Telescope (HST) researcher is testing a blockchain network for processing the vast amounts of data produced.
+Josh Peek, an associate astronomer with the Space Telescope Science Institute (STScI), told CoinDesk that the HST, like other space telescopes, requires "millions upon millions" of hours of computing power to process data, which can become expensive.
+While in the past, researchers "were only spending a tiny amount of compute time per galaxy" – resulting in basic results and potentially introducing errors at a detailed level, advances in computer technology have put more computing power in the hands of researchers, and, resultingly, a lot more data too.
+Using a decentralized network, Peek hopes, may provide a more efficient use of resources by allowing researchers to tap into a larger network than might be available via a traditional server farm.
+He explained:
+"Tens of millions of CPU hours can really run up a bill. NASA and [STScI] use computing centers and that's a way we can go … but there's long latency period where you go through a grant process … and so the idea came up that we could use a distributed network to do this really efficiently, it's 10 times cheaper than standard cloud computing."
+To that end, he is working with blockchain startups AIKON and Hadron to process the research data. Specifically, AIKON provides an interface via which Peek can input the data, after which it is processed and rendered through computers comprising Hadron's blockchain network.
+Peek likened the network to the SETI@Home program, which helps researchers attached to the Search for Extraterrestrial Intelligence (SETI) project similarly crowdsource computing power. In effect, the researcher is doing the same thing, but using a blockchain platform.
+"The idea is, we work through AIKON, [which] works as an intermediary and they provide a simple interface for companies to use, or for research groups like mine," he explained.
+Hadron is a "useful" proof-of-work blockchain, said AIKON co-founder and chief product officer Marc Blinder, that is processing the data Peek provides, with computing time paid for with AIKON's "CPU" tokens.
+To reduce volatility, the value of a token is pegged to the average cost of computing power charged by cloud hosting services, Blinder told CoinDesk.
+While the plan is to ultimately have research groups and other clients purchase CPU tokens to rent computing power, right now clients like Peek are testing the system using a supply of free tokens.
+The system simplifies the process of harnessing a distributed network for Peek, he said.
+"I'm not an expert in this stuff and that's the point," commented Peek, adding:
+"Nobody over here is going to do really complicated things with cryptocurrency, that's not what we do here. The whole idea is, to some sense, we're not touching cryptocurrency at all. We don't buy anything ... That's what AIKON is trying to do, make this as simple as possible with no cryptocurrency nonsense."
+Hubble Space Telescope image via NASA
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+This article is intended as a news item to inform our readers of various events and developments that affect, or that might in the future affect, the value of the cryptocurrency described above. The information contained herein is not intended to provide, and it does not provide, sufficient information to form the basis for an investment decision, and you should not rely on this information for that purpose. The information presented herein is accurate only as of its date, and it was not prepared by a research analyst or other investment professional. You should seek additional information regarding the merits and risks of investing in any cryptocurrency before deciding to purchase or sell any such instruments.
+
+
+url: 
+https://www.coindesk.com/hubble-researcher-focuses-on-blockchain-for-space-data-processing/

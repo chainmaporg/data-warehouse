@@ -1,0 +1,25 @@
+title: 
+Blockchain spending to hit $11.7 billion by 2022 - Coingeek
+
+date: 
+2018-07-26 00:28:55+00:00
+
+summary: 
+ International Data Corporation, a US-based market research company, feels that blockchain growth is going to increase exponentially over the next several years. IDC Customer Insight and Analysis Research Manager Stacey Soohoo explained, "Enthusiasm for blockchain continues to be universally shared across regions as businesses and organizations alike continue to explore the technology's potential business application. Regulatory concerns and industry standards continue to hinder widespread adoption as governments around the globe work with enterprises to formulate policies and governance. As such, cross-business collaboration and blockchain interoperability are emerging as key aspects in the growth of the distributed ledger technology." According to Soohoo, the largest investments into blockchain will be seen coming out of the US. She anticipates 36% of all global spending to come from the US, followed by Western Europe and then China.
+
+full text: 
+Blockchain spending to hit $11.7 billion by 2022
+Tech
+By Erik Gibbs
+July 26, 2018
+It’s fascinating to watch how the blockchain is taking hold of so many different industries. It seems as though there are no limits to the technology’s ability to greatly enhance any space and it doesn’t show any signs of slowing down. In fact, International Data Corporation (IDC), a US-based market research company, feels that blockchain growth is going to increase exponentially over the next several years.
+IDC predicts that, by the year 2022, global blockchain expenditures will reach $11.7 billion. This represents a compound annual growth rate of over 73%, and is substantially more than the $1.5 billion expected to be spent on blockchain this year.
+IDC Customer Insight and Analysis Research Manager Stacey Soohoo explained, “Enthusiasm for blockchain continues to be universally shared across regions as businesses and organizations alike continue to explore the technology’s potential business application. Regulatory concerns and industry standards continue to hinder widespread adoption as governments around the globe work with enterprises to formulate policies and governance . As such, cross-business collaboration and blockchain interoperability are emerging as key aspects in the growth of the distributed ledger technology (DLT).”
+According to Soohoo, the largest investments into blockchain will be seen coming out of the US. She anticipates 36% of all global spending to come from the US, followed by Western Europe and then China. Other Asia Pacific countries will be next in line.
+The financial sector will invest the largest amount. It is already expected to have invested $552 million by the end of this year as more and more banks adopt the technology. The distribution and services sector is next with an anticipated 2018 investment of around $379 million. Following closely will be manufacturing, which will have invested $334 million by year’s end. Soohoo points out that the financial sector “will be the leading driver in Western Europe, Middle East and Africa (MEA), China, and APeJC [Asia Pacific except Japan and China] in 2018.”
+IDC is a leading global provider of market data and advisory services for the telecommunications and consumer and information technology markets. It has been around since 1964 and currently provides analysis on markets in more than 110 countries using insight from over 1,100 analysts worldwide.
+Note: Tokens on the Bitcoin Core (segwit) Chain are Referred to as BTC coins. Bitcoin Cash (BCH) is today the only Bitcoin implementation that follows Satoshi Nakamoto’s original whitepaper for Peer to Peer Electronic Cash. Bitcoin BCH is the only major public blockchain that maintains the original vision for Bitcoin as fast, frictionless, electronic cash.
+
+
+url: 
+https://coingeek.com/blockchain-spending-hit-11-7-billion-2022/

@@ -1,0 +1,55 @@
+title: 
+How to Benefit From the Blockchain Job Boom | Applying for a Job | US News
+
+date: 
+2018-07-25 14:26:00-04:00
+
+summary: 
+ Demand for the job is expected to increase 31 percent by 2026, adding 27,200 jobs. Demand for the job is predicted to increase by 25 percent by 2026, adding 60,000 jobs. The job requires degrees from college and dental schools, plus completion of a surgical residency program.
+
+full text: 
+Applying for a Job
+How to Benefit From the Blockchain Job Boom
+'This is a world where you can create money out of thin air if you know how to do it,' one expert says.
+By Rebecca Koenig , Staff Writer |July 25, 2018, at 2:26 p.m.
+How to Benefit From the Blockchain Job Boom
+Share
+The number of job advertisements on LinkedIn related to blockchain quadrupled in 2017, according to Bloomberg Law. (Getty Images)
+Conjuring images of dusty file cabinets, data storage doesn't sound like an exciting career opportunity.
+But emerging technology that transparently tracks transactions has amassed big money and created intriguing job prospects. Called blockchain, it records information in decentralized ledgers that all parties can access at the same time, eliminating the need for intermediary institutions and accelerating the transfer of data and money. The technology's unique blend of computer science, economics and psychology also enables the creation and use of cryptocurrencies such as bitcoin .
+Blockchain has the potential, experts say, to be as revolutionary as the internet.
+"Empires are going to be built," says Laura Shin, journalist and host of the crypto podcast "Unchained and Unconfirmed." "This is a world where you can create money out of thin air if you know how to do it."
+Demand for workers is rising: The number of job advertisements on LinkedIn related to blockchain quadrupled in 2017, according to Bloomberg Law. And salaries in the field soar above six figures.
+"There is a lot of opportunity out there right now for those looking to get into the field," says Craig Hajduk, principal program manager of blockchain engineering at Microsoft. "We expect this business to grow exponentially as the technology matures."
+Established Companies
+Although much of the blockchain hype has focused on startups and their cryptocurrencies, there is plenty of action at large, well-established companies, too, some of which have built private blockchain systems to boost efficiency and reduce fraudulent activity.
+"Any industry where provenance is important, or where fraud is a problem, like luxury goods, pharmaceuticals, government services and food, all of those areas are looking at blockchain," Shin says. "It can be used to solve a whole bunch of problems."
+Microsoft and IBM are among the big-name corporations that have embraced this technology, which they use for their own internal processes and also to create tools for clients.
+For example, Microsoft now uses blockchain to almost instantly calculate royalties owed to publishers from its video game platform, Xbox. That's a big improvement over its old, manual method, which took 45 days, according to a Microsoft spokesperson. IBM applies blockchain to help grocery companies rapidly identify the source of food-borne disease. In an experiment with Walmart, blockchain tools reduced the time it took to trace mangoes back to their farm of origin from six days and 18 hours to mere seconds.
+Excitement about using blockchain has led to "massive job hiring" at many big companies, says Eric Ervin, president and CEO of Reality Shares, an investing firm that identifies businesses that are effectively adopting blockchain technology. "There's an awesome opportunity for people to work in the space."
+Indeed, IBM has 1,600 employees working on its more than 400 blockchain projects, says Marie Wieck, general manager of IBM Blockchain: "It's such a hot topic we can't keep up with demand."
+Corporations need workers capable of coding smart contracts and building blockchain applications. But developers with that rare knowledge make up only about half of the average team working on an IBM blockchain project, Wieck says. The company also needs people with expertise in regulations, business models and front-end and back-office development who can make blockchain tools easy for laypeople to use.
+And because IBM works with clients in many industries, it seeks professionals who have worked in fields as disparate as financial payments and food safety to advise "how you can apply blockchain to transform, save costs and reduce time" in those areas, Wieck says.
+[Read: How Workers Can Adapt to the Technology Revolution .]
+Startups
+Blockchain technology has set off a gold rush. But today's prospectors don't merely mine for treasure – they believe they can code it into existence. As startups race to create and invest in cryptocurrencies, they're hiring "hardcore technologists," Shin says, but "people with the right business experience also will be in high demand."
+CoinDesk, a media company that covers blockchain industry news, launched a jobs site in May because its leaders noticed the proliferation of diverse career opportunities at blockchain startups. Positions advertised on the CoinDesk Career Center include vice president of accounting , director of public relations , risk analytics manager, quality engineer and smart contract developer.
+RELATED CONTENT
+[RELATED: Startups vs. Big Companies ]
+"So many companies that have started to reach scale need to start telling their stories and reach revenue," says Jacob Donnelly, director of marketing at CoinDesk.
+There is especially high demand for community managers who can comfortably liaise among leaders of highly technical projects and also members of the public, says Meltem Demirors, chief strategy officer of CoinShares, a digital asset management company. These professionals blend marketing with education and advocacy by writing blog posts, creating YouTube videos, crafting grant proposals and organizing meetings of like-minded business leaders. Successful community managers may have backgrounds in academia, nonprofit organizing or business development.
+Working at any startup is risky, as many fledgling companies never get off the ground. But even if a particular project fails to thrive, Donnelly thinks the industry as a whole is here to stay, making it valuable to gain experience at a startup.
+"Things move fast in crypto," he says. "As long as you want to learn, there's a lot of opportunity."
+[See: 25 Best Jobs That Pay $100K .]
+Education and Skills
+Blockchain is on the syllabus in college classes across the country, especially for computer science and business students.
+Christopher Sides, a rising senior studying mechanical engineering and computer science at Duke University, is a member of the school's Blockchain Lab, a student organization whose members aim to educate their peers about the rapidly evolving technology. He also is a teaching assistant for the college's course on blockchain, which is offered through the business program.
+The industry generates "a ton of chatter" verging on "hype, especially on university campuses," Sides says. "Business and economics majors are interested in markets and products, and that transitions over more than I would usually expect into computer science people. It's a little more rare to find people actually interested in developing on it and understanding what it is on a true technology level."
+Though helpful, the credentials Sides will earn aren't strictly necessary to finding an industry job. Thanks to the relative youth of blockchain technology, recruiters are willing to consider candidates who don't have advanced degrees or experience in the field as long as they're willing to work hard and experiment with new ideas, Demirors says.
+"There's really no proven path to success. Everyone is early into the journey," she explains. "The fit tends to be less at a competency level and really at a mission- or purpose-driven level."
+Plus, there's so much money pouring into the field that startups "are not as concerned about their burn rate. They're willing to take a chance on people."
+Of course, understanding big blockchain concepts still matters for finding a job in the industry. Several certificate programs that teach participants blockchain skills in months or weeks have popped up. Beyond formal school settings, there are free online resources such as IBM's " Blockchain for Dummies " guidebook and a compilation of articles published by venture capital firm Andreessen Horowitz. Industry leaders write about the latest developments on Medium, a blog website.
+
+
+url: 
+https://money.usnews.com/careers/applying-for-a-job/articles/2018-07-25/how-to-benefit-from-the-blockchain-job-boom

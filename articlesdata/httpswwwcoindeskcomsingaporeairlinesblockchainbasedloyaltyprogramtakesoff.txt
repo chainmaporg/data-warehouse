@@ -1,0 +1,25 @@
+title: 
+Singapore Airlines&#039; Blockchain-Based Loyalty Program Takes Off - CoinDesk
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/singapore-airlines-blockchain-based-loyalty-program-takes-off/
+
+summary: 
+ Singapore Airlines has officially launched its blockchain-based loyalty program for frequent customers. KrisPay, a digital wallet developed in partnership with KPMG and Microsoft, allows Singapore Airlines customers to turn travel miles into units of payment, which can be used with partner merchants in Singapore. Most notably the newly dubbed KrisFlyer program utilizes a blockchain to underpin its clients' loyalty wallets, according to a press release.
+
+full text: 
+Singapore Airlines' Blockchain-Based Loyalty Program Takes Off
+NEWS
+Jul 25, 2018 at 00:00 UTC
+Singapore Airlines has officially launched its blockchain-based loyalty program for frequent customers.
+KrisPay, a digital wallet developed in partnership with KPMG and Microsoft, allows Singapore Airlines customers to turn travel miles into units of payment, which can be used with partner merchants in Singapore. Most notably, however, the newly dubbed KrisFlyer program utilizes a blockchain to underpin its clients' loyalty wallets, according to a press release .
+Customers who sign up with the program will be able to download an app to a mobile phone. These customers will then be able to convert their miles into KrisPay units and pay with them by scanning a QR code at partner merchants.
+The company announced 18 partners in Singapore, including eateries, beauty parlors, gas stations and some retailers,including the nation's LEGO store outlets. More partners are expected to sign up soon, and the airline says it will offer discounts for early users.
+The airline first announced its new blockchain service in February , after conducting a successful proof-of-concept trial with KPMG and Microsoft. The announcement comes a week after the airline was dubbed  it was announced the best airline in the world, winning the World Airline Awards by Skytrax in London. This year, SIA outpaced Qatar Airlines, the 2017 winner.
+Singapore Airlines A350 image via Fasttailwind / Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+This article is intended as a news item to inform our readers of various events and developments that affect, or that might in the future affect, the value of the cryptocurrency described above. The information contained herein is not intended to provide, and it does not provide, sufficient information to form the basis for an investment decision, and you should not rely on this information for that purpose. The information presented herein is accurate only as of its date, and it was not prepared by a research analyst or other investment professional. You should seek additional information regarding the merits and risks of investing in any cryptocurrency before deciding to purchase or sell any such instruments.
+
+
+url: 
+https://www.coindesk.com/singapore-airlines-blockchain-based-loyalty-program-takes-off/

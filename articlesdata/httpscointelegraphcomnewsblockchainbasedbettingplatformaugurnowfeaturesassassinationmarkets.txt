@@ -1,0 +1,31 @@
+title: 
+Blockchain-Based Betting Platform Augur Now Features &lsquo;Assassination Markets&rsquo;
+
+date: 
+2018-07-26 00:44:00+01:00
+
+summary: 
+ So-called "Assassination markets" have now popped up on blockchain event betting platform Augur, Mashable media outlet reported July 24. Users are now betting on when certain public figures will die. Users have recently posted bets on Augur regarding the deaths of a number of public figures, such as the U.S. president Donald Trump and CEO at Berkshire Hathaway Warren Buffett.
+
+full text: 
+Helen Partz
+Blockchain-Based Betting Platform Augur Now Features ‘Assassination Markets’
+Users of Ethereum-powered prediction market Augur are now betting on “assassination markets,” featuring Donald Trump and Warren Buffett.
+6084 Total views
+204 Total shares
+News
+Disclaimer: Cointelegraph considers speculation on the deaths of individuals as immoral and does not endorse it in any way
+So-called “assassination markets” have now popped up on blockchain event betting platform Augur, Mashable media outlet reported July 24. Users are now betting on when certain public figures will die.
+Created by the non-profit Forecast Foundation , Augur launched its Ethereum (ETH) mainnet-powered predictions platform on July 9, according to Fortune . On the platform, users can make a prediction about the outcome of any event.
+If a user believes the outcome will happen, they buy shares with ETH. If a user believes the event will not occur, they can short the bet by selling shares. In either case, should a user’s prediction come true, they can profit from the result.
+Users have recently posted bets on Augur regarding the deaths of a number of public figures, such as the U.S. president Donald Trump and CEO at Berkshire Hathaway Warren Buffett . The bet "Will Donald Trump (President of The USA) be killed at any point during 2018," has acquired 50.3 shares as of July 23.
+Augur “Assassination Market” Screenshot. Source: Mashable
+This is not the first example of an assassination market. Back in 2013, an online market was created where users set out to fund the assassinations of Ben Bernanke and American president Barack Obama. While the current markets on Augur merely place a bet on whether such an event will happen, should the wager be high enough it could still create an incentive for someone to carry out the crime.
+Users on the Augur subreddit have suggested that something be done about assassination markets, but given the decentralized nature of the platform, "no one person can single-handedly change Augur or shut it down," according to the Augur website .
+To ensure that a bet is settled properly, Augur has created a system of “reporters” who state the truthful outcome of a posited event. Reporters are essentially holders of Augur’s own REP token.
+In order to report an event, users must stake REP on an event’s correct outcome to receive any of the settlement fees. If REP holders incorrectly report a result, they lose their tokens. If they do not participate in a ‘fork,’ or a highly disputed outcome to an event, they lose five percent of their REP. Passive holders of REP who do not participate in the bet settlement process are also penalized.
+REP is trading at $30.16 at press time, having hit its peak of over $107 in January 2018 according to Coinmarketcap .
+
+
+url: 
+https://cointelegraph.com/news/blockchain-based-betting-platform-augur-now-features-assassination-markets

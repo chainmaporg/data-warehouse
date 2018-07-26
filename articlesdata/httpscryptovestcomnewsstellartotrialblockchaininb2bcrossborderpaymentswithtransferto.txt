@@ -1,0 +1,26 @@
+title: 
+Stellar To Trial Blockchain in B2B Cross-Border Payments With TransferTo - Cryptovest
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptovest.com/news/stellar-to-trial-blockchain-in-b2b-cross-border-payments-with-transferto/
+
+summary: 
+,"sm_api_message":"THE PAGE COULD NOT BE FOUND"}
+
+full text: 
+Stellar To Trial Blockchain in B2B Cross-Border Payments With TransferTo
+The deal covers 70 countries including the USA, China, Australia, China, India and most of Latin America.
+by Marin Marinov , 18 hrs ago
+Subscribe
+TransferTo, a multinational business-to-business (B2B) remittance system, has signed a deal with Stellar Development Foundation, the body that develops blockchain payment transfer solutions and XLM cryptocurrency, in a bid to attract new clients by cutting the cost of payments, TransferTo said on Wednesday.
+Under the agreement, the payment provider will integrate Stellar’s blockchain-based system for more seamless and efficient cross-border facilitation services. Developed as a distributed ledger technology (DLT), the blockchain, which underpins cryptocurrencies, has the capabilities to lower the cost, to faster transfer and to bring more transparency by tracking all activities.
+ “[…]by partnering with Stellar our goal is to trial the blockchain technology and scale our cross-border payment service to better serve our partners and reduce costs. This can enable our partners to better serve both the migrant workers sending money home and their families receiving it,” ik-Boon Tan, Chief Customer Officer at TransferTo said in a statement.
+TransferTo offers a trans-border mobile facilitation system that connects banks, financial institutions, non-governmental organizations (NGOs) and e-commerce merchants as well as various money providers including wallets and mobile payment companies. According to TransferTo’s cover map, the company currently operates in more 70 countries, including nearly the whole of Latin America, the United States, China, India, Australia, and western and central African states.
+Stellar Development Foundation’s clients also will have access to the TransferTo network.
+“Under this collaboration, financial institutions and partners of both Stellar.org and TransferTo will benefit from the combined network coverage and be able to leverage new technologies to send and receive money more efficiently,” TransferTo explained.
+Stellar is a cryptocurrency project that targets transfer and payment companies by offering them blockchain-based services. Founded in San Francisco in July 2014 by Jed McCaleb and Joyce Kim, Stellar has own virtual coin, XLM , which is among the top cryptocurrencies by market capitalization.
+×
+
+
+url: 
+https://cryptovest.com/news/stellar-to-trial-blockchain-in-b2b-cross-border-payments-with-transferto/

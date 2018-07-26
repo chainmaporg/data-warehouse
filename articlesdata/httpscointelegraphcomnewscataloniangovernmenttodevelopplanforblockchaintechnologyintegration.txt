@@ -1,0 +1,25 @@
+title: 
+Catalonian Government to Develop Plan for Blockchain Technology Integration
+
+date: 
+2018-07-25 14:27:00+01:00
+
+summary: 
+ The Generalitat de Catalunya, an official governmental institution of the Spanish autonomous community of Catalonia, will promote blockchain technology "With the aim of improving digital services to the public and promoting the potential of this technology between the Administration, companies and the citizen[s]." According to the press release, Catalonia's Department of Digital Policies must develop a plan for incorporating blockchain tech in all areas of the public administration's activities by the end of December 2018. In May, Barcelona Tech City had announced the creation of a specialized space for blockchain technology development, and Spain-headquartered bank Santander had become the first global company that used blockchain technology for investor voting.
+
+full text: 
+Max Yakubowski
+Catalonian Government to Develop Plan for Blockchain Technology Integration
+The Catalonian Government has revealed a plan to implement blockchain technology to improve the activity of its public administration.
+8871 Total views
+301 Total shares
+News
+The Generalitat de Catalunya (Government of Catalonia) has revealed a plan for blockchain tech implementation in its public administrative activity, according to the official press release July 24.
+The Generalitat de Catalunya, an official governmental institution of the Spanish autonomous community of Catalonia, will promote blockchain technology “with the aim of improving digital services to the public and promoting the potential of this technology between the Administration, companies and the citizen[s].”
+According to the press release, Catalonia’s Department of Digital Policies must develop a plan for incorporating blockchain tech in all areas of the public administration’s activities by the end of December 2018. 
+The Department of Digital Policies’ strategy, which will be formed by an interdepartmental working group, aims to promote the “knowledge, training and the creation of talent in the field of 'blockchain'” as well as identify the technology’s areas of maximum potential and economic value.
+Spain has already embraced the use of blockchain technologies across a variety of industries. In May, Barcelona Tech City had announced the creation of a specialized space for blockchain technology development, and Spain-headquartered bank Santander had become the first global company that used blockchain technology for investor voting.
+
+
+url: 
+https://cointelegraph.com/news/catalonian-government-to-develop-plan-for-blockchain-technology-integration

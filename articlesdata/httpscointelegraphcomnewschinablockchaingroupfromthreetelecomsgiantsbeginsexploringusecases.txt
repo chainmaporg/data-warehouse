@@ -1,0 +1,27 @@
+title: 
+China: Blockchain Group From Three Telecoms Giants Begins Exploring Use Cases
+
+date: 
+2018-07-23 18:11:00+01:00
+
+summary: 
+ China's three major telecoms operators launched a blockchain research group, which has held its first meeting, local media outlet Fintech News reports July 23. The product of China Mobile, China Unicom and China Telecom, the group involves a total of twenty experts from eight companies including Huawei, Union Mobile, and Financial Technology. The aim, an unnamed China Mobile official said, is to "Build a trustworthy blockchain application team to explore the blockchain area."
+
+full text: 
+China: Blockchain Group From Three Telecoms Giants Begins Exploring Use Cases
+China has launched a cross-industry telecoms group dedicated to exploring how it can use blockchain technology.
+14566 Total views
+265 Total shares
+News
+China’s three major telecoms operators launched a blockchain research group, which has held its first meeting, local media outlet Fintech News reports July 23.
+The product of China Mobile, China Unicom and China Telecom, the group involves a total of twenty experts from eight companies including Huawei, Union Mobile, and Financial Technology (UMF).
+The aim, an unnamed China Mobile official said, is to “build a trustworthy blockchain application team to explore the blockchain area.”
+“It's a solution in terms of order management, contract management and creation of use cases,” the official added.
+The telecoms group will reportedly seek to increase understanding of “new applications in the area of ??blockchain digital assets, telecommunication assets and next-generation telecommunication network,” in conjunction with local industry participants.
+China’s commitment underscores bullish sentiment on blockchain’s potential value for the global telecoms industry, with a report earlier this month estimating the technology could contribute as much as $1 bln by 2023.
+The move continues China’s coordinated approach to blockchain exploration ahead of universal standards that are set to govern the domestic industry by the end of 2019.
+China will also lead an international research group on blockchain and IoT , Cointelegraph reported last week, focussing on “global development and [promoting] the integration of fiat and [the] digital economy.”
+
+
+url: 
+https://cointelegraph.com/news/china-blockchain-group-from-three-telecoms-giants-begins-exploring-use-cases

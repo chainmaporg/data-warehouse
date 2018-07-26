@@ -1,0 +1,41 @@
+title: 
+World First As Baby Born On The Blockchain In Tanzania
+
+date: 
+2018-07-25 13:42:00+00:00
+
+summary: 
+ An Irish medical aid project recorded on the blockchain has seen a world first this week - a baby. AID:Tech carried out the world's first delivery of international aid using blockchain technology in December 2015. Speaking of birth, the first baby to be born on the blockchain was delivered on the 13th July 2018, shortly followed by the second and third babies on 19th July 2018.
+
+full text: 
+Share to linkedin
+A new born baby Photo credit: STEFANIE GLINSKI/AFP/Getty Images
+An Irish medical aid project recorded on the blockchain has seen a world first this week – a baby.
+Initially, a project funded to tackle controversies in the charitable sector regarding fair distribution of donations and a joint effort between Irish AID:Tech and Dutch PharmAccess, the collaboration are celebrating the success of a women’s aid project in Tanzania, resulting in the birth of 3-babies so far.
+In order to track aid and support to vulnerable women, the founders sought to use blockchain technology in facilitating the delivery of aid and sharing of data, with the common aim of implementing support as efficiently as possible.
+Why AID:Tech was founded
+Joseph Thompson is the CEO and Co-Founder of AID:Tech , he co-founded the organization in an attempt to provide more transparency in the distribution of aid. It came about after his own experience with charitable fraud and disorganization.
+In 2009 Joseph ran the Marathon des Sables , renowned as one of the toughest races in the world that takes place in the Sahara Desert, and raised a commendable $122,000 in doing so.
+Sometime later he asked his chosen charity for an update on how the funds were being spent. Only instead the charity came back to him and confessed that instead of dishing it out to their intended, they had lost his donation.
+Determined to change the industry, Joseph (who holds an MSc in Digital Currencies and is a member of the Irish Bitcoin Foundation) teamed up with Niall Dennehy, already successful within technology and design space, to co-found AID:Tech.
+The organizations end vision is to provide individuals with a legally recognized digital identity, allowing for aid to be received directly by the intended beneficiary.
+Successful and innovative work
+AID:Tech carried out the world’s first delivery of international aid using blockchain technology in December 2015. The first delivery was made to Syrian refugees in Lebanon.
+But fraud was never far away, shortly after the programme was launched the system detected an attempt to defraud rightful beneficiaries of food vouchers. This automatically rendered the wrongly acquired vouchers invalid.
+Private investment and grants
+The idea of a transparent charitable industry has grown legs quickly, drawing interest from private investors such as Techstars, Enterprise Ireland and SGInnovate as well as American backer Jason Calacanis.
+The project also caught the attention of Rockefeller and Expo2020, a Universal Exposition to be hosted in October 2020 in Dubai, both of whom have awarded AID:Tech grant funding.
+In fact, the United Nations recently named them as one of their ten global Sustainable Development Goal Pioneers for 2017. But it’s the collaboration with Dutch NGO PharmAccess and the resulting babies birth that will put the company on the map.
+A focus on pre-natal care
+The ability to detect fraud is of great value to aid providers and donors alike. That’s why in Tanzania AID:Tech is working with PharmAccess to identify pregnant women and provide them with the care they are entitled to.
+The project gives each pregnant woman a digital ID that entitles them to pregnancy vitamins such as folic acid and tracks the women’s progress via data added to the blockchain. From registration to a medical appointment to birth. And speaking of birth, the first baby to be born on the blockchain was delivered on the 13th July 2018, shortly followed by the second and third babies on 19th July 2018.
+The system is now the driving force behind their mothers gaining access to postnatal care, medication and follow up appointments as required.
+Room for progress
+As the project grows and encounters its first challenges, its founders are seeking ways to ensure that the technology can keep up with demand.
+The blockchain is a relatively young technology, and its scalability is yet to be tested in this way—after all babies didn’t factor in the Satoshi whitepaper, but the traceability factor is well and truly working. AID:Tech's blockchain platform effectively allows for traceability of any entitlement that is documented on the blockchain securely and efficiently.
+There have been challenges along the way though, with attempted fraud just one element. However, the individual nature of the digital ID allows for suppliers to check the ID holder’s information - including a photograph, before providing them with aid.
+From welfare distribution in Tanzania to the homeless in Ireland, these successful pilots have led to a quick progression for AID:Tech. Thanks to investments and collaboration, AID:Tech is transforming charitable distributions, one node at a time.
+
+
+url: 
+https://www.forbes.com/sites/ginaclarke/2018/07/25/world-first-as-baby-born-on-the-blockchain-in-tanzania/

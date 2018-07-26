@@ -1,0 +1,28 @@
+title: 
+Google bets on blockchain for cloud | TechRadar
+
+date: 
+2018-07-24 14:07:27+00:00
+
+summary: 
+ Google has once again thrown its backing behind blockchain technology - but now wants to take it into the cloud. The tech giant announced a a partnership with New York-based startup Digital Asset, which makes tools to build blockchain-based apps, at its Google Cloud Next event, signalling its support for the technology. The tie-up means that Google Cloud Platform customers will now be able to build distributed ledger technology frameworks in their own apps and services.
+
+full text: 
+Google bets on blockchain for cloud
+Google bets on blockchain for cloud
+Google Cloud Platform now supports key backbone of blockchain technology
+Shares
+Google has once again thrown its backing behind blockchain technology - but now wants to take it into the cloud.
+The tech giant announced a a partnership with New York-based startup Digital Asset , which makes tools to build blockchain-based apps, at its Google Cloud Next event, signalling its support for the technology.
+The tie-up means that Google Cloud Platform (GCP) customers will now be able to build distributed ledger technology (DLT) frameworks (essentially the backbone of blockchain) in their own apps and services.
+What is blockchain? Everything you need to know!
+Google Cloud blockchain
+Digital Asset has created its own programming language specially designed for blockchain apps, meaning GCP customers (or even Google itself) would be able to build and potentially even license their own offerings.
+Any organisations looking to try out or introduce DLT technolgoy will now be able to build and test their services without needing to configure their underlying platform - making it far easier to introduce new features.
+“We are delighted to innovate with Digital Asset in the distributed ledger space,” said Leonard Law, head of financial services platform at Google Cloud. 
+“DLT has great potential to benefit customers not just in the financial services industry, but across many industries, and we’re excited to bring these developer tools to Google Cloud.”
+Alongside the Digital Asset partnership, Google also announced that GCP customers would soon be able to build in open-source integrations for Hyperledger Fabric and Ethereum later this year.
+
+
+url: 
+https://www.techradar.com/news/google-bets-on-blockchain-for-cloud

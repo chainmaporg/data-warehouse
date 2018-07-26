@@ -1,0 +1,58 @@
+title: 
+Blockchain: 6 great non-cryptocurrency uses | Opinion - Ad Age
+
+date: 
+2018-07-16 00:00:00
+
+summary: 
+ Blockchain is well-known for being Bitcoin's underlying technology, but many believe blockchain has the power to radically transform whole industries. Uses: Walmart uses blockchain to allow its employees to scan goods in the store's app and track it along every step of the journey from harvest to the store floor. The world's largest shipping company, Maersk, uses blockchain to monitor its cargo ships, while British Airways uses blockchain to ensure the information it shares on its site, in its apps, and on airport displays is up-to-date and correct.
+
+full text: 
+Aleady a member? Sign in
+Get More From Ad Age
+Register to become a member today. You'll get the essential information you need to do your job better, including
+7 free articles per month on Ad Age and Creativity
+Ability to comment on articles and creative work
+Access to 9 custom e-newsletters like Ad Age Daily, Ad Age Digital and CMO Strategy
+To get unlimited content and more benefits, check out our Membership page
+Register Now
+Want more Access, Content & Connections?
+We are glad you are enjoying Advertising Age. To get uninterrupted access and additional benefits, become a member today.
+Already a member? Log in or go back to the homepage .
+Blockchain: 6 great non-cryptocurrency uses
+By Shelly Palmer . Published on
+July 23, 2018
+.
+Credit: phive2015/iStock
+Blockchain is well-known for being Bitcoin's underlying technology, but many believe blockchain has the power to radically transform whole industries. Here are six non-cryptocurrency blockchain (distributed ledger) uses to help you form your own opinion.
+1. Smart contracts
+Overview: Smart contracts are self-executing programs that automatically check the rules of the transaction, verify and process the transaction, and, in some cases, enforce the obligations of the parties. This type of automation can dramatically increase productivity and lower costs.
+In my article "What Is a Smart Contract?" I suggest that
+vending machines are a good metaphor for smart contracts. You identify the item you wish to obtain. You put your money in the slot. The vending machine determines if it is the correct amount of money. If it is not the correct amount, the vending machine asks you for more or offers to return the money you have already inserted. If it is the correct amount, the vending machine releases the item you selected. Smart contracts work exactly the same way. You state your conditions, someone meets the conditions, and the transaction is completed.
+Uses: Companies like Slock.it use smart contracts to automate payments for renting electric vehicle charging stations, while Fizzy tracks flight delays and automatically refunds passengers when flights take off more than 2 hours late.
+2. Tokenization of content
+Overview: Tokenization allows you to take an asset and fractionalize its ownership by creating digital tokens. Each token represents a percentage of ownership in the asset, and the use of blockchain makes the chain of custody and proof of ownership immutable. In practice, you can do this with both digital and physical assets, but in the absence of laws or regulations, claiming title to physical property without proper government records tends to yield unexpected results. That said, there are quite a few tokenization projects in the works.
+Uses: Tokenizing content allowed messaging app Kik to have a "reverse ICO (initial coin offering)" (in which the company decentralized itself by selling tokens, like stocks, to interested investors) to raise $100 million and continue to grow its platform. Simple Token empowers companies to easily create branded tokens without having to worry about regulatory issues or creating an ICO.
+3. Eliminating counterfeit products
+Overview: Because blockchains are permanent, immutable ledgers, it's easy to identify and trace the chain of ownership of assets. Storing serial numbers or other product identity information on a blockchain allows all parties (manufacturers, distributors, retailers, and consumers) to verify that the item in question is authentic.
+Use Cases: Blockverify uses blockchain technology to boost anti-counterfeit measures by helping to identify counterfeits and prevent counterfeit duplication of products and by enabling companies to verify their products and monitor their supply chains. The world's largest diamond producer, De Beers, is working with blockchain technology to create an immutable and permanent digital record for every registered diamond—and cut down on conflict ("blood") diamonds.
+4. Supply chain improvement
+Overview: By identifying production components and processes and storing that information on a blockchain, you can monitor (and optimize) your supply chain from raw materials to finished goods.
+Uses: Walmart uses blockchain to allow its employees to scan goods (like fruit) in the store's app and track it along every step of the journey from harvest to the store floor. The world's largest shipping company, Maersk, uses blockchain to monitor its cargo ships, while British Airways uses blockchain to ensure the information it shares on its site, in its apps, and on airport displays is up-to-date and correct.
+5. Digital twins
+Overview: A digital twin is a virtual representation of a physical asset. Through sensor data, artificial intelligence, and human input, digital twins mirror their real world counterparts and create value by allowing for training, maintenance, troubleshooting, simulation, and more.
+Use Cases: Deloitte uses digital twins to "detect physical issues sooner, predict outcomes more accurately, and build better products," while GE uses digital twins to optimize its wind farms, leading to an increase of up to 20% in annual energy production.
+6. Encrypted messaging
+Overview: Encrypted messaging has become "table stakes" for business communication. There are many traditional solutions for end-to-end encryption, but blockchain has inspired a new approach that leverages decentralization. Using blockchain, messages can be anonymous (even IP addresses can be masked). Work is generally done locally, so no private user data is transferred. And some blockchain-based encrypted messaging solutions include anonymous cryptocurrency-style payment options as well.
+Use Cases: There are quite a few organizations working on blockchain-powered encrypted messaging platforms, including Matrix, Crypviser, and ADAMANT.
+In conclusion
+I'm a big fan of blockchain, and (full disclosure) we are actively involved with some of the services, protocols, and organizations listed here. That said, before you start any blockchain project, you must ask the following question: "For this project, is a blockchain a better choice than a well-crafted, secure database?" Once you're satisfied with your answer, go forth unafraid.
+Author's note: This is not a sponsored post. I am the author of this article and it expresses my own opinions. I am not, nor is my company, receiving compensation for it.
+Most Popular
+Opinion
+Shelly Palmer
+Named LinkedIn's No. 1 Voice in Technology for 2017 , Shelly Palmer is CEO of The Palmer Group , a strategic advisory, technology solutions and business development practice focused at the nexus of media and marketing with a special emphasis on machine learning and data-driven decision-making. He is Fox 5 New York's on-air tech and digital media expert and a regular commentator on CNBC and CNN. Follow @shellypalmer or visit shellypalmer.com.
+
+
+url: 
+http://adage.com/article/opinion/blockchain-6-great-cryptocurrency-cases/314340/

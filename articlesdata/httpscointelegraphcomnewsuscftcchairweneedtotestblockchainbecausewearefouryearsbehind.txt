@@ -1,0 +1,28 @@
+title: 
+U.S. CFTC Chair: We Need to Test Blockchain Because We Are &lsquo;Four Years Behind&rsquo;
+
+date: 
+2018-07-26 02:06:21
+
+summary: 
+ The chairman emphasized the need for the appropriate procedures that would enable the CFTC to examine innovative blockchain tech for potential future use cases. When asked about the importance of the CFTC Research and Development Modernization Act, introduced by several members of the Agriculture Committee on June 14, Giancarlo explained that there is a need for a legally sound, fast process of sharing information between the agency and fintech innovators, "Especially in the area of blockchain." "We're falling behind. Just two days ago, the Bank of England announced that they're putting in a new bank-to-bank payment system in the U.K., and it's gonna be blockchain-compliant. And they've had the last four years to participate in all these blockchain beta tests that we've not been able to participate in. So I feel like we're four years behind, because we do need to test it, we need to see how it can help us do a better job as regulator."
+
+full text: 
+Andrew Marshall
+U.S. CFTC Chair: We Need to Test Blockchain Because We Are ‘Four Years Behind’
+During a Congressional hearing July 25, CFTC chair Christopher Giancarlo said the agency is “four years behind” on blockchain research and regulation.
+4892 Total views
+207 Total shares
+News
+Chairman of the U.S. Commodity Futures Trading Commission ( CFTC ) Christopher Giancarlo outlined his agency’s interest in blockchain technology during a Congressional hearing Wednesday, July 25. The chairman emphasized the need for the appropriate procedures that would enable the CFTC to examine innovative blockchain tech for potential future use cases.
+The hearing, titled “Examining the Upcoming Agenda for the CFTC,” was convened by the House Committee on Agriculture. During the hearing, Giancarlo was asked by Congressman Austin Scott to explain the goals of LabCFTC , a dedicated hub for “engagement with the fintech innovation community” that was set up by the agency last year. The chairman elaborated:
+“LabCFTC is our front door into these new regulatory fintech developments in the marketplace, and it’s so important to us to be able to understand these innovations that are coming down the pike so fast.”
+When asked about the importance of the CFTC Research and Development Modernization Act, introduced by several members of the Agriculture Committee on June 14, Giancarlo explained that there is a need for a legally sound, fast process of sharing information between the agency and fintech innovators, “especially in the area of blockchain.”
+According to the chairman, the agency is barred from taking direct part in trials of blockchain proof-of-concepts ( PoC ). This is due to the fact that free exchange of information between the CFTC and a private startup would be legally considered a gift, something the agency is forbidden from doing.
+On the other hand, Giancarlo continued, trying to pay a private company for information is infeasible due to the time-consuming nature of the appropriation process. Thus, the CFTC R&D Modernization Act would allow the agency to directly participate in innovative fintech projects without having to pay them, and without violating the law in the process. The chairman further explained why he thinks it is so important for the CFTC to establish new legal procedures:
+“We’re falling behind. Just two days ago, the Bank of England announced that they’re putting in a new bank-to-bank payment system in the U.K. , and it’s gonna be blockchain-compliant. And they’ve had the last four years (...) to participate in all these blockchain beta tests that we’ve not been able to participate in. (...) So I feel like we’re four years behind, because we do need to test it, (...) we need to see how it can help us do a better job as regulator.”
+Back in February of this year, the U.S. Securities and Exchange Commission ( SEC ) and the CFTC held a joint hearing on cryptocurrencies. During the hearing, Christopher Giancarlo outlined his positive stance on blockchain tech, saying that financial institutions, charities, social services, agriculture, and logistics could benefit from it in a number of ways.
+
+
+url: 
+https://cointelegraph.com/news/u-s-cftc-chair-we-need-to-test-blockchain-because-we-are-four-years-behind

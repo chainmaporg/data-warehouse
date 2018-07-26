@@ -1,0 +1,28 @@
+title: 
+Joseph Lubin Names Berlin as The Most Important City in The &lsquo;Blockchain Cosmos&rsquo;
+
+date: 
+2018-07-26 05:10:00+01:00
+
+summary: 
+ Ethereum co-founder Joseph Lubin referred to Berlin as "The most important city in the blockchain cosmos", Cointelegraph auf Deutsch reported July 25. Lubin said that, "Berlin has the infrastructure, Berlin has the talent, the really good programmers are here." Lubin added that, if Berlin wanted to maintain its status as a blockchain hub, "The government needs to set up more programs to promote blockchain." In an interview with Cointelegraph, Lubin said that when Vitalik Buterin came up with the description for the Ethereum platforms, "It was essentially the most elegant, the most powerful description of a blockchain platform up to that point."
+
+full text: 
+Joseph Lubin Names Berlin as The Most Important City in The ‘Blockchain Cosmos’
+The co-founder of Ethereum, Joseph Lubin, called Berlin the most important city in the blockchain cosmos.
+1038 Total views
+123 Total shares
+News
+Ethereum co-founder Joseph Lubin referred to Berlin as “the most important city in the blockchain cosmos”, Cointelegraph auf Deutsch reported July 25.
+Lubin said that, "Berlin has the infrastructure, Berlin has the talent, the really good programmers are here." Lubin added that, if Berlin wanted to maintain its status as a blockchain hub,  "the government needs to set up more programs to promote blockchain ."
+According to Lubin, blockchain is still in its infancy. The Ethereum co-founder, who now is concentrating on app development on the Ethereum blockchain with his company ConsenSys , said:
+"We've seen a lot of bubbles bursting, and will do so more often in blockchain and cryptocurrency. At $30, Bitcoin was a bubble, at $200 and at $20,000 even."
+Even though he is less interested in cryptocurrencies , the hype surrounding Bitcoin is anything but bad, according to Lubin, because it will bring more money to the market and drive technology forward.
+Lubin’s main concern is developing the next stage of the Internet, which he refers to as Web 3.0. According to Lubin, the “old web” has too many mistakes; people do not have control over their data, meaning companies can capitalize on user data, and there is no quick system for settling cross-border payments.
+Lubin said, "We have to get away from silos, from companies that collect data and make money, and people should have that back in their hands."
+In an interview with Cointelegraph, Lubin said that when Vitalik Buterin came up with the description for the Ethereum platforms, “It was essentially the most elegant, the most powerful description of a blockchain platform up to that point.”
+Lubin added that Ethereum, “enabled, essentially, billions of software engineers to not worry too much about what is going on the protocol layer and just build with tools similar to what they are used to using, when building web applications and mobile applications, and identify their own problem, and build their own solution.”
+
+
+url: 
+https://cointelegraph.com/news/joseph-lubin-names-berlin-as-the-most-important-city-in-the-blockchain-cosmos

@@ -1,0 +1,33 @@
+title: 
+Can't extract title
+
+date: 
+2018-07-24 01:43:36-04:00
+
+summary: 
+ HTC has experienced years of declining sales as competitors, particularly those from China, surpassed the company with top-of-the-line smartphones. In the first quarter of this year, HTC had only 0.2 percent of market share, according to IDC. The Exodus "Isn't going to be the thing that turns the company around," Bryan Ma, vice president for devices research at IDC, told CNBC. "The worry is that HTC is jumping on the bandwagon, or just trying to ride a hype cycle around blockchain, which, incidentally if you look at cryptocurrency, has kind of collapsed in the past couple of months. It really is rather baffling as to the direction they're taking with this." Still, blockchain is a relatively new technology that can potentially help HTC build a more secure smartphone as more applications are created.
+
+full text: 
+12:28  AM ET Thu, 12 July 2018 |  01:27
+Taiwanese smartphone maker HTC is turning to the blockchain as the company tries to breathe new life into its flagging business.
+But some analysts are not convinced the plan to build a product around the technology underpinning cryptocurrencies could turn things around for HTC after years of losing market share.
+HTC announced plans in May to develop a new smartphone called the Exodus with greater emphasis on security and data. The phone, which the company said is aiming to “expand the blockchain ecosystem,” is being developed under Phil Chen, HTC's chief crypto officer who previously ran the Vive virtual reality headset business.
+The phone will reportedly run on Android software, have a universal wallet to store digital coins and support major cryptocurrencies like bitcoin and ether . It will run decentralized applications, which are digital programs that operate on the blockchain and fall outside the control of a single authority. Beyond that, details about the phone's hardware specifications have been sparse even though HTC said it would start shipping later this year.
+The Exodus is not the first blockchain smartphone that's been announced. Sirin Labs unveiled a similar device called the Finney that has a price tag of $1,000 and uses component specifications found in many mainstream smartphones. While HTC did not disclose any price range for the Exodus, the company said it would be "comparable to the Sirin Labs device."
+Some analysts said the Exodus may not appeal to a large number of smartphone users — at least not in the short run — and that HTC is simply jumping on a bandwagon.
+"The target users are going to be very limited for this device as very few people understand this technology and the upcoming benefits associated with it," Anshika Jain, an analyst at Counterpoint Research, told CNBC, adding that the company was "trying to gain mindshare, which necessarily in this case won't translate into market share."
+Jain explained that companies like BlackBerry , Blackphone and SIKUR have had little success with their privacy-focused devices when compared to the likes of Samsung , Apple and Huawei. The Exodus would "find it difficult to acquire shelf space alongside the iPhone X, Samsung S9 and other premium models due to the brand value and more meaningful feature sets associated with the competing devices," she said.
+'Rather baffling'
+HTC has experienced years of declining sales as competitors, particularly those from China , surpassed the company with top-of-the-line smartphones. In June, HTC reported it lost nearly 68 percent in revenue compared to the year-ago period . That was despite the launch of a new smartphone in May called the U12+, which received largely negative reviews. At the same time, HTC is reportedly planning to slash about 25 percent of its global workforce to better manage its resources.
+More broadly, the smartphone industry is no longer growing as rapidly as it used to because there are fewer people left to convert. In fact, the International Data Corporation said it expects 0 percent growth for the global smartphone market this year. Even then, existing smartphone makers have carved up sizable chunks of the market with their annual line-up of flagship phones. In the first quarter of this year, HTC had only 0.2 percent of market share, according to IDC.
+The Exodus "isn't going to be the thing that turns the company around," Bryan Ma, vice president for devices research at IDC, told CNBC. "The worry is that HTC is jumping on the bandwagon, or just trying to ride a hype cycle around blockchain, which, incidentally if you look at cryptocurrency, has kind of collapsed in the past couple of months. It really is rather baffling as to the direction they're taking with this."
+Still, blockchain is a relatively new technology that can potentially help HTC build a more secure smartphone as more applications are created. At the moment, the Exodus website does not provide much information about what would be available inside the phone, but the device is said to be the "first cold wallet phone with key recovery."
+A cold wallet is essentially a digital wallet that is not connected to the internet, so there are fewer chances of its contents being stolen. Private keys — unique alphanumeric characters known only to the user — allow for the withdrawal of cryptocurrencies stored in those wallets.
+"When we ship this, it will be the most secure cold storage wallet on the market," HTC's Chen told CNBC in an interview. When asked what exactly made the Exodus a blockchain phone, he explained it would make it easy for people to interact with the technology.
+Technology publication The Verge reported that the Exodus would basically be a "phone with a wallet and a partnership with Cryptokitties ," referring to a popular blockchain-based virtual game. Chen said the initial Exodus phones would not be able to "mine" — solving complex equations for cryptocurrency rewards — because of the huge power consumption required for that task. Still, he said, HTC is investigating ways to make that possible.
+Chen also noted that project Exodus would be a completely separate product from the smartphone-maker and that it would have a different target audience.
+"We do see this as a completely new sort of path of what a smartphone is," he said. "And I think this notion of a smartphone will completely change because of blockchain technologies."
+
+
+url: 
+https://www.cnbc.com/2018/07/13/htcs-blockchain-smartphone-exodus-baffles-some-analysts.html

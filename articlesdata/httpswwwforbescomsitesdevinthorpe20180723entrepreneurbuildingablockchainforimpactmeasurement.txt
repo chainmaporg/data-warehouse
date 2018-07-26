@@ -1,0 +1,34 @@
+title: 
+Entrepreneur Building A Blockchain For Impact Measurement
+
+date: 
+2018-07-23 13:00:00+00:00
+
+summary: 
+ It is only a slight exaggeration to say that impact measurement is something of a holy grail for impact investors with an impact first approach. Shaun Conway and the Ixo team are building a new blockchain and tokens to be used in measuring and monetizing impact. Ixo's plan to apply its token across social impact arenas suggests that carbon may just be the most obvious of a long list of social problems blockchain technology can help to solve.
+
+full text: 
+Share to linkedin
+You can download an audio podcast here or subscribe via iTunes or Google Play .
+It is only a slight exaggeration to say that impact measurement is something of a holy grail for impact investors with an impact first approach. Shaun Conway and the Ixo team are building a new blockchain and tokens to be used in measuring and monetizing impact.
+There are at least $228 billion of impact investments now under management. Virtually all the investors are looking to measure impact with the same clarity they currently measure financial returns. A variety of helpful tools are already being implemented. Tokenizing impact measurement is a logical and exciting step forward.
+Conway, who is both a physician and a serial entrepreneur, says his team of 23 people is working to launch the coin during the third quarter of 2018. A whitepaper is available on the company website. Be sure to watch the full one-on-one interview with him in the video player at the top of this article.
+Shaun Conway
+Credit: ixo
+One of the key features of blockchain technology is that it is decentralized; the data isn’t stored all on one computer or set of servers in one location. Rather, the data is stored on nodes distributed potentially around the world. The data is immutable and open so anyone can see transaction records.
+In this way, the technology is great for recording impact metrics.
+Conway highlights three foundational technologies that Ixo brings together. First, is the decentralized web. Second is artificial intelligence capabilities for processing large amounts of data. Third, blockchain technology.
+Ixo does two things using this technology cluster. First, the “ Ixo protocol” is used to validate impact claims submitted either by a person or by an internet connected device. Imagine a solar panel or wind turbine reporting energy production in real time; the Ixo protocol is designed to automatically test and validate the claim.
+The second step is to tokenize the claim, allowing for people to buy, sell and invest in tokens and their production.
+Conway says its protocol will be able to handle human activities, like educating girls, just as effectively.
+Ixo isn’t the only player in the space. In fact, another—more familiar firm with a three-letter name is working in the space. IBM recently launched a collaboration with Veridium to use blockchain technology for tracking carbon credits.
+“Our work with IBM is the first step in dramatically simplifying the accounting and offsetting processes, and therefore ultimately helping reduce costs,” said Todd Lemons, Chairman of Veridium. “Our digital environmental assets are designed to help companies and institutional investors purchase and use carbon credits to mitigate their environmental impacts today, and even hedge their potential carbon liabilities risks in the future.”
+“By using a public, permissioned blockchain network, we can help Veridium create a new sustainable marketplace that is good for business and good for the world,” said Bridget van Kralingen, Senior Vice President, IBM Industry Platforms and Blockchain. “This is a great example of how industries are being reinvented by blockchain, in this case establishing a far more efficient and transparent approach to carbon accounting and offsetting that will empower individuals and companies to play a role in improving our environment.”
+Others are working on similar initiatives. Tracking and pricing carbon appears likely to get much more efficient in a short period of time. Ixo’s plan to apply its token across social impact arenas suggests that carbon may just be the most obvious of a long list of social problems blockchain technology can help to solve.
+#cryptoforgood
+ 
+Click here to get my free webinar showing the three myths that hamper and the two keys for nonprofit crowdfunding success.
+
+
+url: 
+https://www.forbes.com/sites/devinthorpe/2018/07/23/entrepreneur-building-a-blockchain-for-impact-measurement/

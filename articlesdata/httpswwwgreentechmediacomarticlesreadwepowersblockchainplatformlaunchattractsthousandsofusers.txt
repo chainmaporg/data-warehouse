@@ -1,0 +1,41 @@
+title: 
+WePower&#039;s Blockchain Platform Launch Attracts Thousands of Users | Greentech Media
+
+date: 
+Exception in extractArticlePublishedDate for https://www.greentechmedia.com/articles/read/wepowers-blockchain-platform-launch-attracts-thousands-of-users
+
+summary: 
+,"sm_api_message":"THE PAGE COULD NOT BE FOUND"}
+
+full text: 
+Jason Deign
+Contributing Writer
+Jason is a contributing writer for GTM, focused on global trends in energy storage and wind. He is based in Barcelona, Spain.
+WePower's alpha launch shows that there's strong interest in renewable energy tokenization.
+Photo Credit: Shutterstock
+0
+Blockchain firm WePower had “a couple thousand registrations” in the first hours of launching the alpha version of its platform, said the company's CEO, Nikolaj Martyniuk.
+The customers signing up were individuals looking to cut electricity bills, he said. WePower is also looking to sign power-purchase agreements with corporate customers, and is working with a number of prospects. 
+The alpha version of the energy financing and trading platform went live earlier this month, after extensive security testing. It is expected to be fine-tuned until November, when it will be used to host an auction for energy delivered from merchant solar plants in the south of Spain.
+WePower is gradually opening up new functionalities on its platform. The first piece to go live was the auction feature, which is already being primed to help fund 300 megawatts of solar power.
+Conquista Solar, a Spanish merchant solar plant developer, intends to use WePower’s platform to raise cash for the first of six 50-megawatt PV plants in southwest Spain, which has some of the best irradiation levels in the country.
+The solar company will issue its own energy tokens, which will be worth up to 20 percent of the entire energy production of the plants, WePower explained . According to WePower’s white paper , each token will represent a kilowatt-hour of future energy production.
+It is up to Conquista Solar to set the initial price of the tokens, but Martyniuk said bidders might be able to pick up energy at around 20 percent below current wholesale prices.
+The benefit for Conquista, and for other developers using the platform, is bypassing the traditional project financing process in securing funding for projects.
+Bidders in the November auction will likely start getting energy from the Conquista plants by May next year, said Martyniuk. Then they can choose either to use the energy themselves or to sell their tokens to other WePower users. 
+They can also use the WePower platform to sell the energy to Spain’s wholesale electricity market and be paid in fiat or cryptocurrencies. 
+Martyniuk said the ability to trade tokens is a key benefit of using blockchain, and one that sets WePower apart from a growing number of energy cooperatives across Spain. 
+Longstanding regulatory roadblocks for solar self-consumption in Spain have led to the appearance of at least a dozen independent energy-producing cooperatives that crowdfund renewable energy for members, usually at lower prices than those offered by big utilities.
+But cooperative members cannot sell their energy to third parties.
+Martyniuk said the cooperative model faces a challenge because each new plant must be crowdfunded on an individual basis, whereas WePower can source funding more easily through its standardized token model.
+WePower, which raised $40 million in an initial coin offering in February, hopes to have a gigawatt of generation capacity on offer within its first year of operation. 
+“We are focusing on large-scale, grid-connected solar farms,” said Martyniuk. 
+WePower is also still working on a test pilot with Elering, a distribution system operator in Estonia. 
+As previously reported by GTM , the project involves integrating WePower’s technology into Elering’s Estfeed exchange platform to test “nation-state scale tokenization of energy consumption and production data on the blockchain.”
+The results of large-scale smart contract tests are expected to be released at the end of next month or the beginning of September, said Martyniuk. WePower’s main focus in the coming weeks, though, will be in Australia.
+Unlike Spain, which more or less closes down for vacations in August, the Australian market is a hive of midwinter activity. 
+WePower is currently working with EnergyAustralia, a gas and electricity services provider, and is on the verge of announcing a new partnership in the country. The blockchain company is not looking at other markets for the time being, Martyniuk confirmed.
+
+
+url: 
+https://www.greentechmedia.com/articles/read/wepowers-blockchain-platform-launch-attracts-thousands-of-users

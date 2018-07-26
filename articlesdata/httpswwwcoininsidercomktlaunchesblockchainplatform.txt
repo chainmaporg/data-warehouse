@@ -1,0 +1,30 @@
+title: 
+South Korean owned KT launches first commercial blockchain platform
+
+date: 
+2018-07-25 12:00:51+00:00
+
+summary: 
+ South Korea's leading mobile telephone company KT revealed its newly launched self-developed blockchain-based network in a bid develop a trusted network for individual users and businesses. According to the KT team, the innovative project aims to make the existing network as secure and transparent as possible through the use of overlaying blockchain computing nodes to the high-speed layer on the commercial and national network. The head of platform business planning at KT, Kim Hyung Wook, echoed the sentiments that blockchain is critical saying that "The internet has become today's mainstream network technology, blockchain will be a new fundamental technology network," and continued to mention the concern of the company, that it "Will contribute to enlarging the country's blockchain market by taking the lead in building blockchain infrastructure".
+
+full text: 
+Adoption
+South Korean owned KT launches first commercial blockchain platform
+KT, a leading mobile carrier in Korea, has announced its new platform which is based on blockchain technology.
+July 25, 2018
+South Korea’s leading mobile telephone company KT revealed its newly launched self-developed blockchain-based network in a bid develop a trusted network for individual users and businesses.
+According to local news source The Herald , the lead of the KT Blockchain Center at the company’s Institute of Convergence Technology, Seo Young-il, has been working on developing this network for over three years, and his efforts are finally coming to fruition.
+Coin Digest
+Cryptocurrency news & insights every day.  Subscribe to the CoinInsider newsletter and never miss a beat.
+Email
+This iframe contains the logic required to handle Ajax powered Gravity Forms.
+According to the KT team, the innovative project aims to make the existing network as secure and transparent as possible through the use of overlaying blockchain computing nodes to the high-speed layer on the commercial and national network. The platform will see innumerable blocks containing the virtual data of individuals or businesses. The blocks will be linked as a chain and will subsequently be safely stored and honestly and openly transacted on the network.
+Seo has said that the “whole point of applying blockchain to networks is to address security and transaction issues by making the current networks more secure and trusted”.
+The head of platform business planning at KT, Kim Hyung Wook, echoed the sentiments that blockchain is critical saying that “the internet has become today’s mainstream network technology, blockchain will be a new fundamental technology network,” and continued to mention the concern of the company, that it “will contribute to enlarging the country’s blockchain market by taking the lead in building blockchain infrastructure”.
+Apparently, KT is also planning the launch of a data roaming service platform which will run on blockchain technology and will connect with international mobile carriers, such as NTT Docomo from Japan. Owing to the high-speed transactions of the data blocks, this means that any blockchain-run roaming service bills will be calculated real-time, and thus users will not have to battle with slow or temperamental mobile internet connections.
+Written by Rebecca Leighton
+Internet writer looking to find the right piece. Also presents things on radio and happens to be a chip off the old blockchain. @BeckyRLeighton
+
+
+url: 
+https://www.coininsider.com/kt-launches-blockchain-platform/

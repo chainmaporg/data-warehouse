@@ -1,0 +1,27 @@
+title: 
+Blockchain Finds More Commercial Uses | PYMNTS.com
+
+date: 
+2018-07-25 12:00:08+00:00
+
+summary: 
+ In the telecom world, South Korean firm KT said it has applied blockchain to its commercial network. The company has also applied blockchain technology to help protect consumers, by helping security tied to internet access. Digital Asset stated that the partnership will provide developers access to tools that can help tap into innovations via blockchain.
+
+full text: 
+Email
+The move to bring blockchain beyond cryptocurrency confines — and toward more commercial use cases — continues, with far-flung projects making headlines.
+In the telecom world, South Korean firm KT said it has applied blockchain to its commercial network. The telecom, as reported by ZDNet , has built nodes that have brought blockchain to its national network, specifically its “ultra-fast” offering that is tied to processing speed. The move will bring processing speed from the current 2,500 transactions per second to as many as 10,000 transactions per second.
+That rate will reach 100,000 transactions next year, according to Seo Yeong-il, who serves as the head of the company’s Blockchain Center. He said at a press conference that “public blockchains have low processing speed and capacity, while private blockchains have low transparency. By applying blockchain onto our ultra-fast network, we have overcome both obstacles.”
+The company has also applied blockchain technology to help protect consumers, by helping security tied to internet access. The firm stated that instead of relying on an IP address, the telecom will have identification (ID) layers that correspond to each address, based on blockchain.
+KT will use blockchain to come to bear on the energy market, this time in tandem with cryptocurrencies. In this case, cryptos will be used for tax returns and municipal payments. Other areas to see coverage will include security and smart cards, with a trial center slated to debut from KT in Seoul.
+Blockchain As City Initiative
+Also in Asia, a Chinese city is bringing a fund together, with $1 billion in the till, to boost the efforts of blockchain-focused businesses and other entities. The district government, tied to an area in Nanjing city, said the project will be funded through a private/public partnership.
+The local government will ante up 30 percent of that amount, with the private sector putting in the remaining 70 percent. Of the fund itself, 30 percent will be allocated to early-stage startups and work with innovations that come from the academic realm. Another 40 percent will come from traditional industrial conduits.
+The fund was announced at the inaugural Industrial Public Chain Summit (IPCS) and, as Cointelegraph reported, bowed together with the Zhongguancun Blockchain Industry Alliance, which is being billed as a Beijing-based alliance of enterprises and government research institutes. China’s initiatives have gotten a bit of backing from President Xi Jinping’s embrace of blockchain as a technology earlier this year. Other government officials have advocated for large-scale blockchain project deployments.
+Google Gets Further Into The (Blockchain) Game
+Google said earlier this week that it has cemented a partnership with Digital Asset, a startup based in New York, which will augment the tech giant’s existing relationship with BlockApps. The newest linkup is geared toward the cloud, and will help Google customers explore various use cases with distributed ledger technology (DLT). Digital Asset stated that the partnership will provide developers access to tools that can help tap into innovations via blockchain. Google is getting early access to the software, according to The Verge .
+“The move signals that Google is looking into digital ledger technology to give its cloud services an edge over Microsoft Azure and Amazon Web Services , which currently both hold more market share than Google Cloud,” reported that publication.
+
+
+url: 
+https://www.pymnts.com/blockchain/2018/blockchain-commercial-use-case-telecom-google-kt-ipcs/

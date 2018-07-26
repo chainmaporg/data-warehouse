@@ -1,0 +1,40 @@
+title: 
+Google to offer blockchain as part of cloud service | Computerworld
+
+date: 
+2018-07-23 14:05:00-05:00
+
+summary: 
+ In a blog post ahead of its Google Cloud Next '18 conference this week, the search giant said it is partnering with Digital Asset and BlockApps to enable customers to "Explore ways they might use distributed ledger technology frameworks on Google's Cloud Platform." Digital Asset is a provider of DLT software for the financial services industry; BlockApps is a service platform on which enterprises can develop blockchain apps. AWS partnered with business cloud service Kaleido to offer cloud services on which to host an Enterprise Ethereum-based, open-source blockchain platform.
+
+full text: 
+Google to offer blockchain as part of cloud service
+Google has joined a growing number of cloud service providers who are offering blockchain to enterprises.
+Email a friend
+Use commas to separate multiple email addresses
+From
+Your message has been sent.
+Sorry
+| Jul 23, 2018 2:05 PM          PT
+Thinkstock
+Tech Talk: Where blockchain's going this year
+Google has announced the second of two partnerships that will allow it to offer the financial services industry and others a cloud-based platform on which they can develop and run blockchain-based applications.
+In a blog post ahead of its Google Cloud Next '18 conference this week, the search giant said it is partnering with Digital Asset and BlockApps to enable customers to "explore ways they might use distributed ledger technology (DLT) frameworks on Google's Cloud Platform (GCP)."
+[ Further reading: What is FinTech (and how has it evolved)? ]
+Later this year, GCP will run both open-source integrations for Hyperledger Fabric and Ethereum, the two leading enterprise blockchain platforms, Google said.
+Digital Asset is a provider of DLT software for the financial services industry; BlockApps is a service platform on which enterprises can develop blockchain apps. Both companies are based in New York.
+"This will reduce the technical barriers to DLT application development by delivering our advanced distributed ledger platform and modelling language to Google Cloud," Digital Asset CEO Blythe Masters said in a statement .
+Google Cloud also joined the private beta of Digital Asset's developer program, which gives a select group of technology partners, software vendors and financial services companies access to the SDK for its Digital Asset Modeling Language, a smart contract coding language.
+Smart contracts are a blockchain-based business automation tool – software scripts, in essence – that run on DLT against pre-determined business rules. For example, a smart contract could determine when the conditions of a real-estate purchase have been met, releasing the funds from the bank; or, a smart contract could be used in supply chain management to track and verify the receipt of goods.
+[ Learn Java from beginning concepts to advanced design patterns in this comprehensive 12-part course! ]
+Over the past two years, blockchain-as-a-service (BaaS) offerings have rapidly grown to include some of the tech industry's biggest players, including Microsoft , IBM , HPE , SAP , Oracle Amazon Web Services (AWS).
+AWS partnered with business cloud service Kaleido to offer cloud services on which to host an Enterprise Ethereum-based, open-source blockchain platform.
+BaaS offerings enable enterprises to create proof-of-concepts and production blockchains without having the capital investment in-house deployments would require.
+For example, the peer-to-peer architecture on which blockchain networks are built requires many server nodes, which can grow quickly as a DLT network expands; and, blockchain developers are in short supply and hot demand today.
+BaaS providers not only provide the infrastructure but also often act as consultants on the nascent technology, according to Bill Fearnley Jr., IDC's research director for Worldwide Blockchain Strategies.
+"As with any new technology, there is a learning curve as enterprise customers put it into production," Fearnley said in an earlier interview. "One advantage of partnering with a BaaS provider is users can leverage the lessons learned by the provider to help make their systems more secure."
+Related:
+
+
+url: 
+https://www.computerworld.com/article/3291334/blockchain/google-to-offer-blockchain-as-part-of-cloud-service.html
