@@ -1,0 +1,41 @@
+title: 
+DLT and blockchain success: It’s all about timing
+
+date: 
+2018-07-26 16:40:57
+
+summary: 
+ Our recent use case can be thought of as a 'thank you card' system, or a way of 'liking' and rewarding anything positive that someone in the user base does, with the reason for the reward being permanently written into the blockchain. Even more interesting is the journey you are on and the lessons you will learn to get such a real-life use case live; these reflect the challenges that others will also face in implementing their own commercial blockchain solutions. System updates: After rolling out version one, deploying subsequent updates utilising smart contracts whilst maintaining balances continues to be a challenge; specifically, how continuous deployment applies to DLT based systems.
+
+full text: 
+Latest thinking in respect to Banking Strategy, Digital and Transformation. Harnessing our collective wisdom to make banking better. Ambrish Parmar
+DLT and blockchain success: It’s all about timing
+26 July 2018  |  2315 views  |  0
+As ever, in the world of Distributed Ledger Technologies (DLT) and blockchain, timing is critical. Although we saw great strides taken up until about a year ago, it was clear that other technologies such as cloud and artificial intelligence had advanced  more rapidly, so firms were investing more time in these areas. However, within the last 12 months, the situation has changed and the market for DLT is now looking a lot more promising.
+Nowadays the key challenge has moved on from demonstrating a way of making the platform handle the transactional volume, to one of how to get the use case into production. Also from a ‘cultural perspective’ the challenge is one of getting the organisation  to understand the new paradigm created by a distributed ledger approach, including data sharing and the transformation of existing historic protocols and ways of working. To illustrate this point, the below recent example highlights several of the key factors  moving forward.
+A real-life use case
+To be successful you do really need to ‘walk the walk’ by building and rolling out a blockchain use case, however, there are not many that can meet all of the criteria required to ensure you extract as much value and experience as possible. We wanted to truly  experience the process of creating a real working blockchain, ‘warts and all’, therefore, our working solution included the following attributes:
+Not a ‘mission critical’ system – as this was experimental
+Implemented in a single organisation -  to avoid managing a consortiumn
+Uses one of our DLT partner platforms - to gain experience that would be useful to our clients
+Significant, but not excessive, transactional volumes – reflecting the current state of the market
+Designed to educate our organisation on the paradigm shift that DLT can create
+An innovative solution that our 5,000 users in 11 countries could use on a voluntary basis
+In this example, our recent use case can be thought of as a ‘thank you card’ system, or a way of ‘liking’ and rewarding anything positive that someone in the user base does, with the reason for the reward being permanently written into the blockchain. Here  is how it works: after registering, each employee of a firm gets three ‘coins’ a month in their account; if a colleague does something that a user thinks is great, then they can be given a coin, along with a reason that gets permanently recorded. Once spent  (i.e. awarded), coins cannot be re-spent. In subsequent managerial reviews, employees are able to highlight unequivocally all of the good deeds that others have recognised in their performance.
+What lessons have been learnt?
+The experience of implementing a real use case certainly helps in developing blockchain technology, but also as a tool to educate your own users in aspects of using blockchain, including the following:
+Security: If users lose the private key for their wallet (and have not backed up the recovery key) then their individual coins are lost forever… and they really are gone!
+Coin value: The coin transaction says as much about the giver as the receiver. The more carefully coins are awarded, the more value they have. As an example, a coin from the CEO probably counts for more than one from a peer.
+Recording everything: Users have learnt not to try and ‘game’ the system or lie; reasons for awarded coins are written on an immutable ledger and the results are there forever!
+Even more interesting is the journey you are on and the lessons you will learn to get such a real-life use case live; these reflect the challenges that others will also face in implementing their own commercial blockchain solutions.
+Fledgling platforms: As with most platforms in a new area, some of the software can be buggy, documentation incomplete and support sporadic.
+Data protection: As a European based global consulting firm we are of course highly aware of the implications of GDPR. Immutability and the ‘right to be forgotten’ for instance, are not necessarily compatible.
+Internal approvals: Getting the system approved by the individual privacy officers from each country in which the organisations operates is a tremendous challenge that should not be underestimated. 
+System access: Although this particular real-life use case was an internal system, it had to be accessible via a ‘single sign-on’ and therefore required approval by the security committee, which also restricted the options for which cloud  providers could be used.
+System updates: After rolling out version one, deploying subsequent updates utilising smart contracts whilst maintaining balances continues to be a challenge; specifically, how continuous deployment applies to DLT based systems.
+For this use case, in many ways, the coding of the smart contracts was the easy part. Complying with company policies in each of legal jurisdictions was much more complex. In addition, as with any new system, changing the organisational culture and processes  to make use of the new system was actually the more difficult part. However, the successful outcome is that we now have a live DLT-based system with many transactions being processed every day.
+Whilst the technology may now be more stable and easier to use, timing continues to be the critical issue in order to gain experience of distributed ledger technology. With patience and diligence, the benefits will be realised by those who persevere…as our  experience shows…. It can be done!
+
+
+url: 
+https://www.finextra.com/blogposting/15598/dlt-and-blockchain-success-its-all-about-timing

@@ -1,0 +1,28 @@
+title: 
+BRICS Bank Consortium to Research Blockchain Applications
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/brics-bank-consortium-to-research-blockchain-applications/
+
+summary: 
+ A consortium of state-owned development banks plan to research blockchain technology for international transactions and other products, Russia-based Vnesheconombank said Thursday. Vnesheconombank, the Brazilian Development Bank, the Export-Import Bank of India, the China Development Bank and the Development Bank of Southern Africa signed an agreement to conduct research on how they can use blockchain research to develop a digital economy, according to a press release. "This joint work opens new opportunities for Russian exporters, operators of large industrial projects, recipients of investments. The current agreement allows the development banks of BRICS countries to study the applications of innovative technologies in infrastructure finance and bank products optimization."
+
+full text: 
+BRICS Bank Consortium to Research Blockchain Applications
+NEWS
+Nikhilesh De
+Jul 26, 2018 at 16:50 UTC  |  Updated  Jul 26, 2018 at 16:52 UTC
+A consortium of state-owned development banks plan to research blockchain technology for international transactions and other products, Russia-based Vnesheconombank said Thursday.
+Vnesheconombank, the Brazilian Development Bank, the Export-Import Bank of India, the China Development Bank and the Development Bank of Southern Africa signed an agreement to conduct research on how they can use blockchain research to develop a digital economy, according to a press release .
+National development banks are generally tasked with supporting economic development in a nation. Brazil, Russia, India, China and South Africa are also often referred to as the "BRICS" nations due to their emerging economies.
+In the release, Vnesheconombank first deputy chairman Mikhail Poluboyarinov said the BRICS nations' development banks collaborate "in a range of key areas," which include improving financial cooperation between the nations and developing credit card financing tools for national currencies.
+The research would also examine how to implement any new innovations, he said.
+He added:
+"This joint work opens new opportunities for Russian exporters, operators of large industrial projects, recipients of investments. The current agreement allows the development banks of BRICS countries to study the applications of innovative technologies in infrastructure finance and bank products optimization."
+Details about the research, including when the banks expect to begin the research project, were not available at press time.
+BRICS flags image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/brics-bank-consortium-to-research-blockchain-applications/

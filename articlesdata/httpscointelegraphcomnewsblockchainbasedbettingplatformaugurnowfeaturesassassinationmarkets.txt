@@ -1,5 +1,5 @@
 title: 
-Blockchain-Based Betting Platform Augur Now Features &lsquo;Assassination Markets&rsquo;
+Blockchain-Based Betting Platform Augur Now Features ‘Assassination Markets’
 
 date: 
 2018-07-26 00:44:00+01:00
@@ -11,8 +11,8 @@ full text:
 Helen Partz
 Blockchain-Based Betting Platform Augur Now Features ‘Assassination Markets’
 Users of Ethereum-powered prediction market Augur are now betting on “assassination markets,” featuring Donald Trump and Warren Buffett.
-6084 Total views
-204 Total shares
+17362 Total views
+257 Total shares
 News
 Disclaimer: Cointelegraph considers speculation on the deaths of individuals as immoral and does not endorse it in any way
 So-called “assassination markets” have now popped up on blockchain event betting platform Augur, Mashable media outlet reported July 24. Users are now betting on when certain public figures will die.

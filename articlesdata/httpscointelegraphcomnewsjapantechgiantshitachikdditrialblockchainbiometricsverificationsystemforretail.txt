@@ -1,0 +1,28 @@
+title: 
+Japan: Tech Giants Hitachi, KDDI Trial Blockchain Biometrics Verification System for Retail
+
+date: 
+2018-07-26 18:01:00+01:00
+
+summary: 
+ Tokyo-headquartered tech conglomerate Hitachi and telecoms giant KDDI are trialing a retail coupon settlement system that combines blockchain with biometrics, Cointelegraph Japan reports today, July 26. The trial integrates Hitachi's Hyperledger Fabric-powered platform with biometric verification technology and KDDI's existing retail coupon system. As Hitachi explains in this week's press release, unlike traditional biometric identification infrastructure, the trial solution encrypts the biometric data, which thereafter functions as part of a public key authentication system.
+
+full text: 
+Marie Huillet
+Japan: Tech Giants Hitachi, KDDI Trial Blockchain Biometrics Verification System for Retail
+Japanese tech conglomerate Hitachi and telecoms giant KDDI are trialing a blockchain-powered retail coupon system that integrates biometric authentication.
+9465 Total views
+231 Total shares
+News
+Tokyo -headquartered tech conglomerate Hitachi and telecoms giant KDDI are trialing a retail coupon settlement system that combines blockchain with biometrics , Cointelegraph Japan reports today, July 26.
+This week, staff from the two firms are participating in an experimental demonstration at a KDDI store in Tokyo's Shinjuku district, as well as a local donut shop.
+The trial integrates Hitachi’s Hyperledger Fabric-powered platform with biometric verification technology and KDDI’s existing retail coupon system. Users will first register their biometric data and coupon credits at a KDDI store, and then proceed to settle their coupon transactions at the local donut shop, using only their fingerprints to validate the purchase.
+As Hitachi explains in this week’s press release , unlike traditional biometric identification infrastructure, the trial solution encrypts the biometric data, which thereafter functions as part of a public key authentication system.
+Users’ biometric data, coupon credits, and transaction histories are all encrypted and recorded on the blockchain. Selected retailers can then participate as nodes in the network, scanning consumer fingerprints in order to settle the transaction request.
+Hitachi says it aspires to use the tamper-proof system to securely update consumers’ coupon balances across stores within the network simultaneously.
+The notion of integrating blockchain with biometrics to create immutable and secure ID verification systems has been circulating for some time, with many advocating for its potential benefits. Crypto industry veteran and security systems expert Andreas M. Antonopoulos , however, expressed his skepticism as early as 2016, considering that:
+"By embedding into a blockchain, the irrevocability of biometrics is added to the immutability of a blockchain which makes dealing with compromised biometrics even more difficult. [Moreover], while biometric registration may not reduce anonymity directly, it can be used to enhance statistical analysis of activity, so that the leak of a single identifier can destroy all privacy."
+
+
+url: 
+https://cointelegraph.com/news/japan-tech-giants-hitachi-kddi-trial-blockchain-biometrics-verification-system-for-retail

@@ -1,0 +1,38 @@
+title: 
+Banks pick old tech over blockchain for FX service
+
+date: 
+2018-07-27 18:11:00+00:00
+
+summary: 
+ CLS, a key settlement house in the $5tn-a-day foreign exchange markets, has been forced to water down a two-year blockchain project amid security concerns raised by the world's main FX dealers. A CLS spokeswoman said: "It was always CLS's intention to launch the service in phases, with the first phase clients will rely on Swift connectivity for inputs submitted to and received from CLSNet. As the service continues to grow with functionality and client adoption, and the DLT matures, CLSNet will enable clients to host their own node." Banks can still opt to connect to this service directly if they wish.
+
+full text: 
+FX
+Banks pick old tech over blockchain for FX service
+The foreign exchange settlement giant CLS has spent two years building a blockchain that banks are reluctant to connect to
+Getty Images
+Yolanda Bobeldijk
+July 27, 2018 Updated:  3:44 p.m. GMT
+CLS, a key settlement house in the $5tn-a-day foreign exchange markets, has been forced to water down a two-year blockchain project amid security concerns raised by the world’s main FX dealers.
+The decision is another example of how the financial services industry can struggle to adopt distributed ledger technology, despite it being much-vaunted for its cost-saving potential .
+CLS has been working with technology giant IBM on a blockchain-powered payment netting service for certain exotic currencies, including the Turkish lira, since 2016.
+But many of its big banking members do not yet want to connect directly to this blockchain, according to Alan Marquard, chief strategy and development officer at CLS.
+Investment banks have expressed concerns in the past that plugging straight into largely-untested technology for the settlement and safekeeping of securities can leave their vast data stores vulnerable to privacy breaches.
+READ  R3 plays down own blockchain product ahead of launch
+CLS planned to offer members two ways to access the service, known as CLSNet, one direct and the other via Swift, the 45-year-old internal payment network used across financial markets.
+Marquard acknowledged that it was “a big ask” for banks to integrate blockchains into their existing IT systems. “You are not just installing a piece of software. They need to build operational knowledge and know-how,” adding that “it has security implications”.
+READ Many blockchains will end up on the scrapheap
+CLS declined to comment on how much that project cost, but Marquard said: “Building on new tech is always more expensive. We took the step and made this investment. Nobody has a crystal ball.”
+The service is in the final stages of testing ahead of its launch later this summer. Around half of the 14 banks that first backed the project are expected to sign up in the early months.
+A CLS spokeswoman said: “It was always CLS’s intention to launch the service in phases, with the first phase clients will rely on Swift connectivity for inputs submitted to and received from CLSNet. As the service continues to grow with functionality and client adoption, and the DLT [distributed ledger technology] matures, CLSNet will enable clients to host their own node.”
+CLS's members comprise the world's biggest FX trading banks, including the likes of Goldman Sachs, JPMorgan, Barclays and Citigroup.
+There is a lack of standardisation in the global FX markets for trades not settled within CLS. Institutions are often forced to intervene manually to complete the process, which leads to inconsistent approaches to netting and higher costs.
+UPDATE: This story was updated at 14:33 to make clear that CLS had intended from the start to offer its members two ways of connecting to the blockchain service CLSNet. Banks can still opt to connect to this service directly if they wish.
+To contact the author of this story with feedback or news, email Yolanda Bobeldijk
+Scroll for more of this story
+Filter by Topic
+
+
+url: 
+https://www.fnlondon.com/articles/fx-settlement-giant-cls-reverts-to-old-tech-after-blockchain-hitch-20180727

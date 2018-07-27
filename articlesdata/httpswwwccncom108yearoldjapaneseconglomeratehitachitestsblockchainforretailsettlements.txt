@@ -1,0 +1,33 @@
+title: 
+Japanese Conglomerate Hitachi Tests Blockchain for Retail Settlements
+
+date: 
+Exception in extractArticlePublishedDate for https://www.ccn.com/108-year-old-japanese-conglomerate-hitachi-tests-blockchain-for-retail-settlements/
+
+summary: 
+ Multinational conglomerate, Hitachi Ltd, and telecommunications operator, KDDI Corporation, have disclosed they are testing a blockchain solution that will see the biometric features of shoppers being used for authentication prior to settling retail payments. Actively Involved in Blockchain R&D. This is not the first time Hitachi is making a foray into blockchain technology. "By establishing the Financial Innovation Laboratory in the Silicon Valley, Hitachi will accelerate research & development of blockchain technology, collaborative creation with customers, and development of solutions to support business innovation in financial institutions," Hitachi said in a press release at the time.
+
+full text: 
+108-Year Old Japanese Conglomerate Hitachi Tests Blockchain for Retail Settlements
+Advertisement
+Multinational conglomerate, Hitachi Ltd , and telecommunications operator, KDDI Corporation, have disclosed they are testing a blockchain solution that will see the biometric features of shoppers being used for authentication prior to settling retail payments.
+Initially, the coupon settlement system will be trialed at KDDI retail stores located in Tokyo and fast food outlets of the Mr. Donut chain.
+According to Hitachi, shoppers will register their biometric information as well as coupon credits when they enroll to use the system. This data will then be encrypted before being stored on the blockchain .
+Enhancing Security
+When conducting transactions at retail outlets that accept the coupons and which act as nodes for the blockchain network, shoppers will be able to authenticate their identity using a device that will scan their fingerprints. The request will then be broadcast to the network prior to the settling of the transaction securely.
+“…Hitachi’s proprietary technology, which cooperates with PBI [Public Biometrics Infrastructure] and block chains, enables automatic generation of electronic signature with characteristic data of biometric information with low risk of theft and leakage,” the Japanese multinational conglomerate wrote in a statement .
+Besides using its proprietary PBI technology, Hitachi has borrowed the open source technology of Hyperledger in developing its blockchain solution.
+Accuracy and Immutability
+Hitachi’s decision to employ blockchain technology was motivated by various advantages presented by the technology including the fact that users can be authenticated in a tamper-proof way while ensuring that the coupon usage information is kept accurate as well as up-to-date across multiple retail outlets.
+Users will also benefit from the fact that they will not have to present the coupons at the retail outlets. Additionally, the coupons can be used even without having a smartphone thus enhancing the convenience of shoppers.
+Actively Involved in Blockchain R&D
+This is not the first time Hitachi is making a foray into blockchain technology. The Japanese conglomerate, which has been in existence since 1910, is already a board member of Hyperledger and contributed to the Hyperledger Iroha project alongside other Japanese firms such as Colu, NTT Data and Soramitsu.
+Last year in February, as CCN reported, Hitachi announced that it was implementing a blockchain platform onto PointInfinity , its loyalty points management and rewards program that has been adopted by service providers and merchants for the benefit of frequent customers. At the time, the PointInfinity program had more than 150 million members.
+Hitachi Goes to Silicon Valley
+And in March 2016, Hitachi announced that it would be establishing a financial innovation laboratory focusing on blockchain technology in California .
+“By establishing the Financial Innovation Laboratory in the Silicon Valley, Hitachi will accelerate research & development of blockchain technology, collaborative creation with customers, and development of solutions to support business innovation in financial institutions,” Hitachi said in a press release at the time.
+Featured image from Shutterstock.
+
+
+url: 
+https://www.ccn.com/108-year-old-japanese-conglomerate-hitachi-tests-blockchain-for-retail-settlements/

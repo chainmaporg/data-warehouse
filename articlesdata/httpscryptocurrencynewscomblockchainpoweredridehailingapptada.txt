@@ -1,0 +1,30 @@
+title: 
+Blockchain Powered Ride-Hailing App TADA
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptocurrencynews.com/blockchain-powered-ride-hailing-app-tada/
+
+summary: 
+ Let's learn more about the blockchain powered ride-hailing app TADA. TADA Introduced. "The app will have a similar user experience for both drivers and riders, but underneath, it is supported by blockchain technology that tracks and saves all the driving data." Would you be willing to try Singapore's first blockchain powered ride-hailing app TADA?
+
+full text: 
+Jul 26, 2018 4194 Views Chelsea Roh
+TADA: First Blockchain-Powered Ride-Hailing App Launches in Singapore
+A new ride-hailing service has just emerged in Singapore, and it’s the first of its kind. TADA, which means “let’s ride” in Korean, is a blockchain-enabled mobile app that claims it has zero commission fees for its drivers. Let’s learn more about the blockchain powered ride-hailing app TADA.
+TADA Introduced
+Singapore-based Mass Vehicle Ledger (MVL) Foundation released the app on Thursday (July 26th). In its ramp up, the foundation recruited 2,000 private-hire licensed drivers.
+What makes this company stand apart from the rest is that MVL states that it will not collect commission fees from the drivers using its platform. Most ride-hailing services on the market can charge up to a 20 percent commission fee. On top of this, the drivers on TADA are not bound by exclusive agreements.
+TADA will not enforce any cancellation penalties, and fares will be kept competitive. “We don’t charge drivers any commission, so there’s room for lower prices. That’s how we share the benefits,”  said Mr. Kay Woo, Founder and CEO of TADA, in an interview with Channel NewsAsia.
+Woo states he wants to create an environment where the drivers and riders feel equal. MVL is offering its drivers and riders incentives by way of points that can be redeemed in the form of its own cryptocurrency, MVL coins.
+For riders, points on the TADA platform can be earned by adding data to the system or writing reviews on their trips. For drivers, these points can be earned by turning on the app as they drive around. Additionally, more points can be earned by the driver if they receive better reviews and have a better safety record.
+The Blockchain Powered Ride-Hailing App TADA
+Earlier this year, MVL raised around $16 million through its initial coin offering (ICO) and has been using these funds to build out the platform.
+TADA is built on the blockchain, which tracks and gathers data on all vehicles on its platform. Users on the platform have all consented to have their data sold to researchers or transportation companies for revenue in the future.
+“TADA is just one example of a service that runs on top of our blockchain protocol,” Woo said. “The app will have a similar user experience for both drivers and riders, but underneath, it is supported by blockchain technology that tracks and saves all the driving data.”
+However, the real selling point for riders will most likely be hinged on the cost of the trips and how quickly they can hail a car—rather than being built on blockchain technology. For drivers, the platform’s security, privacy, and efficiency may be a selling point.
+“Quality matters at the end of the day. People could be open to trying out alternatives but the question of whether they are going to keep trying remains,” Mr. Amit Zavery, VP of Oracle Cloud Platform, told Channel NewsAsia.
+So, would you be willing to try Singapore’s first blockchain powered ride-hailing app TADA?
+
+
+url: 
+https://cryptocurrencynews.com/blockchain-powered-ride-hailing-app-tada/

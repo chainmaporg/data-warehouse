@@ -1,0 +1,28 @@
+title: 
+On blockchain bluster and beliefs
+
+date: 
+None
+
+summary: 
+,"sm_api_message":"THE PAGE COULD NOT BE FOUND"}
+
+full text: 
+Illustration of a blockchain or distributed digital ledger, in which transactions are easily verified.
+This article is drawn from the Energy Weekly newsletter from GreenBiz, running Thursdays.
+My fascination with blockchain technology is somewhat of an inside joke at GreenBiz.
+I certainly have spent plenty of time trying to sort through its disruptive role in energy markets and its potential to improve traceability across the food supply chain . I’ve also investigated the scurrilous rumors regarding the enormous amount of energy required to run those applications (at least when they’re not designed properly).
+A few weeks ago, someone asked me flat-out if I believed that the blockchain — which began life as the general ledger underlying the bitcoin digital currency — is really the game changer that it’s cracked up to be.
+Tech purists would argue, for example, that creating lots of very specific, privately managed transaction systems using this technology sort of defeats the purpose of having an open system that decentralizes control. Others insist that it’s just a fad. An overhyped technology. There's plenty of justification for this skepticism.  
+I’m not in the business of making predictions, but here is what I do know: The blockchain is already forcing a deeper examination of the need for secure, intelligent automation of processes that can help sustainable business practices become far more systemic. That make those processes easier to manage and to cost-justify without requiring a whole lot of manual intervention. In that respect, the blockchain is already a gamechanger.
+I’m enough of a realist to admit that it probably will take years for some of the more intriguing energy market pilots — such as the ones being tested by LO3 Energy  — to become more mainstream. And it will take a lot of investment to go big with the supply chain experiments being fronted by Unilever, Nestle, IBM and others.
+But blockchain could gain ground far more quickly as part of platforms meant to automate existing applications. For example, it’s becoming a "thing" among companies seeking to automate the process of issuing carbon offsets. Here are just three organizations focused on testing this scenario:
+Poseidon Foundation  — The nonprofit is seeking to work with businesses to integrate the process of issuing credits for forest conservation projects at the point of sale. It has captured attention for a pilot it’s running in London with the Ben & Jerry’s Scoop Shop (every scoop translates into a credit). And in late June, the foundation signed an agreement with the Liverpool City Council that could see the same approach used for public services and with small businesses across the city.
+Nori  — Its carbon removal marketplace is slated to debut later this year. Its aim is to make it simpler for businesses and consumers to buy and sell offsets from a variety of projects. "I was drawing out the system and realized there are something like seven or eight middlemen that stand between a project developer and a buyer," Nori founder Paul Gambill told Fast Company . "Several of those middlemen are really just maintaining a database — they’re not contributing much more value than that. I looked at that and said, ‘Okay, well, that’s an obvious application for the blockchain.’" Among other things, Nori hopes to help manage the complex process of pricing and it could provide a better method for auditing and verifying that projects have actually happened.
+Veridium Labs  — This startup, part of the environmental incubator EnVision Corporation , is building a system on collaboration with IBM. The initial intent is to issue tokens linked to Triple Gold REDD+ credits issued by InfiniteEarth (which also happens to be another EnVision project). The offsets are linked to a rainforest preservation project in Borneo.
+You can expect our exploration of blockchain to shape several sessions at the upcoming VERGE 18 (including that pesky debate over whether it’s an energy hog).
+Topics: 
+
+
+url: 
+https://www.greenbiz.com/article/blockchain-bluster-and-beliefs

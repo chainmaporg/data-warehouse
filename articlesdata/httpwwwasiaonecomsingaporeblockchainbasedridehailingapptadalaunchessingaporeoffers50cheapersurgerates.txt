@@ -1,0 +1,51 @@
+title: 
+Blockchain-based ride-hailing app Tada launches in Singapore: Offers 50% cheaper surge rates, Singapore News
+
+date: 
+2018-07-27 00:00:00
+
+summary: 
+ Today, the company launches TADA, their ride-hailing mobile application that's run on blockchain technology and offers drivers zero commission rates. MVL shared that the app provides an on-demand ride-hailing service that's based on their "Incentive-based blockchain mobility ecosystem MVL". This ecosystem aims to bring together drivers, riders, auto manufacturers and dealers, auto repair service providers, and insurance companies as it collects ride data on a central database. So every ride and transaction taken on the TADA app is tracked and recorded in the blockchain, and drivers fully own these information which they refer to as "Consentable data".
+
+full text: 
+Blockchain-based ride-hailing app Tada launches in Singapore: Offers 50% cheaper surge rates
+PHOTO: Vulcan Post
+Vulcan Post
+Jul 27, 2018
+In  April this year , MVL Foundation Pte. Ltd. (Mass Vehicle Ledger, MVL) rolled out Singapore’s first decentralised peer-to-peer on-demand ride-hailing service through the MVL mobile app
+Today (26 July), the company launches TADA, their ride-hailing mobile application that’s run on blockchain technology and offers drivers zero commission rates.
+The company operates under a not-for-profit model.
+Driving On Blockchain
+MVL Foundation Founder, Kay Woo, speaking to reporters / Image Credit: Vulcan Post
+MVL (pronounced em-buhl) shared that the app provides an on-demand ride-hailing service that’s based on their “incentive-based blockchain mobility ecosystem MVL”.
+This ecosystem aims to bring together drivers, riders, auto manufacturers and dealers, auto repair service providers, and insurance companies as it collects ride data on a central database.
+So every ride and transaction taken on the TADA app is tracked and recorded in the blockchain, and drivers fully own these information which they refer to as “consentable data”.
+MVL will seek consent from drivers to release this information to parties in the ecosystem which could happen in the next two years.
+Drivers are also not exclusive to driving for TADA, and will not be penalised for cancelling rides – this also applies to riders.
+Image Credit: Vulcan Post
+The incentives come in the form of points.
+For drivers, the more they drive, the more points they earn. For riders, when they review after each ride.
+To encourage the harmony between riders and drivers, drivers will also be rewarded points for driving safely and for providing a positive experience to riders.
+These points can be converted into MVL coins, which are MVL’s token or cryptocurrency, Kay Woo, Founder of MVL, explained.
+The coins can be cashed out on a cryptocurrency exchange or used in exchange for goods and services.
+Currently, the coin can be traded on IDEX, a decentralised Ethereum exchange, according to  this . This is one way MVL gets revenue.
+Let’s Ride With TADA
+Image Credit: Vulcan Post
+Founder Kay is South Korea-born, which explains the name TADA, meaning “let’s ride” in Korean.
+The app charges a fixed-fare rate to use, and a metered rate that starts from a base fare of $2.30.
+While cash transactions do not incur any transaction fees, riders paying by credit cards will be charged a 3.4% fee which goes to the payment gateways.
+As the company grows, they will negotiate with payment gateways to lower the fee.
+Read also
+Grab postpones certain changes to rewards policy after customers express unhappiness
+Kay noted that with the dynamic pricing model, fares can go up to five times that of a regular ride during peak hours.
+TADA promises about 50% cheaper surge rates because its model allows it to. However, they are still seeking feedback from drivers and riders to set a reasonable price range.
+They currently have over 2,000 driver sign-ups, which is about 100 to 200 sign-ups a day, and they aim to have 3,000 to 4,000 drivers by August.
+As much as we all love promo codes and discount, Kay told us not to hold our breath as he explained, MVL is still a rather small service and does not have the capacity to do this on the regular.
+It would be interesting to see how TADA matches up to the other ride-sharing apps in Singapore in the coming months, and observe how its unique model plays out for them. So watch this space!
+The TADA app is now available for download for  iOS  and  Android .
+This article was first published in Vulcan Post . 
+More about
+
+
+url: 
+http://www.asiaone.com/singapore/blockchain-based-ride-hailing-app-tada-launches-singapore-offers-50-cheaper-surge-rates

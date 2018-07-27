@@ -1,0 +1,49 @@
+title: 
+We Need to Start Educating Students and Hiring Teams About Blockchain. Why That's Crucial.
+
+date: 
+2018-07-27 17:00:00+00:00
+
+summary: 
+ Just as email revolutionized the way the current generation of students, learn and the way today's employees, work, adaptation of blockchain adaptation at a cross-industry level is going to completely change things. Blockchain based electives, both theoretical and practical - rather than entire programs - will benefit institutions, businesses and students. Embracing the opportunity to help both students and business capitalize on blockchain's potential is not just prudent, it is our duty as a society to evolve, and train generations to adapt to these changes.
+
+full text: 
+Blockchain
+We Need to Start Educating Students and Hiring Teams About Blockchain. Why That's Crucial.
+Blockchain's global market is predicted to hit $60.7 billion by 2024. What's your H.R. team doing about it?
+5 min read
+Opinions expressed by Entrepreneur contributors are their own.
+It is often said that we are going from the internet of things to the internet of value and that by applying blockchain technologies, the rate of data propagation will become instantaneous.
+Related:  Blockchain in Education can do Wonders. Here's Why.
+Various global networks -- proprietary and distributed -- are changing the way we deliver value, whether the use be monetary or an offer of an agreement or vital information. Technological advancement across our digital planet continues to occur at an exponential rate.
+In this context, blockchain technology and distributed ledger networks have constituted the latest revolution in information infrastructure, akin to what email and the internet were in the 1990s.
+Blockchain and distributed ledgers, in fact, are transparent databases that allow network participants to share, verify and secure value, data and information. Cryptocurrency, specifically Bitcoin, introduced the world to a new form of data management infrastructure and is based on conventional theories, programming languages and software-engineering principles.
+This technology is already being applied across industries, finding niche applications in finance and logistics, as well as in places like  the IBM and MAERSK partnership , and  Bank of America’s patent portfolio .
+So, just as email revolutionized the way the current generation of students, learn and the way today's employees, work, adaptation of blockchain adaptation at a cross-industry level is going to completely change things.
+That means change the way we teach, hire and plan for our careers and our companies' futures. Here are some of those ways:
+Blockchain in education
+Fostering education in the computer sciences needs to be a priority of our education systems. Enabling students pursuing computer science, business and law to enhance their education with blockchain-centric electives will not only help them better prepare for the current work landscape, it will offer students alternative career paths.
+By removing the issue of delay in our 24/8 society, blockchain-based industries -- with their decentralized applications, token economies and new database technology -- can streamline various industries and by extension the global economy . 
+Already, computer science is one of the most popular majors in U.S. colleges . And specific languages learned in tandem with that major, like Java, C++, Python and more, are the same language-skills needed to create blockchains (at a base level).
+Related:  How You Can Build a Career in Blockchain
+While the structure of these applications is new and evolving, allowing students to specialize in the space could benefit colleges and universities by opening new R&D opportunities while preparing students for a new digital economy. If blockchain electives become available, they could go hand-in-hand with a computer science major, for example. Students could then leave college with a better understanding of our current technological landscape and be better equipped for job openings.
+Global organizations and industrial powerhouses have stepped up to this vision of our technlogical future. IBM , Microsoft , Goldman Sachs , Bank of America and others are contributing to the development of the space every day; but with a skills shortage, blockchain specialists are in high demand.
+What human resources professionals need to know
+All this being said, not every situation requires a blockchain and not every application will fully developed.
+Blockchain based electives, both theoretical and practical -- rather than entire programs -- will benefit institutions, businesses and students. Mastery of the computer programming languages and best practices will remain hugely important and ensure cross-discipline training.
+For some organizations, blockchain is, or will be,  immensely important. For others, it won't necessarily be needed. One HR team may be looking to fill the role of a technologist with a candidate whose knowledge base is central to the organization’s needs. An HR team for a grocery chain, on the other hand, may simply require a technologist or c-suite executive with a basic knowledge base.
+An IT firm or logistics powerhouse may have a dedicated team looking to fill specific niches.
+The takeaway here is that H.R. professionals need to carefully craft job descriptions to ensure a potential hire with blockchain-based expertise. If companies consider blockchain technologies part of their "data infrastructure," the decision of human resources managers will immediately be simplified.
+From there, hiring teams can evaluate candidates based on their data/IT experience. Those needs may change as blockchain continues to evolve and transform various industries. Proof?  Blockchain's global market is predicted to hit $60.7 billion by 2024 .
+When an open position demands it, then, candidates, then, should be properly vetted to see if they are able to build and maintain a blockchain, whether they have cross-discipline abilities, whether they can manage IT infrastructure and/or work within blockchain frameworks.
+Working toward a future of blockchain technology
+In sum, blockchain is going to help accelerate societal and economic growth, by changing the way we create, transfer and verify data through a self-managing data infrastructure. Already, society is 24/7 and globalization is integral to economic development for nations around the world.
+Blockchain is going to be an important part of these trends, as a technology space that can create jobs, drive microeconomics and offer a solution to the current limitations in technology infrastructure.
+Embracing the opportunity to help both students and business capitalize on blockchain's potential is not just prudent, it is our duty as a society to evolve, and train generations to adapt to these changes.
+Related:  Edtech Startup Udacity Launches A Blockchain Nanodegree Program For MENA
+However, rather than forcing students to strictly learn blockchain and distributed-ledger technology, we should create complementary electives open not just to computer science majors but also to business and law students. These moves will help mature the  workforce of the future and ensure that students can explore career paths in the new digital economy.
+Company
+
+
+url: 
+https://www.entrepreneur.com/article/317376

@@ -1,0 +1,28 @@
+title: 
+'Seed to sale': Canada weighs up blockchain to track legal sales of cannabis
+
+date: 
+Exception in extractArticlePublishedDate for https://www.blockchaintechnology-news.com/2018/07/27/seed-to-sale-canada-weighs-up-blockchain-to-track-legal-sales-of-cannabis/
+
+summary: 
+ As part of the law, the government's health department Health Canada is authorised to implement a national tracking system in order to "Protect the integrity" of the legal market and monitor sales, according to a report by CBC. That means any company authorised to operate within the country's cannabis industry will be required to report how much how much marijuana it grew, harvested, sold, destroyed, lost or used for other purposes every month, aiming to prevent what Health Canada calls the "Movement of both legal cannabis to the illegal market and illegal cannabis to the legal market." With the technology offering immutable record-keeping, unreliant on a sole point or person, Health Canada has taken the suggestions seriously, a spokesperson telling CBC; "Blockchain was considered, along with several other options, as a potential solution to track movements of cannabis throughout the supply chain." PointChain, is working on bringing these solutions specifically to the legal cannabis industry, developing blockchain systems for both cannabis companies and banks handling related accounts.
+
+full text: 
+Mark is editor of The Block, bringing the most important blockchain developments to both businesses and consumers.
+Posted on
+July 27, 2018
+c:stock.com/[FatCamera]
+The Canadian government has reviewed blockchain as a possible solution for securely tracking marijuana “from seed to sale”, following the passing of a bill legalising recreational use of the drug nationwide last month.
+Under the new Cannabis Act, from October 17, Canadians will be able to buy and consume cannabis legally in a regulated market that will dictate how the plant can be grown, distributed and sold.
+As part of the law, the government’s health department Health Canada is authorised to implement a national tracking system in order to “protect the integrity” of the legal market and monitor sales, according to a report by CBC .
+That means any company authorised to operate within the country’s cannabis industry will be required to report how much how much marijuana it grew, harvested, sold, destroyed, lost or used for other purposes every month, aiming to prevent what Health Canada calls the “movement of both legal cannabis to the illegal market and illegal cannabis to the legal market.”
+In an age of hacking concerns and consumer privacy, however, and the industry forecasted to be worth $7bn next year, questions have been raised over how such a “vulnerable” system could be implemented without compromising confidential customer information, prompting private blockchain companies to tout the benefits of blockchain technology in providing a secure platform.
+With the technology offering immutable record-keeping, unreliant on a sole point or person, Health Canada has taken the suggestions seriously, a spokesperson telling CBC; “Blockchain was considered, along with several other options, as a potential solution to track movements of cannabis throughout the supply chain.”
+One such group, PointChain, is working on bringing these solutions specifically to the legal cannabis industry, developing blockchain systems for both cannabis companies and banks handling related accounts. The company’s CEO, Mark Lozzi, has argued that the technology is “critical” for the industry, giving regulators the ability to immediately identify data breaches and hacking attempts.
+Unsurprisingly, it’s not the first time the technology has been considered for this particular use case; with cannabis now legal in 30 out of 50 US states, “at least a dozen” marijuana-based blockchain projects are competing to provide a framework for the multi-billion-dollar industry to grow on.
+Health Canada’s system won’t launch on blockchain initially. However, the agency has not ruled out using the technology in the future, once a wider government standard for its use has been acquired.
+Related Items:
+
+
+url: 
+https://www.blockchaintechnology-news.com/2018/07/27/seed-to-sale-canada-weighs-up-blockchain-to-track-legal-sales-of-cannabis/

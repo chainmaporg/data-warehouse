@@ -1,0 +1,35 @@
+title: 
+Hitachi experiments with blockchain and biometrics, introduces user fingerprints for payments
+
+date: 
+2018-07-01 00:00:00
+
+summary: 
+ On 25th July, Hitachi put forth its idea of using blockchain to settle payments using the fingerprints of its customers. KDDI, the telecommunication MNC, collaborated with Hitachi and is experimenting with a system based on blockchain that can settle retail payments through fingerprints of customers. The technology built by Hitachi using Hyperledger Fabric platform is an integration of blockchain and biometrics with the help of the existing coupon system.
+
+full text: 
+Hitachi experiments with blockchain and biometrics, introduces user fingerprints for payments
+Published
+Tweet
+Hitachi, Ltd. is the Japanese multinational conglomerate company headquartered in Tokyo, Japan. As the banks and institutions are approaching the use cases of blockchain technology, Hitachi announced to do the same. On 25th July, Hitachi put forth its idea of using blockchain to settle payments using the fingerprints of its customers.
+KDDI, the telecommunication MNC, collaborated with Hitachi and is experimenting with a system based on blockchain that can settle retail payments through fingerprints of customers. The technology built by Hitachi using Hyperledger Fabric platform is an integration of blockchain and biometrics with the help of the existing coupon system.
+This system is built in order to eradicate the hassle of physical payments, as it settles coupon transactions over a ‘Distributed Network’ using the biometrics of fingerprints for verification.
+Hitachi News release | Source: Hitachi.co.jp
+Hitachi on its official website states:
+“Hitachi Blockchain PoC Environment Provisioning Service for Hyperledger Fabric is a service that quickly provides a Blockchain environment that connects different industries and brings about business transformation for application validation in your business.”
+Hitachi further explained that when customers log in to the network they are entitled to their registered coupon credits and are required to fill biometric information. This information will be encrypted and stored in the system and the credits given to the customers will be unlocked with authorized fingerprints. During the process of an on-going transaction, the retailer will act as a node to the blockchain and the fingerprint scanner will settle the payment of the client.
+Hyperledger sponsored by The Linux Foundation is working on the development and standardization of the Blockchain infrastructure based on open innovation. Hitachi has been involved in the project as a premier member since its inception and is working on the development of core functions.
+Hitachi believes that blockchain makes it possible for multiple participants to cooperate securely by using the same, common and authentic source.
+Hitachi introduced three features of its Blockchain system:
+Fulfilling reliable operations
+Regardless of the complexity of the business and the reliability of the dealer, Hitachi will run the execution of highly reliable and transparent business.
+Transparency of transactions
+Hitachi keeps all the data in the history format. They can trace how the value has changed. By including all the transaction history, the user is open to make any transaction transparent.
+Data guarantee
+Since multiple nodes are connected by P2P and each node holds data, even when trying to tamper information of some nodes, the other nodes guarantee the correct data.
+Hitachi states that it has been cultivating systems to accelerate the creation of customer collaborations by providing an environment for verifying Blockchain’s features such as “reliable business execution”, “transparency of transactions” and “data guarantee” by customers’ businesses.
+loading…
+
+
+url: 
+https://ambcrypto.com/hitachi-experiments-with-blockchain-and-biometrics-introduces-user-fingerprints-for-payments/

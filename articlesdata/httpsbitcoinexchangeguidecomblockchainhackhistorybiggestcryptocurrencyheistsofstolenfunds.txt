@@ -1,0 +1,41 @@
+title: 
+Blockchain Hack History: Biggest Cryptocurrency Heists Of Stolen Funds
+
+date: 
+Exception in extractArticlePublishedDate for https://bitcoinexchangeguide.com/blockchain-hack-history-biggest-cryptocurrency-heists-of-stolen-funds/
+
+summary: 
+ Such issues tend to cause the blockchain millions of dollars per day and unfortunately, there is no indication that the hacks are slowing down. At the point of the incident, before funds could be invested, a hacker saw a flaw in the code and moved 3.6 million ether, which was worth $55 million. Further, tools are in development to users fight against hackers and to protect funds and information in the blockchain.
+
+full text: 
+News Cryptocurrency Headlines Blockchain Hack History: Biggest Cryptocurrency Heists Of Stolen Funds
+Blockchain Hack History: Biggest Cryptocurrency Heists Of Stolen Funds
+By
+Bitcoin Exchange Guide News Team
+-
+StumbleUpon
+Blockchain’s growth has been stellar over the past few years. Although there are many reasons for blockchain’s effectiveness, one of the most important is that the technology has proven quite resilient to hacks. Even with its resilience though, the technology has had a few moments of losses, exchange hacks, wallet freezes, and even a forced transfer. Such issues tend to cause the blockchain millions of dollars per day and unfortunately, there is no indication that the hacks are slowing down.
+Although there is discourse concerning whether the issues involving blockchain’s security can be categorized as a “hack,” what is certain is that they can be described as “incidents” at the very least. There have been several incidents over the years, which are as follows:
+Blockchain Hack History
+Value Overflow in August 2010
+Here, an individual was able to create a new block that featured 92 billion bitcoin, which is more coin meant to exist. Luckily, the community noticed the error and a patch was created to prevent another similar incident.
+AllinVain in June 201
+This incident is marked by a user, named AllinVain, who announced that 25,000 BTC went missing from his account . It seems that hackers were able to hack into the user’s hard drive and transfer the funds to an exterior wallet. The coins, then worth $500,000 are worth $150 million today.
+Mt. Gox in February 2014
+This hack may just be the most famous one. Here, a Japanese exchange oversee over 70% of bitcoin transactions. In February, transactions were halted and later, the exchange moved offline. The platform eventually filed for bankruptcy after it came to light that 850,000 bitcoin had disappeared. It seems that hackers had siphoned the funds to other wallets and at this point, resolution of the matter is still unfolding.
+The DAO in June 2016
+DAO , which stands for decentralized autonomous organizations, is an organized collective run by contract agreements among members. The investment fund quality of the platform is supposed to support new blockchain ventures and investment decisions are voted on by the collective. At the point of the incident, before funds could be invested, a hacker saw a flaw in the code and moved 3.6 million ether, which was worth $55 million. The community decided to not undo the hack and ultimately, a split between Ethereum and Ethereum Classic occurred.
+Parity Wallet Freeze in November 2017
+Recommended Link
+This incident features Parity, an Ethereum client company. Hackers noticed a bug allowing them to remove $30 million worth of Ethereum at the time. A code to repair the bug was developed by a Git Hub user, which turned the multi-signature wallet into a single-owner wallet. The user then killed the wallet smart contract , freezing the wallet connected to it, and in turn $160 million ether froze as well. These issues arose, overall, due to poor coding. To undo the freeze, Parity suggested hard fork proposals, but members of the community were reluctant.
+CoinCheck in January 2018
+The most recent incident was in January 2018 and it involved CocinCheck, a Japanese exchange, which announced that about 500 NEM tokens disappeared from its wallets. The platform announced that hackers had laundered all of the funds.
+Overall, these incidents are certainly worrisome, but it should not affect the ultimate potential and benefit that blockchain brings to the bitcoin community . The best thing that users can learn from these issues is that it takes stellar management practices, good code, and oversight to prevent error. Further, tools are in development to users fight against hackers and to protect funds and information in the blockchain .
+[FREE] Get Our Best Crypto Trading, Mining & Investing Hacks:
+*Action Required* Enter Your Email To Get Insight For Trending Coin News & Reviews
+I will never give away, trade or sell your email address. You can unsubscribe at any time.
+Share
+
+
+url: 
+https://bitcoinexchangeguide.com/blockchain-hack-history-biggest-cryptocurrency-heists-of-stolen-funds/

@@ -1,0 +1,28 @@
+title: 
+Vaccine Blockchain Plan Prompts Enquiries Amid China Pharma Scandal
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/vaccine-blockchain-plan-prompts-enquiries-amid-china-pharma-scandal/
+
+summary: 
+ As reported by CoinDesk earlier this week, following a vaccine data scandal exposed last weekend, the Chinese crypto community weighed in with the argument that blockchain could be a potential solution for monitoring the vaccine supply chain. Given the stock surge, the Shenzhen Stock Exchange - which has the remit to regulate public firms to comply with securities law in China - sent an enquiry to the company on Wednesday night, demanding that YLZ deliver substantial proof of its capacity and resources in R&D of blockchain technology by Friday. The exchange further demanded details regarding the firm's collaboration with Ant Financial on the topic - effectively asking whether the company is actually partnering to work on the vaccine project or merely harnessing blockchain hype in conjunction with a public crisis to juice up its stock price.
+
+full text: 
+Vaccine Blockchain Plan Prompts Enquiries Amid China Pharma Scandal
+NEWS
+Wolfie Zhao
+Jul 26, 2018 at 13:30 UTC  |  Updated  Jul 26, 2018 at 13:37 UTC
+On the back of China's most recent pharmaceutical scandal, stock investors are buying into a public company's claim to be developing a blockchain for tracking vaccines – but one watchdog isn't happy about it.
+As reported by CoinDesk earlier this week, following a vaccine data scandal exposed last weekend, the Chinese crypto community weighed in with the argument that blockchain could be a potential solution for monitoring the vaccine supply chain.
+After the scandal broke, YLZ Info, a software company listed on China's Shenzhen Stock Exchange,  announced  that it is now planning to work with Alibaba payment affiliate Ant Financial to create a blockchain for just that purpose.
+The claim followed a previous announcement made by the company in March indicating it was cooperating with Ant Financial on technological development in areas that include blockchain.
+Perhaps unsurprisingly, YLZ's claim on Monday to be planning a specific vaccine blockchain project appears to have prompted keen interest from stock investors in the country.
+Since the announcement, the company's stock price has surged by 10 percent on each of the past three days, recording a significant total spike of as much as a 50 percent and reaching an upper limit imposed by market regulators in China.
+Given the stock surge, the Shenzhen Stock Exchange – which has the remit to regulate public firms to comply with securities law in China – sent an enquiry  to the company on Wednesday night, demanding that YLZ deliver substantial proof of its capacity and resources in R&D of blockchain technology by Friday.
+The exchange further demanded details regarding the firm's collaboration with Ant Financial on the topic – effectively asking whether the company is actually partnering to work on the vaccine project or merely harnessing blockchain hype in conjunction with a public crisis to juice up its stock price.
+Vaccine image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/vaccine-blockchain-plan-prompts-enquiries-amid-china-pharma-scandal/

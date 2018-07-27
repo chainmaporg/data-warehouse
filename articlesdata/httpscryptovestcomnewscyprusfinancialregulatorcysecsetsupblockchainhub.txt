@@ -1,0 +1,28 @@
+title: 
+Cyprus’ Financial Regulator CySEC Sets up Blockchain Hub
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptovest.com/news/cyprus-financial-regulator-cysec-sets-up-blockchain-hub/
+
+summary: 
+ The regulatory hub will facilitate the direct dialogue between CySEC and the blockchain industry. The Cyprus Securities and Exchange Commission announced it is establishing an innovation hub to explore the developments in the industry and in particular financial products using the distributed ledger technology and blockchain. CySEC is the latest national financial markets and service providers regulator to launch an initiative seeking dialogue with the blockchain industry.
+
+full text: 
+Cyprus’ Financial Regulator CySEC Sets up Blockchain Hub
+The regulatory hub will facilitate the direct dialogue between CySEC and the blockchain industry.
+by Christina Dimitrova , 2 hrs ago
+Subscribe
+The Cyprus Securities and Exchange Commission (CySEC) announced it is establishing an innovation hub to explore the developments in the industry and in particular financial products using the distributed ledger technology (DLT) and blockchain.
+The purpose of the new entity will be to “foster a better, more effective relationship between entities operating in this area and the way they are regulated”. It will provide a place where both supervised and non-supervised entities in the new financial industries will have access to CySEC to better understand and implement regulatory requirements.
+The regulator hopes that the new platform will facilitate the exchange of information between the regulator and the fintech companies. The latter will be able to get first-hand information from CySEC, which, on its part, will be in touch with the latest financial innovations.
+ “The establishment of the Innovation Hub marks an important and exciting step for CySEC’s supervision of new and innovative Fintech companies in Cyprus,” said Demetra Kalogerou, chair of the CySEC. “In promoting closer ties with these fledgling but fast-growing industries, we aim to best protect investors by fully understanding the risks and benefits these new products bring.”
+It is expected that the new hub will become fully operational in September. Eligible companies interested in having their products examined by CySEC can submit their request once the hub launches. There will also be a designated section on CySEC’s website. It will list the eligibility criteria for the applicants.
+CySEC is the latest national financial markets and service providers regulator to launch an initiative seeking dialogue with the blockchain industry.
+The new round for the regulatory sandbox of Financial Conduct Authority of the UK saw a total of 40% of the applicants being involved in blockchain. ?he US Consumer Financial Protection Bureau (CFPB), has initiated a regulatory program to support fintech companies introduce new types of products and services, while the UAE saw the launch of its first sandbox-regulated crypto exchange Palmex.
+×
+Stay up to date with market trends and exclusive crypto news!
+Subscribe
+
+
+url: 
+https://cryptovest.com/news/cyprus-financial-regulator-cysec-sets-up-blockchain-hub/

@@ -1,5 +1,5 @@
 title: 
-Chinese Influencers Call for Blockchain to Solve Food and Drug Safety Problem | NewsBTC
+Chinese Influencers Call for Blockchain to Solve Food and Drug Safety Problem
 
 date: 
 Exception in extractArticlePublishedDate for https://www.newsbtc.com/2018/07/25/chinese-influencers-call-for-blockchain-to-solve-food-and-drug-safety-problem/

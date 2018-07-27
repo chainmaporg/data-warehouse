@@ -1,0 +1,32 @@
+title: 
+Social Media Platform Releases Internal Chinese Blockchain
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptodisrupt.com/social-media-platform-releases-internal-chinese-blockchain/
+
+summary: 
+ Chinese blockchain token for a major social media platform. Tianya is excited about the prospect of delving into the Chinese blockchain industry and went onto say that they are "Adhering to the spirit of blockchain consensus, co-construction, decentralization, based on blockchain technology to reconstruct the Tianya community ecosystem." Social Media websites and messenger services across the globe are jumping to integrate blockchain tech into their platforms, and the Chinese blockchain industry is no different.
+
+full text: 
+Social Media Platform Releases Internal Chinese Blockchain
+By
+-
+July 27, 2018
+The Chinese blockchain industry has the most potential of any market in the world, purely based on the number of people in the nation. One of the largest websites in China, the social network, Tianya Club, has announced it is to launch an internal blockchain token on its platform in the near future.
+The Chinese blockchain scene is moving forward at hyper speed, and with the Tianya Club being the latest major company in China to talk about integrating blockchain technology into their business model, the future for crypto in China is white hot.
+Chinese blockchain token for a major social media platform
+The Tianya Club is one of the top-25 websites in China, which pulls in massive numbers on a monthly basis. In a recent blog post from the company, Tianya said its new Chinese blockchain tokens, Tianyan Tokens (TYT), would work as some kind of function that rewards users in tokens. It is planned to run in parallel with their already-existing Tianya Diamond tokens, which is not a crypto.
+Users who get, or already have some Tianya Diamond tokens, will receive the new YTY. 80% of the new tokens are to be distributed to members of the social media platform. The other 20% will go to operational needs.
+The Chinese social media giants also said in the blog post that “After half a year of research and design, after many rounds of communication with users, the Tianya sub-system based on blockchain technology has taken shape, and will be launched on August 8th for the public.”
+Tianya is excited about the prospect of delving into the Chinese blockchain industry and went onto say that they are “adhering to the spirit of blockchain consensus, co-construction, decentralization, based on blockchain technology to reconstruct the Tianya community ecosystem.”
+Although the technical nuances of the TYT are yet to be released, it will be interesting to see how it pans out as ICO projects are currently banned in China . It would seem that the TYT coin might not be traded in the standard sense.
+Social media loves blockchain tech
+Social Media websites and messenger services across the globe are jumping to integrate blockchain tech into their platforms, and the Chinese blockchain industry is no different. In recent weeks we have seen the Japanese social media network, LINE, announce their own crypto exchange called BITBOX, which will be exposed to LINE’s 200 million monthly users.
+The new exchange offers 30 separate digital currencies and is making big news in the crypto-sphere. The exchange was launched in mid-July to a fanfare of exposure, merging the social media platform with a new and exciting exchange service that is planning to penetrate the mainstream in Japan. The marriage between crypto and social media is now well and truly open.
+With the launch of this interesting new Chinese blockchain technology at Tianya that will reach tens of millions, it will be fascinating to see how the social media giants get around the ban on ICOs across the nation to implement this token.
+Alan Wass
+I am very experienced writer/blogger who has been an active member of the cryptocurrency community for several years. I have experience writing for crypto news sites and proactively been involved in the startup of other ICO and crypto ventures over the course of the past four years.
+
+
+url: 
+https://cryptodisrupt.com/social-media-platform-releases-internal-chinese-blockchain/

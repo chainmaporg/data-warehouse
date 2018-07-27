@@ -1,8 +1,8 @@
 title: 
-Startup Launches â€˜Complete Redesignâ€™ of Blockchain to Address Scalability Concerns
+Startup Launches ‘Complete Redesign’ of Blockchain to Address Scalability Concerns
 
 date: 
-2018-07-25 21:06:06
+2018-07-25 14:00:00+01:00
 
 summary: 
  A U.S.-based startup has unveiled a blockchain which can store data as well as transactions - meaning clients no longer need to trust third parties with their data. Fractonet describes its solution as a "Complete redesign of the blockchain." The company says its RIFT protocol means data does not need to exist outside of the blockchain. The company is confident that its blockchain can change the course of the industry for the future - providing much-needed stability, scalability and functionality.
@@ -11,8 +11,8 @@ full text:
 Connor Blenkinsop
 Startup Launches ‘Complete Redesign’ of Blockchain to Address Scalability Concerns
 A startup has developed a communication protocol which allows data to be stored on the blockchain as well as transactions.
-29 Total views
-174 Total shares
+12487 Total views
+193 Total shares
 Sponsored
 A startup has unveiled a blockchain which can store data as well as transactions — meaning clients no longer need to trust third parties with their data.
 Fractonet Innovation Technologies, or Fractonet, says its SHA-256-based  blockchain has a block size of 1.5 GB, and claims it is capable of handling more than 33,000 transactions per second with a block time of five minutes. To enable its Fracton Network blockchain to sync such big amount of data, a new communication protocol — RIFT protocol — has been developed. Each 1.5 GB block is made up of mini-blocks with a maximum size of 25 MB.
@@ -27,7 +27,6 @@ Its team believes that many people have been left disappointed by crypto. The co
 Looking ahead to the future, Fractonet says it is planning to establish a US-based legal entity. Another potential next step could be developing a to-go blockchain platform.
  
 Disclaimer. Cointelegraph does not endorse any content or product on this page. While we aim at providing you all important information that we could obtain, readers should do their own research before taking any actions related to the company and carry full responsibility for their decisions, nor this article can be considered as an investment advice.
-Follow us on:
 
 
 url: 

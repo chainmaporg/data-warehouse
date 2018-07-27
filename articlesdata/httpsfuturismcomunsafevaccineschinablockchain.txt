@@ -1,0 +1,23 @@
+title: 
+Chinese Citizens Are Using Blockchain to Warn Each Other of Unsafe Vaccines
+
+date: 
+2018-07-25 15:58:35+00:00
+
+summary: 
+ Technode, a site focused on China's tech industry, was the first to catch this clever use of the blockchain, but it isn't the first time Chinese citizens have turned to blockchain to share content that Chinese internet monitors had removed. Chinese citizens can't use Google, Facebook, and a number of other sites many of us take for granted. By using the blockchain in this new way, Chinese citizens may have finally found a way to express themselves that's beyond the government's reach.
+
+full text: 
+Chinese Citizens Are Using Blockchain to Warn Each Other of Unsafe Vaccines
+Salvia Santos  / Emily Cho
+Kristin Houser July 25, 2018 Future Society
+SHARING INFORMATION. China is in the midst of vaccine scandal. This weekend, news broke that drug manufacturer Changchun Changsheng Biotechnology was selling unsafe vaccines, causing an uproar amongst Chinese citizens, as we reported Tuesday . A blogger writing under the nom de plume “Beast” (?? shouye) was one of the first to break the story; an investigative article they published on the topic went viral on the WeChat social network.
+Chinese internet monitors deleted the story within hours and quickly removed any reposts. However, internet users figured out a way to share the story that will keep it permanently out of reach of these monitors: by adding it to a blockchain.
+ON THE CHAIN. Adding the article to a blockchain was actually pretty easy. A user simply sent themselves about $0.47 worth of the digital asset ether and posted the full article in the transaction’s metadata, a section reserved for notes or other information. Because the Ethereum blockchain is a public ledger, anyone can view this transaction (and read the included article). The ledger is also decentralized, so there’s no single authority Chinese officials could pressure to remove the article.
+Technode, a site focused on China’s tech industry, was the first to catch this clever use of the blockchain, but it isn’t the first time Chinese citizens have turned to blockchain to share content that Chinese internet monitors had removed. In April, a student published an open letter detailing the threats she received for attempting to obtain information from her university about a sexual assault case. After internet monitors removed the letter, students added it to the Ethereum blockchain, where it remains.
+TWO INTERNETS. The internet in China looks far different from that in the U.S. and many other nations. According to several human rights organizations, the nation employs more than 40,000 internet monitors whose sole job is to ensure information the government doesn’t want the public seeing stays off the internet. Chinese citizens can’t use Google, Facebook, and a number of other sites many of us take for granted. They also can’t access overseas Chinese news sites or use  words the government doesn’t approve of (for example, they can’t post the word “disagree” on Weibo, a popular Chinese site that’s essentially a Twitter-Facebook hybrid).
+By using the blockchain in this new way, Chinese citizens may have finally found a way to express themselves that’s beyond the government’s reach.
+
+
+url: 
+https://futurism.com/unsafe-vaccines-china-blockchain/

@@ -1,0 +1,32 @@
+title: 
+The authors of "Blockchain Revolution" explain the seven types of cryptoassets — Quartz
+
+date: 
+2018-07-25 07:00:41+00:00
+
+summary: 
+ Banks are taking notice, going from "Bitcoin bad, blockchain good," to "Bitcoin, yikes!" JPMorgan and Bank of America are speaking openly about the risks cryptocurrencies pose to their business, and Goldman Sachs and TMX Group's Shorcan are moving swiftly to trade these assets. Utility tokens are programmable blockchain assets that have utility in an application such as Golem, which aims to aggregate the power of the world's smartphones into a decentralized supercomputer that anyone can use to run computations in exchange for golem tokens. To truly realize that promise it's time we looked at cryptoassets not just as "Digital gold," but of digital everything.
+
+full text: 
+Future of Finance
+July 25, 2018
+Two years ago, the entire cryptoasset market had a value of $9 billion. Had it been a public company, it would barely have cracked the S&P 500 index. Fewer than two years later, the cryptoasset market is $300 billion in size , roughly double the market capitalization of RBC, Canada’s largest lender.
+The explosion (and recent pull-back ) of value in cryptoassets like bitcoin and ether has captured the imagination of developers, and the attention of the media, governments, central banks, the investing public, and regulators. It has made enthusiasts euphoric, Nobel laureates skeptical, and old-school billionaires dyspeptic . Charlie Munger of Berkshire Hathaway went so far as to call bitcoin “ noxious poison .” Is there any other kind of poison?
+To be sure, there is a lot of hype in this market, and the industry must confront such implementation challenges as scaling technology and regulatory uncertainty. But beyond the hype and mania, something profound is happening—the creation of an entirely new digital asset class.
+This new asset class will transform every industry in the economy, from financial services to pharmaceuticals, media to manufacturing. Existing assets like stocks and bonds will become digital assets and new yet unforeseen assets will emerge, enabling new decentralized business models based on collaboration and clever code. Understanding the various types of cryptoassets, and the different functions they serve, is crucial to thriving in this new decentralized digital economy.
+In the updated version of Blockchain Revolution , we break them down into at least seven categories:
+Cryptocurrencies like bitcoin, the granddaddy of all cryptoassets, are instruments of exchange, stores of value, and units of account. To wit, bitcoin today holds over $100 billion dollars and supports billions a day in global transactions. Banks are taking notice, going from “bitcoin bad, blockchain good,” to “bitcoin, yikes!” JPMorgan and Bank of America are speaking openly about the risks cryptocurrencies pose to their business, and Goldman Sachs and TMX Group’s Shorcan are moving swiftly to trade these assets.
+Platform tokens like ether of the Ethereum blockchain, the $40 billion mega-unicorn and Canada’s most successful start-up ever, are designed to support decentralized applications that eliminate intermediaries in virtually every facet of the economy. Ethereum has also emerged as the leading platform for initial coin offerings (so-called ICOs), where a project can tap into global pools of capital. To date, over $7 billion has been raised through ICOs , 70% of them using Ethereum’s standard, ERC-20. Ethereum and its challengers, Cosmos, Aion, and ICON, will form the backbone of the next era of the internet.
+Utility tokens are programmable blockchain assets that have utility in an application such as Golem, which aims to aggregate the power of the world’s smartphones into a decentralized supercomputer that anyone can use to run computations in exchange for golem tokens. Think Amazon Web Services without Amazon.
+Security tokens are native digital bonds, equities, and other securities that trade peer to peer without financial intermediaries. Why should a stock trade settle T+3 when buyer and seller can trade directly and settle T+0 on a decentralized exchange? The Canadian Securities Exchange intends to get into this market. Others would be wise to follow. ICOs have already upended venture capital. Bay Street will be next.
+Natural asset tokens represent tangible goods like gold, oil, or carbon in peer-to-peer markets with real-time settlement. For example, the Royal Mint partnered with the Chicago Mercantile exchange to create Royal Mint Gold , a digital gold token backed by gold bullion in the Royal Mint’s vaults. The entire commodities market is up for grabs, as is mass-market carbon trading.
+Cryptocollectibles are entirely unique digital assets. Consider CryptoKitties , an app that enables users to purchase, raise, and even breed unique virtual pets. As of January 2018, Cryptokitties’ 235,000 users had conducted $52 million in transactions. Companies like Everledger and others are enabling the tracking and trading of these rare and very real collectibles on the blockchain.
+Crypto-fiat currencies are issued and governed by central banks. In 2017, Venezuela shocked many by announcing its launch of “ the Petro ,” a cryptocurrency backed by the country’s vast oil reserves. The Federal Reserve and Bank of Canada should take notice: implemented properly, crypto-fiat currencies can make markets more efficient, transparent, and inclusive, and central bank policy more responsive to crises and shocks.
+This Cambrian explosion of cryptoassets will precipitate one of the greatest reorganizations of wealth and transformations to the global economy in our history. This represents a second kick at the can—an opportunity to assure that everyone has the ability to benefit from the prosperity of the digital age.
+To truly realize that promise, however, it’s time we looked at cryptoassets not just as “digital gold,” but of digital everything.
+This article is part of Quartz Ideas , our home for bold arguments and big thinkers.
+Most Popular
+
+
+url: 
+https://qz.com/1335481/cryptocurrency-is-just-one-of-seven-types-of-cryptoassets-you-should-know/

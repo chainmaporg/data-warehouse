@@ -1,0 +1,28 @@
+title: 
+Accenture May Use Blockchain to Track the Quality of Shipments
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/accenture-may-use-a-blockchain-to-automate-logistics-processes/
+
+summary: 
+ Professional consulting giant Accenture Global Solutions may be considering using blockchain to streamline and automate shipping logistics. Devices participating in the network - which could be robots or unmanned aerial vehicles, for example - can check on the integrity of those shipments as they are transported to different locations, comparing their status to the information that's already stored on the blockchain. Last summer, Accenture and Microsoft launched a prototype of an identity-storage blockchain and is currently working with the World Economic Forum and the United Nations on projects concerning digital identity.
+
+full text: 
+Accenture May Use Blockchain to Track the Quality of Shipments
+NEWS
+Jul 27, 2018 at 02:01 UTC
+Professional consulting giant Accenture Global Solutions may be considering using blockchain to streamline and automate shipping logistics.
+According to a document published by the U.S. Patent and Trademark Office on Thursday, the proposed system would determine certain types of attributes for objects being shipped and store that information on a blockchain. The proposed system will then track the objects as they are shipped from one location to another, using the data stored on the ledger to confirm the objects' status and condition.
+Devices participating in the network – which could be robots or unmanned aerial vehicles, for example – can check on the integrity of those shipments as they are transported to different locations, comparing their status to the information that's already stored on the blockchain.
+The information can also be tracked by driverless or other autonomous vehicles.
+If an analyzing device verifies the identity of an item successfully by matching its attributes to what's already described and stored on the blockchain, it will allow the item to continue its trip, whether that places it on shelves, onto a vehicle for further transportation or is incorporated into a further manufacturing process.
+If the data from the current and previous stages doesn't match, the device may order the system to return the product and halt the payment.
+The system can also create alerts and messages for managers involved in the shipping process or government agencies that regulate the product. The system could even call for a manager meeting if necessary or request that an investigator check if a product was tampered or altered.
+The application is Accenture's latest show of interest in blockchain applications (and not its first effort to secure intellectual property related to the tech).
+Last summer, Accenture and Microsoft launched a prototype of an identity-storage blockchain and is currently working with the World Economic Forum and the United Nations on projects concerning digital identity.
+Accenture image via josefkubes / Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/accenture-may-use-a-blockchain-to-automate-logistics-processes/

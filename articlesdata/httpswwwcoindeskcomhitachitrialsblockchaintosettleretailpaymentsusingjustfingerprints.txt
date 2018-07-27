@@ -1,0 +1,28 @@
+title: 
+Hitachi Trials Blockchain to Settle Retail Payments Using Just Fingerprints
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/hitachi-trials-blockchain-to-settle-retail-payments-using-just-fingerprints/
+
+summary: 
+ Japan-based tech conglomerate Hitachi and telecommunication giant KDDI are testing a blockchain-based system that can settle retail payments validated using shoppers' fingerprints. Hitachi said the end goal is to use a tamper-proof blockchain to assist in verifying users' fingerprints and to keep their coupon usage information accurate and updated across stores within the network simultaneously. The project is the latest pilot test taken by Hitachi to utilize a blockchain platform in retail transactions.
+
+full text: 
+Hitachi Trials Blockchain to Settle Retail Payments Using Just Fingerprints
+NEWS
+Wolfie Zhao
+Jul 26, 2018 at 06:00 UTC  |  Updated  Jul 26, 2018 at 07:21 UTC
+Japan-based tech conglomerate Hitachi and telecommunication giant KDDI are testing a blockchain-based system that can settle retail payments validated using shoppers' fingerprints.
+According to a release on Wednesday, a group of staff from the two partners are this week experimenting with a coupon settlement system deployed in a KDDI store in Tokyo's Shinjuku district, as well as a local donut shop.
+Built by Hitachi with technology from the Hyperledger Fabric platform, the blockchain system is integrated with Hitachi's biometric verification and KDDI's existing coupon system. It seeks to settle shoppers' coupon transactions over a distributed network using their fingerprints as validators.
+Hitachi explained that when shoppers sign up to use the system, they will register their coupon credits and biometric information, which are then encoded into a string of encrypted data and stored on the blockchain.
+When initiating a transaction at a retail shop that accepts the coupons and participates in the blockchain as a node, shoppers will verify their identity with a fingerprint reading device that broadcasts the request to the network and the transaction is settled.
+Hitachi said the end goal is to use a tamper-proof blockchain to assist in verifying users' fingerprints and to keep their coupon usage information accurate and updated across stores within the network simultaneously.
+"As a result, users can authenticate themselves by holding the finger on the authentication infrastructure, so it is not necessary to present a coupon at the store, and the coupon can be used even without a smartphone," the company said in the release.
+The project is the latest pilot test taken by Hitachi to utilize a blockchain platform in retail transactions. Last year, the company also announced it is developing a blockchain platform for supply chain businesses to manage orders and invoices on an immutable ledger.
+Hitachi image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/hitachi-trials-blockchain-to-settle-retail-payments-using-just-fingerprints/

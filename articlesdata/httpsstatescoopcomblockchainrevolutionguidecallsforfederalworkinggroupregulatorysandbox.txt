@@ -1,0 +1,35 @@
+title: 
+'Blockchain Revolution' guide calls for federal working group, regulatory sandbox
+
+date: 
+2018-07-27 00:00:00
+
+summary: 
+ Policymakers have a new resource to assist in efforts to understand and legislate blockchain technology, thanks to a new guide on the distributed ledger technology made famous by bitcoin. Published by the Computing Technology Industry Association, better known as CompTIA, a guide titled "Harnessing the Blockchain Revolution" was unveiled Tuesday on Capitol Hill by CompTIA's David Logsdon as part of the association's first "Blockchain week." The guide presents a "Framework" for the use, analysis and questions that blockchain presents, especially in the public sector. Ultimately the guide offers two recommendations to Congress: establish a working group of federal stakeholders to facilitate the maturation of the technology - which Logsdon said would help lawmakers "Roll up our sleeves, get down and dirty and into the details" of blockchain - and enable a federal- and state-level "Regulatory sandbox" for blockchain research and investment from the private sector.
+
+full text: 
+Sponsored Content
+'Blockchain Revolution' guide calls for federal working group, regulatory sandbox
+Getting every state coordinated on the recordkeeping technology might be "impossible," but a new guide presents a potential framework to get governments started.
+By Ryan Johnston
+Ryan Johnston Editorial Intern
+Ryan Johnston is an editorial intern for Scoop News Group. Johnston contributes content to all SNG publications.
+...
+View Profile
+(CompTIA)
+Policymakers have a new resource to assist in efforts to understand and legislate blockchain technology, thanks to a new guide on the distributed ledger technology made famous by bitcoin.
+Published by the Computing Technology Industry Association, better known as CompTIA, a guide  titled "Harnessing the Blockchain Revolution" was unveiled Tuesday on Capitol Hill by CompTIA’s David Logsdon as part of the association’s first “blockchain week.” The guide presents a “framework” for the use, analysis and questions that blockchain presents, especially in the public sector.
+“With this guide, we hope to demystify blockchain technology and provide officials with the information and tools they need to fully evaluate whether blockchain might be the solution they are looking for to support essential government and public sector functions in an efficient, secure and transparent way,” Logsdon said in a statement.
+Ultimately, though, the guide offers two recommendations to Congress: establish a working group of federal stakeholders to facilitate the maturation of the technology — which Logsdon said would help lawmakers “roll up our sleeves, get down and dirty and into the details” of blockchain — and enable a federal- and state-level “regulatory sandbox” for blockchain research and investment from the private sector.
+A “sandbox” would essentially be a government-led program that allows entrepreneurs and innovators to test emerging-technology products for a limited time at a limited scope. In March, Arizona became the first state to launch a similar environment dedicated to testing financial technology. But Logsdon and panelists at the event, including representatives from IBM, Dell EMC, Deloitte and Grant Thornton, agreed that getting all 50 states onto the same blockchain innovation path might be impossible.
+“I don’t know if the utopia is going to ever occur. In other words, you’ve always seen different levels of adoption at different rates,” said Joel Waterfield, a managing director at Grant Thornton. “I think that’s why congressional action might be best, because I just don’t think you’re going to be able to get all 50 states to come to a conclusion at one point and say ‘OK, now it’s time to invest.’"
+The event also included an appearance from Republican Rep. David Schweikert, from Arizona, who energetically prodded the audience to imagine a world in which all medical records, taxes, car ownership and government-issued ID information was all held on the blockchain and accessible via smartphone.
+Schweikert's optimism in those specific use cases is tied to many of the key advantages experts see in blockchain over alternative record-keeping systems — clear data ownership, enhanced security, and data standardization, especially across industries. CompTIA's guide outlines those benefits, and lists today's existing federal and state initiatives, but it's the private sector that is largely pushing the technology forward.
+"We just think that the industry needs to work together and the public sector needs to work together to make sure there are at least API’s and protocols to ensure interoperability [of blockchain]," said Breck DeWitt, Dell EMC's public sector CTO.
+While the private sector is setting the foundation for a blockchain-filled future — IBM, for example, is now standing up an international blockchain for food safety, with similar state-level initiatives having followed in Arkansas and Delaware — there’s no shortage of questions to be answered, according to the universities that are studying the technology. 
+“There are a lot claims about what this technology can do, and there are a lot of claims about security guarantees,” Jeannette Wing, director of Columbia’s Data Science Institute and an overseer of the university and IBM’s new blockchain research center, told EdScoop last week. “None of that is actually proven — so from a pure research point of view, there’s a lot of work that needs to be done about what is true and what is not true about blockchain in terms of property.”
+-In this Story-
+
+
+url: 
+https://statescoop.com/blockchain-revolution-guide-calls-for-federal-working-group-regulatory-sandbox

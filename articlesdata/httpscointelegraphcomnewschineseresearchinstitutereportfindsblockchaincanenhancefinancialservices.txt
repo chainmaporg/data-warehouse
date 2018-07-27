@@ -1,0 +1,29 @@
+title: 
+Chinese Research Institute Report Finds Blockchain Can Enhance Financial Services
+
+date: 
+2018-07-25 13:49:00+01:00
+
+summary: 
+ A Chinese scientific research institute and value-added Internet service provider Tencent Holdings have jointly released a July 24 report emphasizing the impact of blockchain on the transformation of traditional financial services. The Academy of Information and Communications Technology, a scientific research institute under China's Ministry of Industry and Information Technology, and China's Tencent Holdings' report includes eight core conclusions of blockchain implementation in the financial sector. Earlier this week, three major Chinese telecom operators launched a blockchain research group for building a "Next-generation telecommunication network." China will also lead an international research group on the standardization of the Internet of Things and blockchain technology, as Cointelegraph reported July 18.
+
+full text: 
+Max Yakubowski
+Chinese Research Institute Report Finds Blockchain Can Enhance Financial Services
+A joint report from a Chinese scientific research institute and Tencent Holdings finds blockchain can positively impact the financial sector.
+11802 Total views
+333 Total shares
+News
+A Chinese scientific research institute and value-added Internet service provider Tencent Holdings have jointly released a July 24 report emphasizing the impact of blockchain on the transformation of traditional financial services.
+The Academy of Information and Communications Technology, a scientific research institute under China’s Ministry of Industry and Information Technology (MIIT), and China’s Tencent Holdings’ report includes eight core conclusions of blockchain implementation in the financial sector.
+According to the report, blockchain technology will further enhance “the transparency of financial transactions, strengthen the flexibility of system operation, and automate processes, thus affecting the record keeping, accounting and payment settlement methods of financial services. The study further comments:
+“In addition to digital currency, the characteristics of the blockchain can play a big role in the fields of payment and settlement, supply chain finance, securities trading, insurance, and credit reporting.”
+During the process of applying blockchain, the report notes, it is necessary to differentiate between the “coin” application and the “chain” application, presumably a reference to blockchain tech’s basis for most cryptocurrencies:
+“For the ‘coin’ application, the financial risk should be strictly guarded. For the ‘chain’ application, it should be legally regulated.”
+Earlier this week, three major Chinese telecom operators launched a blockchain research group for building a “next-generation telecommunication network.” China will also lead an international research group on the standardization of the Internet of Things ( IoT ) and blockchain technology, as Cointelegraph reported July 18.
+China has also recently downplayed blockchain tech, as the head of the international department of the China Banking and Insurance Regulatory Commission warned against “mythologizing” blockchain technology in mid-July.
+As China was the first country to institute blanket a ban on Initial Coin Offerings ( ICO ) and exchanges , Cointelegraph reports that the country has some difficulties with the decentralized and liberal freedoms that comes from blockchain and cryptocurrencies.
+
+
+url: 
+https://cointelegraph.com/news/chinese-research-institute-report-finds-blockchain-can-enhance-financial-services

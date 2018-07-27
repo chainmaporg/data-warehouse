@@ -1,0 +1,27 @@
+title: 
+Chinese Citizens Are Using Blockchain to Talk About Unsafe Vaccines
+
+date: 
+2018-07-27 10:32:00
+
+summary: 
+ Welcome! To bring you the best content on our sites and applications, Meredith partners with third party advertisers to serve digital ads, including personalized digital ads. You always have the choice to experience our sites without personalized advertising based on your web browsing activity by visiting the DAA's Consumer Choice page, the NAI's website, and/or the EU online choices page, from each of your browsers or devices. To avoid personalized advertising based on your mobile app activity, you can install the DAA's AppChoices app here.
+
+full text: 
+By Carson Kessler
+10:32 AM EDT
+With a national vaccine scandal underway, blockchain may provide Chinese citizens a new way to communicate censorship-free on the internet.
+On July 15, the State Drug Administration (SDA) announced that vaccine maker Changsheng Bio-Tech forged data for roughly 113,000 doses of its human rabies vaccine.
+During a surprise inspection of Changsheng’s facilities, the SDA discovered the forged data and ordered Changsheng to halt production of the vaccine immediately. There have been no reports of anyone harmed by the vaccine so far.
+Shortly after the discovery, drug inspectors in China’s Jilin province reported that Changsheng had also sold 252,600 substandard diphtheria, whooping cough, and tetanus vaccines to Chinese disease control and prevention centers. This particular vaccine for infants is part of a compulsory government program. It remains unknown how many doses of the faulty vaccine officials have administered.
+“Beast”—??—was one of the first bloggers to write about the scandal online. The investigative article on the topic shortly went viral on the WeChat social network.
+With more than 40,000 internet monitors whose sole job is to ensure information the government doesn’t want the public seeing stays off the internet , the exposé post was deleted within a few hours.
+However, internet users also added the story to a blockchain where it would remain unreachable by these monitors .
+An internet user sent themselves approximately $0.47 worth of the digital asset ether, posting the full article in the transaction’s metadata. Since Ethereum blockchain is a public, decentralized ledger , anyone can freely view the transaction—and read the attached article in the notes section.
+This isn’t the first time Chinese citizens have utilized blockchain to voice concern.
+In April, a student published an open letter detailing the threats she received after an attempt to obtain information from her university about a sexual assault case. After internet monitors swiftly removed the letter, students added it to the Ethereum blockchain, where it still remains.
+SPONSORED FINANCIAL CONTENT
+
+
+url: 
+http://fortune.com/2018/07/27/china-blockchain-unsafe-vaccines/

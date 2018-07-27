@@ -1,0 +1,39 @@
+title: 
+How Blockchain Can Solve Identity Management Problems
+
+date: 
+2018-07-27 13:00:00+00:00
+
+summary: 
+ It becomes difficult to steal such an identity from an individual, and this handles the issue of identity theft that is common on the traditional identity management system. Master nodes can provide a possible solution to verify user identity in DApps; that is, master nodes can democratically select a node to verify user identity. Blockchain nodes are important in order to keep the blockchain functioning and can't be avoided.
+
+full text: 
+Forbes CommunityVoice Connecting expert communities to the Forbes audience. What is This?
+How Blockchain Can Solve Identity Management Problems
+Strong technologist  with the strategic vision and tactical intelligence to lead technology-based growth initiatives.
+Share to facebook
+Share to linkedin
+Shutterstock
+The truth of the popular statement "everyone is online now" gets more grounded with each day that passes. Daily, millions of people come online to carry out different activities ranging from researching an academic topic, to shopping for new items, to dropping comments on social media platforms and even carrying out different financial transactions. The more transactions an individual carries out online, the more digital footprints they leave behind.
+Problems Of Current Identity Management Systems
+Most online transactions require that individuals disclose specific personal information before they can proceed to access services. For instance, before financial transactions can be carried out on platforms such as Amazon Pay, PayPal and Google Wallet, among others, users are always required to input their sign up/login details -- i.e., financial and personal details. Thus, every time an individual discloses this information, it gets stored on numerous internet databases. As such, digital clones of one and the same individual spring into existence across these different platforms. This also exposes a lot of security issues. Thus, as evidenced by the Equifax hack, gaining access to a major database exposes all the personal information of users and exemplifies the high vulnerability of the current system.
+Most systems in place rely heavily on obtaining individual data without the knowledge of the owner, and third parties can, in turn, gain access to this data without the subject's knowledge. Further, information contained on these online databases can be shared with third parties without the subject’s consent. Although this may sometimes be done in the interest or service of the subject, such as for recommending related goods and services the subject can try out, it doesn’t change the fact that the consent of the individual wasn’t obtained and control is left in the hands of those who own the database. This leaves the subject with little or no choice in deciding whether or not they want their data shared with other parties.
+The problems highlighted above point to the single fact: that the current online identity management systems are far from being sustainable.
+Blockchain As A Panacea To Problems Of Identity Management
+Blockchain can be used to create a platform that protects individuals’ identities from theft and massively reduces fraudulent activities. The technology can also help businesses build strong blockchains that handle the issues of authentication and reconciliation encountered in several industries. Additionally, it can allow individuals the freedom to create encrypted digital identities that will replace multiple usernames and passwords while offering more comprehensive security features capable of saving customers and institutions valuable time and resources.
+Individuals can also easily create a self-sovereign identity on blockchain. A self-sovereign identity simply refers to an individual identity which is fully controlled and maintained personally by the individual. It becomes difficult to steal such an identity from an individual, and this handles the issue of identity theft that is common on the traditional identity management system. The use of permissioned blockchains could also provide a decentralized method of registration which connotes that an individual would get an identity that isn’t dependent on any centralized authority and cannot, therefore, be controlled or interfered with by any third party without the individual’s consent.
+Blockchain Ecosystem Nodes
+Master nodes can provide a possible solution to verify user identity in DApps; that is, master nodes can democratically select a node to verify user identity. The person or business behind this node can manually verify user documents. A part of this reward can also go to this node. If the node doesn’t provide good service, the master node can vote for a different node. This can be a fine solution to the decentralized identity issue.
+Blockchain nodes are important in order to keep the blockchain functioning and can’t be avoided. There are basically three types of nodes, called simply nodes, full nodes and master nodes.
+Node: A computer that operates on the blockchain network which is able to send and receive transactions.
+Full node: A client that operates on the network and maintains a full copy of the blockchain. Sends and receives TX as well, updates the blockchain with block entries and confirmations from miners.
+Master nodes: Master nodes enable decentralized governance and budgeting. In summary, aside from a full copy of the blockchain, a node also keeps additional data structures, such as the unspent transaction outputs cache or the unconfirmed transactions’ memory pool, so it can quickly validate new received transactions and mined blocks. If the received transaction or block is valid, the master node updates its data structures and relays it to the connected nodes. It is important to note that a master node does not need to trust other nodes because it independently validates all the information it receives from them.
+Digital Identity
+With the combination of the decentralized blockchain principle and a comprehensive system for verifying identity, it has been suggested that a digital ID can be created for each online user to serve as digital watermark affixed to all transactions carried out by the user. If properly utilized, there might be a possibility of ascertaining the truth of individual identity.
+In conclusion, blockchain may be the way forward for developing an identity management system that gives full control to users. The technology will also allow us as users to determine the data we desire to share across different transactional mediums while also protecting our identity from theft. It will also make things easier, more convenient and help the maintenance of an updated digital clone. However, the blockchain technology isn’t magic, and there is no feature that automatically makes everything included on the blockchain to be asserted as the truth. In the end, the authenticity and veracity of any information will still be on the part of the individuals who input their personal data on the blockchain and the organizations that have the ability and authority to vet and assert the authenticity of the data that's stored on the blockchain.
+Forbes Technology Council is an invitation-only community for world-class CIOs, CTOs and technology executives. Do I qualify?
+Strong technologist with the strategic vision & tactical intelligence to lead technology-based growth initiatives grounded on business value.
+
+
+url: 
+https://www.forbes.com/sites/forbestechcouncil/2018/07/27/how-blockchain-can-solve-identity-management-problems/

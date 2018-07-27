@@ -1,0 +1,26 @@
+title: 
+Commentary: Blockchain Could Be the Savior of Free Speech
+
+date: 
+2018-07-26 00:00:00
+
+summary: 
+ One way blockchain can aid free speech is through cryptocurrency adoption. In response, the activists turned to the Ethereum blockchain, one of the most popular blockchain platforms, which uses a cryptocurrency called Ether. One Chinese student defiantly summed up the disruptive power of blockchain in the comment section of a now deleted WeChat post, writing, "There is no 404 on blockchain."
+
+full text: 
+By Mick Hagen
+July 26, 2018
+Many governments and businesses today use censorship software to monitor people’s online activity and prohibit access to undesirable content. According to Freedom House, Internet freedom in 2017 dropped for the seventh year in row , with as many as two-thirds of all web users facing state censorship.
+Fortunately, there’s a technology that allows people to circumvent these restrictions, communicate securely, and hold oppressive regimes accountable: blockchain.
+A blockchain is a decentralized ledger of information that is constantly updated and confirmed by thousands of people across the globe. Because a blockchain record is kept universally, it is immutable, meaning it cannot be altered by any one malicious third party, regardless of their offline power or influence. While blockchains are usually used to record currency transactions, the unstoppable web of recordkeepers underpinning the network provides an innovative way to shepherd messages, avoiding censorship or surveillance.
+One way blockchain can aid free speech is through cryptocurrency adoption. Blockchain technology underpins cryptocurrency, a new form of money that is infinitely less susceptible to government interference. If a government blacklists the financial transactions of an individual for their political stance, cryptocurrencies would enable the affected citizen to still store their wealth in an alternative financial system. Theoretically, once crypto adoption becomes ubiquitous, all governments will have effectively lost the ability to threaten wealth control or financial exclusion.
+Blockchain also provides individuals with the ability to air grievances on a protected platform without fear of censorship. Blockchain can’t be tampered with by a third party and publicly expressed ideas can’t be erased.
+The Chinese government learned this the hard way earlier this year. After Chinese activists began publishing #MeToo blog posts, the government reacted by deleting them . In response, the activists turned to the Ethereum blockchain , one of the most popular blockchain platforms, which uses a cryptocurrency called Ether. By sending themselves infintesimally small amounts of Ether and attaching written memos to their transactions, they were able to permanently imprint their stories on a globally managed ledger, easily viewable with a variety of block explorers—websites that display blockchain transaction information—such as Etherscan . One Chinese student defiantly summed up the disruptive power of blockchain in the comment section of a now deleted WeChat post, writing, “There is no 404 on blockchain.”
+Finally, blockchain removes remaining points of failure that have always plagued encrypted messaging networks. Up until recently, all commercial and remote communication required, to varying degrees, the use of trusted and highly centralized third parties such as Internet service providers or cloud services. Corporations and governments have used these vulnerabilities to their advantage and have successfully clamped down on “secure” messaging apps like WhatsApp, Signal, and Telegram that rely on cloud services . By using a decentralized network to send messages, malicious attacks become harder to deploy, private messages become harder to unencrypt, and metadata becomes harder to scrape. Metaphorically, blockchain is a battering ram that will bring down any “Great Firewall.”
+The development of this technology—with unbounded, liberating capabilities—means that we have a moral responsibility to stop ignoring oppressive policies that limit free speech and press. Being able to opine and report without punishment is a privilege that many in countries with stronger speech protections take for granted. Blockchain technology has the potential to extend this freedom to everyone else.
+Mick Hagen is the founder and CEO of Mainframe.
+SPONSORED FINANCIAL CONTENT
+
+
+url: 
+http://fortune.com/2018/07/26/blockchain-technology-cryptocurrency-ethereum-censorship-free-speech/

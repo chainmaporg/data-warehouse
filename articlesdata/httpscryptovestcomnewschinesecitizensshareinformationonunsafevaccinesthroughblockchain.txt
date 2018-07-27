@@ -1,0 +1,26 @@
+title: 
+Chinese Citizens Share Information on Unsafe Vaccines Through Blockchain
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptovest.com/news/chinese-citizens-share-information-on-unsafe-vaccines-through-blockchain/
+
+summary: 
+,"sm_api_message":"THE PAGE COULD NOT BE FOUND"}
+
+full text: 
+Chinese Citizens Share Information on Unsafe Vaccines Through Blockchain
+Consumers in China are decentralizing information flow through blockchain to avoid confusion and misinformation.
+by Komfie Manalo , 1 hr ago
+Subscribe
+Chinese citizens have added social responsibility as one of the many benefits of the blockchain, reports Futurism. The newspaper first reported on Tuesday, citing a post by a blogger using the nom de plume “Beast,” that drug maker Changchun Changsheng Biotechnology was selling vaccines that are unsafe for use.
+The report said that China’s State Drug Administration, the agency in-charge for regulating the country’s healthcare industry, that Changsheng Bio-Tech faked data for nearly 113,000 doses of its human rabies vaccine. The Beast’s investigative report said that the discovery came after SDA conducted a surprise inspection of the drug manufacturer’s facilities and immediately ordered a stop to the production of the vaccine.
+However, a day later, Futurism reported that Chinese internet monitors have already deleted the story posted by the blogger and even removed all reposts, but not after the topic went viral on social media WeChat. By then, internet users have found a way to share the story by making sure it the information will stay forever – by adding it to a blockchain.
+“Adding the article to a blockchain was actually pretty easy. A user simply sent themselves about $0.47 worth of the digital asset ether and posted the full article in the transaction’s metadata, a section reserved for notes or other information,” the report said.
+It added that anybody could read the article which was uploaded using the [G2] Ethereum blockchain. More importantly, the blockchain is a decentralized ledger, so there is no Chinese authority or official could exert pressure to remove the article.
+The article, for all intent and purposes, is now immutable.
+The report added that this is not the first time that a Chinese citizen has used blockchain to share a content that government internet monitors had removed. A student published an open letter in April this year detailing the threats she reportedly received for trying to secure information from her school involving a sexual assault case. The student added the letter to the Ethereum blockchain after the internet monitors removed its content. The letter is still available.
+×
+
+
+url: 
+https://cryptovest.com/news/chinese-citizens-share-information-on-unsafe-vaccines-through-blockchain/

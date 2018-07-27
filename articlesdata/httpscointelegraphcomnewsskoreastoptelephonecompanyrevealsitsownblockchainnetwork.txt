@@ -1,5 +1,5 @@
 title: 
-S. Korea&rsquo;s Top Telephone Company Reveals Its Own Blockchain Network
+S. Korea’s Top Telephone Company Reveals Its Own Blockchain Network
 
 date: 
 2018-07-24 19:25:00+01:00
@@ -11,7 +11,7 @@ full text:
 Andrew Marshall
 S. Korea’s Top Telephone Company Reveals Its Own Blockchain Network
 South Korean KT Corporation has built a blockchain layer on top of its existing network to make it more secure and transparent, local media report.
-17671 Total views
+19136 Total views
 437 Total shares
 News
 State-owned KT Corporation, South Korea’s largest telephone company, has announced the launch of its blockchain -powered commercial network. The firm has built a blockchain layer on top of its existing nationwide network in order to make it “more secure and transparent,” according to an article by The Korea Herald published Tuesday, July 24.

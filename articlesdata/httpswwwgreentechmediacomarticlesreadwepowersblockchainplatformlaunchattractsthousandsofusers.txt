@@ -1,5 +1,5 @@
 title: 
-WePower&#039;s Blockchain Platform Launch Attracts Thousands of Users | Greentech Media
+WePower's Blockchain Platform Launch Attracts Thousands of Users
 
 date: 
 Exception in extractArticlePublishedDate for https://www.greentechmedia.com/articles/read/wepowers-blockchain-platform-launch-attracts-thousands-of-users

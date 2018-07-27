@@ -1,0 +1,30 @@
+title: 
+GoLocalProv | VIDEO: Governor Raimondo Pitches Top Blockchain Executives on Benefits of RI
+
+date: 
+Exception in extractArticlePublishedDate for http://www.golocalprov.com/business/governor-raimondo-pitches-top-blockchain-executives-on-benefits-of-ri
+
+summary: 
+,"sm_api_message":"THE PAGE COULD NOT BE FOUND"}
+
+full text: 
+GoLocalProv News Team and Kate Nagle
+ 
+Gina Raimondo at Blockchain Summit
+Governor Gina Raimondo made her pitch to some of the top blockchain technologists and innovators in the world at the RI Blockchain Summit on Thursday.
+She tried to woo the industry to consider locating to Rhode Island and she hyped the accessible talent graduating from Brown University, URI, and other Rhode Island colleges.
+Raimondo talked about the changes in the business climate and record employment in the state. She presented a government willing to work to create a fair regulatory structure to an exploding industry -- blockchain is a digital ledger in which transactions made in bitcoin or another cryptocurrency are recorded chronologically and publicly.
+In the audience were some of the most accomplished blockchain entrepreneurs including Steven Nerayoff, CEO & Founder of Alchemist, who helped to create the event.
+Other notables attending the event included Richard Schaeffer - former NYMEX Chairman; Adam Lindemann and Daniel Long from Artblx; and Brian Kelly, Founder & CEO, BKCM LLC, and a regular CNBC Fast Money.
+Addressing Growing Industry
+Raimondo’s speech outlined that Rhode Island is interested in working with the blockchain industry — one that is growing exponentially.
+“The global market for blockchain at $708 million in 2017 is anticipated to reach $60.7 billion in 2024. IBM and Microsoft are driving blockchain as their clients are making the transition to cloud services. Accenture has measurable market share as well,” reports Market Reports Center. Those numbers may be wildly underestimated. Companies like IBM have strategically refocused their companies to compete in the Blockchain industry.
+Raimondo’s 15-minute speech was a mix of re-election high points - record employment and cranes in the sky — coupled with a context of her business experience.
+For the attendees, some who flew in from Israel, Europe and across the country, the message was welcoming. Jeff Pulver, the inventor of Voice Over IP (VOIP) and the founder Vonage, told GoLocal the Rhode Island was the most welcoming state and that the industry leaders in attendance were “blown away” by the Rhode Island reception.
+While Raimondo suffers from low approval ratings from Rhode Island voters, some of the top players in the global industry were buying what Raimondo was selling.
+The event was hosted by G Media, Alchemist, Paolino Properties, and GoLocalProv in conjunction with the Rhode Island Commerce Corporation.
+ 
+
+
+url: 
+http://www.golocalprov.com/business/governor-raimondo-pitches-top-blockchain-executives-on-benefits-of-ri

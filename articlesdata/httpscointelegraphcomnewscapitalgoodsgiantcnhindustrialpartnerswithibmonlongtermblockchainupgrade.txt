@@ -1,0 +1,25 @@
+title: 
+Capital Goods Giant CNH Industrial Partners With IBM on Long-Term Blockchain Upgrade
+
+date: 
+2018-07-27 16:08:00+01:00
+
+summary: 
+ One of the world's largest capital goods companies has agreed to a multiyear deal with IBM to implement blockchain technology, a press release confirmed July 26. While details of the implementation remain limited, CNH will leverage IBM Blockchain, a bespoke platform based on Hyperledger technology delivered through IBM Cloud, which has seen implementations across global industry this year. In January, IBM announced it would launch a dedicated blockchain-based supply chain company in conjunction with Danish logistics giant Maersk.
+
+full text: 
+Capital Goods Giant CNH Industrial Partners With IBM on Long-Term Blockchain Upgrade
+Capital goods giant CNH Industrial will use IBM Blockchain products to update various internal processes.
+4818 Total views
+221 Total shares
+News
+One of the world’s largest capital goods companies has agreed to a multiyear deal with IBM to implement blockchain technology, a press release confirmed July 26.
+UK-based CNH Industrial, which owns twelve international brands including Iveco and Case IH, will seek to enhance a range of internal processes as part of “reviewing and optimizing its global activities.”
+“Areas that will be directly enhanced include Supply Chain and the inventory management of the Company’s Parts & Service business, which will deliver ever greater service to its customer base,” the release states.
+While details of the implementation remain limited, CNH will leverage IBM Blockchain, a bespoke platform based on Hyperledger technology delivered through IBM Cloud, which has seen implementations across global industry this year.
+“This agreement marks a shift in the business to extensive Cloud implementation that leverages upon IBM’s Cloud Private Platform, while continuing to operate with IBM’s data centers and CNH Industrial’s on-premises IT infrastructure,” the company added.
+Supply chain enhancement is an area currently receiving particular attention from a range of players, blockchain reportedly having a key role to play in reducing costs and timings while enhancing security. In January, IBM announced it would launch a dedicated blockchain-based supply chain company in conjunction with Danish logistics giant Maersk.
+
+
+url: 
+https://cointelegraph.com/news/capital-goods-giant-cnh-industrial-partners-with-ibm-on-long-term-blockchain-upgrade

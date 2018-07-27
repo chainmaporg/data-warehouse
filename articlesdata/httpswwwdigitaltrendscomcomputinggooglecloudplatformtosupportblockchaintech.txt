@@ -1,0 +1,29 @@
+title: 
+Google Bets on Blockchain Tech with Two New Google Cloud Partners
+
+date: 
+None
+
+summary: 
+ Google now supports distributed ledger technology, aka blockchain, on the Google Cloud Platform. Google will have a 50-minute session called "Distributed Ledger Technology Partnerships on Google Cloud" talking about Google's partners and how to develop blockchain-based solutions. Along with Google, Digital Asset revealed its plans for the Google Cloud Platform, announcing that both its blockchain platform and developer toolset are now offered through Google's cloud.
+
+full text: 
+Posted on July 23, 2018 - 2:37PM 7.23.18 - 2:37PM
+Share on Facebook
+Tweet this
+Share
+Google now supports distributed ledger technology, aka blockchain , on the Google Cloud Platform. The reveal arrives by way of the company’s announcement regarding the Google Cloud Next ’18 conference in San Francisco starting Tuesday, July 24. Google will have a 50-minute session called “ Distributed Ledger Technology Partnerships on Google Cloud ” talking about Google’s partners and how to develop blockchain-based solutions.
+“Customers can now explore ways they might use distributed ledger technology (DLT) frameworks on GCP with launch partners including Digital Asset and BlockApps, and try open-source integrations for Hyperledger Fabric and Ethereum later this year in our GCP Marketplace,” the company says .
+For the uninitiated, a distributed ledger, or blockchain, is a decentralized database shared and maintained by connected computers across the globe. Each transaction can be publicly read while securely stored using cryptography. These transactions cannot be altered without modifying the entire chain because the cryptographic key of one transaction is stored in the next transaction.
+Blockchain technology is highly associated with cryptocurrencies, but companies such as Google and Microsoft are examining how their services would benefit from the maturing technology. According to a report by CBInsights , Google was the second-most active blockchain investor between 2012 and 2017, falling between SBI Holdings and Overstock.com. Others include CITI and Goldman Sachs.
+Along with Google, Digital Asset revealed its plans for the Google Cloud Platform, announcing that both its blockchain platform and developer toolset are now offered through Google’s cloud. Developers can now build, test and deploy solutions on-demand based on Digital Asset’s blockchain without any need to make manual configurations.
+“We’re partnering with Google Cloud to provide developers with a full stack solution so they can unleash the potential for web-paced innovation in blockchain,” Blythe Masters, CEO of Digital Asset, said in a statement. “This will reduce the technical barriers to DLT application development by delivering our advanced distributed ledger platform and modeling language to Google Cloud.”
+Google will also provide a preview of the Digital Asset Modeling Language (DAML) toolkit for building blockchain-based applications. Google is one of the select few technology partners chosen to participate in Digital Asset’s limited beta for the DAML kit preview. The DAML Platform-as-a-service will also be provided on the Google Cloud Platform.
+BlockApps made a stand-alone announcement as well, announcing that its BlockApps STRATO Blockchain-as-a-Service platform for enterprise will be made available on the Google Cloud Platform. The company described Google’s entrance into the blockchain field as a “landmark event.”
+“Based on the Ethereum protocol, BlockApps STRATO provides enterprise-grade API integration capabilities, configurable consensus algorithms, and the capability to query and report on blockchain data using a traditional SQL database,” BlockApps says. “Application developers will find STRATO familiar, easy to use, and easy to integrate with existing enterprise systems.”
+Unnamed sources said in March that Google is working on its own blockchain technology that third parties can use to post and verify transactions. Google will supposedly provide a “white version” of this technology as well that companies can run locally on their own servers rather than through Google’s cloud.
+Editors' Recommendations
+
+
+url: 
+https://www.digitaltrends.com/computing/google-cloud-platform-to-support-blockchain-tech/

@@ -1,0 +1,32 @@
+title: 
+Google Turns to Cloud-Based Platform for Blockchain Applications
+
+date: 
+Exception in extractArticlePublishedDate for https://www.newsbtc.com/2018/07/24/google-turns-to-cloud-based-platform-for-blockchain-applications/
+
+summary: 
+ Before Google's Cloud Next '18 conference today, the company has announced a partnership that will permit it to offer the financial services industry a cloud-based platform on which they can develop and run blockchain-based applications. To make it happen, Google has teamed up with Digital Asset - a provider of distributed ledger technology software - and BlockApps - a platform on which enterprises can develop blockchain apps. Google's parent company Alphabet's venture capital arm GV has invested in wallet service Blockchain Luxembourg, financial transactions network Ripple, cryptocurrency asset management platform LedgerX, and international payments provider Veem."You're going to see an unbelievable amount of R&D expenditures go into this," Jeff Richards, a managing partner at venture firm GGV Capital, said.
+
+full text: 
+Google Turns to Cloud-Based Platform for Blockchain Applications
+Thomas Delahunty | July 24, 2018 | 10:30 pm
+Google Turns to Cloud-Based Platform for Blockchain Applications
+Thomas Delahunty | July 24, 2018 | 10:30 pm
+In a blog post before Google’s Cloud Next ’18 conference today, the company has announced a partnership that will permit it to offer the financial services industry a cloud-based platform on which they can develop and run blockchain-based applications.
+Google’s Cloud Platform
+To make it happen, Google has teamed up with Digital Asset  — a provider of distributed ledger technology (DLT) software — and BlockApps — a platform on which enterprises can develop blockchain apps. These partnerships will permit users to explore ways to use blockchain/DLT frameworks on Google’s Cloud Platform (GCP).
+The plan is for GCP to run both the open-source integrations for Hyperledger Fabric and Ethereum, the two leading enterprise blockchain platforms, according to the company.
+Further, GCP also joined the private beta of Digital Asset’s developer program, which provides a group of technology partners, software vendors, and financial services companies access to its software development kit for its Digital Asset Modeling Language, a smart contract coding language.
+“This will reduce the technical barriers to DLT application development by delivering our advanced distributed ledger platform and modeling language to Google Cloud,” Digital Asset CEO Blythe Masters said in a statement .
+Blockchain-Based Services
+Smart contracts are a blockchain-based business automation tool, think scripts, that run on the blockchain against pre-determined business rules.
+Real world applications mean a smart contract can determine when the conditions of a real-estate purchase have been met, and in turn release funds from a bank. A smart contract can also be used in supply chain management to track and verify the  receipt of goods .
+Over the past two years, blockchain-as-a-service (BaaS) offerings have rapidly grown to include some of the tech industry’s biggest players, like  Microsoft ,  IBM , and  Oracle Amazon Web Services  (AWS). It’s certainly not a surprise Google and these other tech giants are so interested : the market for blockchain products and services is expected to grow from $706 million last year to more than $60 billion in 2024, according to analytics firm WinterGreen Research.
+As of late, Google has been at the forefront of emerging technologies like BaaS, often backing startups in related fields and making acquisitions to recruit talent. So far, Google’s parent company Alphabet’s venture capital arm GV has invested in wallet service Blockchain Luxembourg, financial transactions network Ripple, cryptocurrency asset management platform LedgerX, and international payments provider Veem.
+“You’re going to see an unbelievable amount of R&D expenditures go into this,” Jeff Richards, a managing partner at venture firm GGV Capital, said. “Everybody learned from the internet and mobile that you can’t afford to wait.”
+Featured image from Shutterstock.
+Google Turns to Cloud-Based Platform for Blockchain Applications was last modified: July 24th, 2018 by Thomas Delahunty
+
+
+url: 
+https://www.newsbtc.com/2018/07/24/google-turns-to-cloud-based-platform-for-blockchain-applications/

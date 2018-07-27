@@ -1,0 +1,26 @@
+title: 
+Brooklyn Roasting and IBM Send Yirgacheffe Through the Blockchain - Daily Coffee News by Roast MagazineDaily Coffee News by Roast Magazine
+
+date: 
+2018-07-26 16:54:24+00:00
+
+summary: 
+ Brooklyn Roasting Company and IBM have teamed up to track 150 bags of green coffee through IBM's blockchain technology, giving consumers a glimpse of the coffee's journey throughout the supply chain. The coffee involved was 150 bags of Ethiopian Yirgacheffe sourced through the Banko Gotiti cooperative sold through the Yirgacheffee Coffee Farmers Cooperatives Union to U.S.-based importer Royal Coffee. "We've brought the data behind Brooklyn Roasting Company's Ethiopian Yirgacheffe coffee onto a blockchain - giving you a taste of a traceable, trackable coffee trade," IBM said on the project's homepage.
+
+full text: 
+Nick Brown | July 26, 2018
+Blockchain Bean screenshot.
+Brooklyn Roasting Company and IBM have teamed up to track 150 bags of green coffee through IBM’s blockchain technology, giving consumers a glimpse of the coffee’s journey throughout the supply chain.
+It’s the latest in a number of coffee-focused experiments testing blockchain implementation in the coffee trade. Yet for all the emphasis that early adopters and innovators of blockchain technology have put on the concepts of transparency and traceability, there’s been a remarkable lack of both in the numerous pilot projects and beta tests thus far.
+That is to say, while blockchain technology providers entering into the coffee space have spun compelling, elaborate narratives about the potential benefits of blockchain uses — particularly in regard to money returning to farmers and producers — we’ve to this point seen very little hard evidence.
+With their project called “The Blockchain Bean,” Brooklyn Roasting and IBM have at least opened the blockchain ledger to the general public. The coffee involved was 150 bags of Ethiopian Yirgacheffe sourced through the Banko Gotiti cooperative sold through the Yirgacheffee Coffee Farmers Cooperatives Union (YCFCU) to U.S.-based importer Royal Coffee .
+An IBM microsite for the project displays source code and original documents tracing the coffee’s route from the YCFCU to an export warehouse in Djibouti to a port in New Jersey and finally to Brooklyn Roasting Company, where the coffee was cupped and scored.
+Scanned documents verifying the coffee’s authenticity include a certificate from Fairtrade (notably for the year 2016), a packing list invoice from YCFCU from the export warehouse, a delivery receipt from Royal Coffee, and a screenshot of a cupping score sheet from Brooklyn Roasting.
+In giving consumers access to these documents — which are all already typically required by importers and roasters — IBM and Brooklyn Roasting claim they are giving consumers something different in the cup.
+“We’ve brought the data behind Brooklyn Roasting Company’s Ethiopian Yirgacheffe coffee onto a blockchain — giving you a taste of a traceable, trackable coffee trade,” IBM said on the project’s homepage. “See how blockchain can help farmers, roasters, and everyone in between bring you a fresher, fairer cup.”
+It’s an admirable effort, but there are some key omissions, first and foremost the price paid for the coffee, which is not shown in the blockchain ledger. Secondly, the suggestion that “fairness” or some vague concept of supply chain equity is bolstered by blockchain seems unfounded. IBM and Brooklyn Roasting show only the Fairtrade premium-associated investments back into the coffee-growing community — investments made in 2016, with or without blockchain technology.
+So while opening the books is commendable, the opening itself is by no means a solution to deep-rooted problems affecting the equitable trade of coffee.
+
+
+url: 
+https://dailycoffeenews.com/2018/07/26/brooklyn-roasting-and-ibm-send-yirgacheffe-through-the-blockchain/

@@ -1,0 +1,26 @@
+title: 
+Consulting Giant Accenture’s New Patent Reveals Plans for Blockchain Logistics Innovation
+
+date: 
+2018-07-27 17:18:00+01:00
+
+summary: 
+ Consulting giant Accenture has plans to use blockchain to upgrade its logistics network, a patent application published July 26 reveals. According to the document published by the U.S. Patent and Trademark Office, the corporation wants to follow in the footsteps of various major players in leveraging blockchain to secure, speed up and increase the efficiency of logistics movements. Accenture linked up with global logistics operator DHL to work on a blockchain implementation for pharmaceutical supply chains.
+
+full text: 
+Consulting Giant Accenture’s New Patent Reveals Plans for Blockchain Logistics Innovation
+Accenture wants to use blockchain in logistics, the company has revealed in a new patent.
+3617 Total views
+176 Total shares
+News
+Consulting giant Accenture has plans to use blockchain to upgrade its logistics network, a patent application published July 26 reveals.
+According to the document published by the U.S. Patent and Trademark Office (USPTO), the corporation wants to follow in the footsteps of various major players in leveraging blockchain to secure, speed up and increase the efficiency of logistics movements.
+“A device may receive an indication that a product has arrived at a destination. The product may have been shipped by an entity to the destination,” the patent’s abstract begins, elaborating:
+“The device may perform an analysis on the product to determine an attribute of the product. The device may perform a comparison of information identifying the attribute of the product and information included in an encrypted record, for the product, of a blockchain, to verify the attribute of the product.”
+The move marks a further step in Accenture’s increasing interest in blockchain, this month having also announced an aerospace supply chain tool in partnership with French multinational aerospace firm Thales.
+In March meanwhile, Accenture linked up with global logistics operator DHL to work on a blockchain implementation for pharmaceutical supply chains.
+It is also not the first time Accenture has applied for a blockchain-related patent. In September last year, the company gained mixed reactions to its so-called “editable blockchain” application, with some sources claiming the concept ran contrary to the essential ethos of immutability that the technology represents.
+
+
+url: 
+https://cointelegraph.com/news/consulting-giant-accenture-s-new-patent-reveals-plans-for-blockchain-logistics-innovation

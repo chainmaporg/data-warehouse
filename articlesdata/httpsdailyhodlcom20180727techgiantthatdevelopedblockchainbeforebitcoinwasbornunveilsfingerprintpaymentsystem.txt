@@ -1,0 +1,30 @@
+title: 
+Tech Giant That Developed Blockchain Before Bitcoin Was Born Unveils Fingerprint Payment System
+
+date: 
+2018-07-27 04:08:50-07:00
+
+summary: 
+ Tokyo-based tech giant Hitachi and telecom operator KDDI are testing a biometric, blockchain-based system to settle retail payments. If a research notebook system existed which could securely archives handwritten notes, it would be an objective source of evidence to support the originality of the research, and in the future, when that research culminate in a patent application or research paper. The blockchain patent, entitled "Hysteresis signature research," was first filed in 2003, five years before the introduction of Bitcoin.
+
+full text: 
+Blockchain July 27, 2018 Daily Hodl Staff
+Tech Giant That Developed Blockchain Before Bitcoin Was Born Unveils Fingerprint Payment System
+Tokyo-based tech giant Hitachi and telecom operator KDDI are testing a biometric, blockchain-based system to settle retail payments. Using Hitachi’s blockchain built on the Hyperledger Fabric platform , the biometric verification system is designed to integrate KDDI’s coupon system, allowing customers with coupons to validate in-store purchases using their fingerprints only.
+Hitachi holds the first basic blockchain patent in Japan, filed in 2003.
+The companies are running a trial in Tokyo’s Shinjuku district and at Mister Donut Takadanobaba Toyamaguchi Shop, a local donut shop.
+Hitachi’s proprietary tech allows a coupon user to authenticate their account by using a fingertip scanner – without the physical coupon. The request is then broadcast to the blockchain and verified against biometric information, generating an electronic signature to settle the transaction.
+The blockchain payments are “settled by hand,” reducing processing time and adding convenience, securely storing information cryptographically on the network. The blockchain transactions can also be settled without the account holder’s smartphone.
+Legacy platforms, on the other hand, are prone to security breaches where customer credentials are routinely compromised. According to a report by Shape Security , the US consumer banking industry “faces nearly $50 million per day in potential losses due to credential stuffing attacks.” Business Insider reports that “at least 15 separate security breaches occurred at retailers from January 2017 until now. Many of them were caused by flaws in payment systems, either online or in stores.”
+“Since coupon usage information recorded in the blockchain is extremely difficult to tamper with, it is easy to share coupon usage history, securing reliability between KDDI and affiliated stores,” Hitachi said in a statement .
+Join us on Telegram
+A member of the Hyperledger Project , an umbrella project of open-source blockchains and related tools launched by the Linux Foundation in December 2015, Hitachi has been on a long blockchain trajectory , beginning in 2000. Its current innovations are based on the company’s exploratory research of the past.
+Hitachi Develops the Basic Technology for Authentication of Digital Research Notebooks – Secure authentication and electronic archiving of experimental notes and ideas by writing on paper, September 12, 2006
+Until now, it has been common practice for researchers write down ideas, record experimental data and other notes in a paper-based research notebook on a daily basis. If a research notebook system existed which could securely archives handwritten notes, it would be an objective source of evidence to support the originality of the research, and in the future, when that research culminate in a patent application or research paper.
+In response to this need, Hitachi has employed a “digital pen” which automatically creates an electronic record of handwritten notes and a “digital signature” which insures that the data is recorded without tampering, to develop basic technology for a secure digital research notebook system based on the conventional practice of handwritten paper-based research notes.
+The blockchain  patent , entitled “Hysteresis signature research,” was first filed in 2003, five years before the introduction of Bitcoin. It was designed to authenticate the originality of ideas and validate data collected during the research phase.
+Disclaimer: Opinions expressed at The Daily Hodl are not investment advice. Investors should do their due diligence before making any high-risk investments in Bitcoin or cryptocurrency. Your transfers and trades are at your own risk. Any losses you may incur are your responsibility. Please note that The Daily Hodl participates in affiliate marketing.
+
+
+url: 
+https://dailyhodl.com/2018/07/27/tech-giant-that-developed-blockchain-before-bitcoin-was-born-unveils-fingerprint-payment-system/

@@ -1,0 +1,26 @@
+title: 
+PR: Propy - This California Property Was Sold On The Blockchain Without Using Banks - Bitcoin News
+
+date: 
+Exception in extractArticlePublishedDate for https://news.bitcoin.com/pr-propy-this-california-property-was-sold-on-the-blockchain-without-using-banks/
+
+summary: 
+ PALO ALTO, California - Propy, the global real estate store with a decentralized title registry, announced the successful execution of a historic real estate deal on the Blockchain in the State of California. With Propy's Transaction Platform, every step of the deal was executed via Ethereum smart contracts, making this the first comprehensive blockchain-recorded property deal in the state of California and only the second in the world. In California, Propy recorded the first deeds on the Blockchain in May and June; the San Francisco Recording office also holds a deed containing the blockchain information.
+
+full text: 
+Jul 26, 2018
+2221
+This is a paid press release, which contains forward looking statements, and should be treated as advertising or promotional material. Bitcoin.com does not endorse nor support this product/service. Bitcoin.com is not responsible for or liable for any content, accuracy or quality within the press release.
+PALO ALTO, California — Propy , the global real estate store with a decentralized title registry, announced the successful execution of a historic real estate deal on the Blockchain in the State of California. With Propy’s Transaction Platform, every step of the deal was executed via Ethereum smart contracts, making this the first comprehensive blockchain-recorded property deal in the state of California and only the second in the world .
+The cross-border transaction happened remotely using cryptocurrency (BTC) as the means of payment, thus eliminating the need for banks and eradicating geographical limitations usually tied to traditional deals. Kate Fomina, a California licensed realtor, represented both Luke Carriere (the buyer) and Diana Dominguez (the seller). When the transaction began, Fomina was located in Hong Kong, Carriere was in New York, Dominguez was in Northern California, and the escrow agent was in the San Francisco Bay Area.
+Propy has taken an important step in automating real estate purchases in the global real estate market. The use of smart contracts guarantees that the flow of transactions is executed in full compliance with regional regulations. The transaction is recorded and verifiable on the public Ethereum Blockchain, giving complete security to the deal.
+“We believe that blockchain technology can truly revolutionize the real estate purchasing process and the management of public records,” said Natalia Karayaneva, CEO of Propy. “Propy streamlines a complicated process into a simple online transaction and we’ve seen significant traction in the industry already — buyers and sellers are increasingly turning to blockchains and cryptocurrencies. We’re excited to facilitate more property transactions and reach more milestones in our goal to automate the real estate industry.”
+Transactions executed on the Propy Transaction Platform are legally binding, provide additional proof of ownership, and the transfer of ownership happens with traditional legal safeguards in place. The Propy Blockchain Title Registry is available for deed recording by any customer, broker, or title agent wishing to store the encrypted information on the globally distributed Ethereum network.
+In California, Propy recorded the first deeds on the Blockchain in May and June; the San Francisco Recording office also holds a deed containing the blockchain information. The company works in partnership with private organizations and governments worldwide to promote distributed ledger technology as a standard for storing public data.
+About Propy
+Propy is the world’s first international real estate platform aimed at solving the problems of purchasing property remotely. Propy facilitates connections between everyone involved in a property deal to enable the seamless purchase of real estate online. The Silicon Valley-based company is advised by Alain Pinel (Intero Real Estate), Michael Arrington (founder of TechCrunch), Vinny Lingham (CEO of Civic), David Cowan (Partner at Bessemer Venture Partners), Daniel Kottke (first Apple employee), and Bruce Cahan (Consulting Professor at Stanford University).
+Press Contact Email Address
+
+
+url: 
+https://news.bitcoin.com/pr-propy-this-california-property-was-sold-on-the-blockchain-without-using-banks/

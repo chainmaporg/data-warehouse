@@ -1,0 +1,24 @@
+title: 
+World’s First Blockchain Poetry Auction Created at NIFTY Hackathon – Irish Tech News
+
+date: 
+Exception in extractArticlePublishedDate for https://irishtechnews.ie/worlds-first-blockchain-poetry-auction-created-at-nifty-hackathon/
+
+summary: 
+ Hong Kong - July 26, 2018 - The world's first Blockchain Poetry Auction has today been successfully created at NIFTY, the conference and hackathon dedicated to the future of blockchain gaming and non-fungible tokens. The Blockchain Poetry Auction is a collaboration between CoinFund, a prominent crypto-asset focused investment firm based in Brooklyn, NY, and uniqx.io, a London-based software development company building UNIQX, a decentralized marketplace for the ownership and trading of digital assets. "The NFT space is still very much in its nascent stages and we are just now beginning to understand its potential. We are exceptionally proud to be supporting uniqx.io a bespoke marketplace for NFTs. The Blockchain Poetry Auction is a demonstration of the power of this technology to disrupt hundred-year-old markets and communities. UNIQX's user-friendly infrastructure facilitates the transfer of content ownership, in the hope of reestablishing poetry as a viable way to feed your family for the first time, perhaps, since Lord Byron," said Aleksandr Bulkin, Co-founder of CoinFund.
+
+full text: 
+Art Blockchain Cutting Edge Hong Kong
+CoinFund invests in decentralised marketplace uniqx.io to bring non-fungible tokens to the literary world
+Hong Kong — July 26, 2018 — The world’s first Blockchain Poetry Auction has today been successfully created at NIFTY, the conference and hackathon dedicated to the future of blockchain gaming and non-fungible tokens. This marks the first time poetry has been represented as an auctionable non-fungible token (NFT) or asset.
+“Poetry, unlike music, does not benefit from the repeated attention of readers and therefore cannot generate the same volume of business opportunities as record labels generate through licensing. With the recently introduced ability of blockchain networks to facilitate the buying, selling, and trading of digital visual art, this innovation can be applied to poetry as well and create a collectibles market which rewards authors directly” said Mihai Cimpoesu, Founder of uniqx.io
+The Blockchain Poetry Auction is a collaboration between CoinFund , a prominent crypto-asset focused investment firm based in Brooklyn, NY, and uniqx.io , a London-based software development company building UNIQX, a decentralized marketplace for the ownership and trading of digital assets.
+The first iteration of this proof-of-concept project allows buyers to purchase a limited edition, cryptographically signed copy of the poem, and the non-fungible token will contain a reference hash to the poem which is then stored off-chain. Collectors will be able to buy and sell unique poems signed by their authors and display their collections on the web and social media.
+“The NFT space is still very much in its nascent stages and we are just now beginning to understand its potential. We are exceptionally proud to be supporting uniqx.io a bespoke marketplace for NFTs. The Blockchain Poetry Auction is a demonstration of the power of this technology to disrupt hundred-year-old markets and communities. UNIQX’s user-friendly infrastructure facilitates the transfer of content ownership, in the hope of reestablishing poetry as a viable way to feed your family for the first time, perhaps, since Lord Byron,” said Aleksandr Bulkin, Co-founder of CoinFund.
+“The value poetry creates needs to be justly compensated. The small, exclusive, expensive, fragmented, and often vanity-driven world of paper publishing does not meet these needs. Informational goods escape ownership rights on the internet — blockchain technology resolves this issue by connecting content curators with poets and readers, therefore establishing an automatic and reliable means of trading and compensation,” said Frederick Turner, author of science fiction epic poem The Apocalypse.
+“Poetry is uniquely suited to the immediacy and performativity of electronic means of dissemination, and blockchain technology, in particular, can close the value exchange loop that would help incentivise the medium,” he concluded.
+For more information, visit https://uniqx.io/
+
+
+url: 
+https://irishtechnews.ie/worlds-first-blockchain-poetry-auction-created-at-nifty-hackathon/

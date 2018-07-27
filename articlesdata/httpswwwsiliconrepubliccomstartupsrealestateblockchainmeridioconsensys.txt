@@ -1,0 +1,49 @@
+title: 
+Bricks by clicks: Could blockchain be the future of real estate?
+
+date: 
+2018-07-27 14:59:18+01:00
+
+summary: 
+ Blockchain could represent a major force in the future of property ownership, enabling investors to have greater flexibility and helping people to participate in part-ownership of buildings or apartments. 'What we are hoping to do is prove that blockchain can enable fractional ownership and allow property owners to purchase and transfer and trade amongst themselves'- ASHA DAKSHINAMOORTHY. Meridio has already begun experimenting on a three-storey rental building at 304 Troutman Street in Bushwick, Brooklyn, to enable ownership by investors using smart contracts based on blockchain. "What we are hoping to do is prove that blockchain can enable fractional ownership and allow property owners to purchase and transfer and trade amongst themselves."
+
+full text: 
+51 minutes ago20 Views
+Image: Dencg/Shutterstock
+A ConsenSys spin-out called Meridio is bringing blockchain technology to the real-estate market and could revolutionise home ownership.
+Blockchain could represent a major force in the future of property ownership, enabling investors to have greater flexibility and helping people to participate in part-ownership of buildings or apartments.
+That’s the view of Meridio , a Brooklyn-based start-up that has emerged from of the Consensys Labs venture studio in New York.
+‘What we are hoping to do is prove that blockchain can enable fractional ownership and allow property owners to purchase and transfer and trade amongst themselves’
+– ASHA DAKSHINAMOORTHY
+Meridio has already begun experimenting on a three-storey rental building at 304 Troutman Street in Bushwick, Brooklyn, to enable ownership by investors using smart contracts based on blockchain.
+The decentralised ledger technology enables owners to register and store payments and transactions in a clear and comprehensive way on an indelible record.
+According to The New York Times , the experiment at Troutman Street is one of many occurring across the US as property investors move real-estate records on to the blockchain.
+A solution for Generation Rent?
+On a visit to Dublin recently, we caught up with Asha Dakshinamoorthy from ConsenSys in New York and Guilherme Campos from ConsenSys in Dublin to discuss the project.
+We reported in May that up to 60 new jobs are to be created by ConsenSys  in a new Dublin innovation studio, which launched in June.
+The innovation studio is a multifunctional facility that includes a development lab, where engineers will build and deliver Ethereum-based blockchain platforms and products stemming from the company’s consulting arm, ConsenSys Solutions. It will also act as a centre for client collaboration.
+ConsenSys was founded by Joseph Lubin, a Canadian entrepreneur who has founded and co-founded several companies, including the Swiss-based Ethereum, a decentralised cryptocurrency platform.
+“Real estate is such a personal and tangible asset class,” Dakshinamoorthy explained.
+“What we are hoping to do is prove that blockchain can enable fractional ownership and allow property owners to purchase and transfer and trade amongst themselves.”
+She explained that, at present, investors typically invest in real-estate investment trusts (REITs).
+“But there is still no role model for individuals to invest in or purchase shares in buildings such as the Guinness Storehouse, for argument’s sake.”
+According to Dakshinamoorthy, the aim of Meridio is to make the aforementioned fractional ownership of property less abstract and more user-friendly through the use of tokens that represent shares in a building.
+The model is one of a myriad of use cases for values based on blockchain – they could just as easily be tokens or shares in music as much as they are shares in property or other asset classes.
+“We are building different ecosystems for ownership of different kinds of assets,” Campos said. “In terms of real estate, we are building a marketplace for property owners, service providers and property managers to trade shares or tokens that represent ownership of a building.”
+Ultimately, Dakshinamoorthy added, it is about looking to the long-term future of property ownership.
+“The vision is that blockchain will change the world. The internet took 20 or 30 years to reach the point we are at today. All of these platforms – or spokes as we call them, such as Meridio – are a way to get the ball rolling on these ecosystems,” she said.
+“For Meridio, we are particularly focused on the US at the moment, gathering market knowhow and creating a catalyst for the future of real estate.”
+Possible use cases for the blockchain-based platform could be the fostering of a ‘rent to own’ model, which could act as a route out of the current Generation Rent crisis stalking most cities in the western world.
+“For example, one model could be rent to own, whereby a tenant could create a relationship with a landlord and, if they exhibit good behaviour over time, blockchain could be used to reward them with equity in the apartment. This could realign the whole ownership system.”
+The advantage for landlords or property owners is that it could be used to help them unlock their investment in an asset.
+“Blockchain could enable a seamless and crystal-clear form of governance focused on investment. For owners or investors, the risk could be lowered and renters could one day gather enough shares or tokens to take full ownership of an apartment, or an owner could use it as a way to unlock investment and still get the house when they retire but with the risk reduced.”
+Dakshinamoorthy said that blockchain has the potential to turn the idea of ownership on its head.
+“Let’s face it, it is not a renter’s economy right now. But, with the advancement of fintech and more consumer-friendly digital finance products, information is power, and this represents a way of giving people access to invest in property.”
+That said, the road ahead could be long.
+“Blockchain is still a technology, not an enabler,” said Campos. “But it offers us a way to look at how new layers and the transfer of information and value could be applied.”
+Dakshinamoorthy said that, ultimately, it could be about empowerment. “If we succeed, we could unlock the ownership of assets for people rather than just big companies that own big things.
+“Our hope for Meridio is that we can create that tangible use case to potentially enable everyone to buy shares in property.”
+
+
+url: 
+https://www.siliconrepublic.com/start-ups/real-estate-blockchain-meridio-consensys

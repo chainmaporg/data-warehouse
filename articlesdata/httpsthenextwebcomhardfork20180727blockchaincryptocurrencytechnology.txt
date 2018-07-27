@@ -1,0 +1,63 @@
+title: 
+Blockchain startups are selling visions of the future, not technology
+
+date: 
+2018-07-27 09:50:02+00:00
+
+summary: 
+ Every week Twitter and Reddit are ablaze with new launches of blockchain startups promising decentralized and distributed technologies, which promise to change life as we know it and empower us, the people, to decide our own future. Currently, blockchain tech is constructing the tangible structure to make these visions a reality. Even if what actually materialises is very different from what we are being promised by the blockchain startups of today.
+
+full text: 
+Blockchain startups are selling visions of the future, not technology
+Blockchain is a collection of visions guiding us toward the future
+Story by
+Shares
+The blockchain hype train has been operating at full steam for some time now.
+Every week Twitter and Reddit are ablaze with new launches of blockchain startups promising decentralized and distributed technologies, which promise to change life as we know it and empower us, the people, to decide our own future.
+The thing is, they are all promising roughly the same thing, and the promises are turning into a rhetoric. Rhetorics don’t really serve any function outside of argument or marketing, so they are of little use to us – the people the blockchain is supposed to empower.
+Let me explain.
+Blockchain buzzword bingo
+When I see a new dApp , platform or blockchain startup launch, I like to play a little game. I call it blockchain buzzword bingo. It’s pretty simple, you get a point for every time you read the words blockchain, decentralization, proof of work, proof of stake, hybrid, ledger, disrupt, distributed… I’m sure there are more that can go on the list, but you get the point, they’re buzzwords that don’t have much meaning on their own. It’s an amusing way of grading a dApp – if nothing else – some score significantly higher than others.
+What can we can learn from this? Well, we can devise a master blueprint for marketing our new blockchain crypto startup! Here’s how.
+Step one:
+Write a whitepaper. Or if you want to seem really cool and different maybe pick a different colour. If your blockchain startup will fix global warming, I recommend a greenpaper.
+Too busy to even write a greenpaper? Antivirus pioneer and cryptocurrency futurist John McAffee can do it for you – for a price.
+You’ll want to throw the words decentralized, distributed and disrupt in there too. Describe your vision as a promise of greater transparency, security and freedom. Using blockchain means you have these things by default, obviously.
+Step two:
+Build a website, and give it an obscure domain. Make it some profound, futuristic, continuous scroll thing. Put up imagery of geometric shapes and polygons that all connect. Remember, everything is connected!
+Oh, and don’t forget to list the logo of every publisher you paid to write about your startup. This is how you communicate to your prospective investors that your startup’s got cred.
+Step three:
+Get a Medium, Reddit and Twitter. Facebook is dead, and people will believe anything that is written on the internet. Get out there and start spreading yourself like the visionary that you are.
+If nobody is paying attention to your social media channels, bribe someone with a solid crypto-following to the word out. That’s just good business .
+Step four:
+Keep a detailed roadmap to keep the hype train flying. If people know when you’re going to implement new functions – whether they work or not – is basically like telling them the best time to buy more of your tokens. You’re mapping out their road to riches, because you care about society and sticking it to the man.  They’ll love you for it.
+If you’re about to miss a deadline, revise the roadmap. You missed your revised deadline? Revise the roadmap again. Rinse and repeat.
+Back to reality
+Ok, maybe I’m exaggerating a little, but the point is that things can get very dangerous, when meaningless, defensible blueprints like this develop, and are reapplied by everyone.
+Take the case of Viewly and Viuly . In short, they both launched at roughly the same time, promised the same thing, and the source codes were pretty similar. Yet, one of them was listing employee’s that didn’t actually work there, financial backing from a company that didn’t exist, and their whitepaper was mostly marketing for an ICO. Currently both are still afloat, and the issues appear to have been dealt with.
+There will be controversy, and of course there are going to be scams , and there will also be projects that try to achieve something genuine. But, right now, even the honest developers are still just trying. Honesty doesn’t equal success. This is why we might need to adjust our perspective.
+Visions of the future
+There’s an economic concept by Jens Beckert called “Imagined Futures.” Basically, he says traditional economic theory, where decisions are based on history, isn’t entirely true. Rather, people also make decisions based on what they believe will come true in the future. Everyone has the power to imagine whatever they want, and so can make whatever decision they want.
+Importantly, Beckert also talks of how, even if these visions don’t come true, they are still very important. Regardless of their manifestation, they coordinate groups of people toward a collective future that we all must share. They should be taken seriously, for their ability to do this and not necessarily for what they promise specifically.
+If we were to do this, the visions we perceive would hopefully become more tangible and grounded. Rather than simply focussing on an unknown future yet to materialise, the visionaries would have to defend their ideas now. They wouldn’t be able to hide behind a rhetoric of the future.
+Everyday, in the world of crypto and blockchain, we are sold a new imagination of the future. Yet, there’s nothing to say that one will succeed, where another will fail. It’s important to push and appreciate these visions, but if you’re an investor you may want to dive deeper, and pay close attention to the physical, legal and technical challenges that face this technology.
+Look back to the early days of the internet for example.
+History lesson
+Back in the early 90’s, Tim Berners-Lee envisioned – see page 236 of this book – that the internet would be a tool for cultural and societal progression, which would be achieved through mass decentralisation. Turns out he wasn’t quite right. We may have developed, but centralised bodies like Facebook, Apple , Google and so on dictate much of how the internet is shaped and have re-centralised as much of it as they can.
+On the other hand David Chaum – godfather of the cypherpunks – held a vision that suggested every member of society could end up being tracked, as a result of the information they put online – a sort of “big brother” society. Chaum’s vision is one likely to resonate with many people right now.
+The reality is that we’re probably somewhere between these two visions. Though, as Beckert mentioned, these two visions have in part, led us to the collective future of what we now refer to as, the internet.
+The blockchain businesses, the hype and the sceptics – whether they know it or not – working collectively to deliver what some refer to as the internet of blockchains.
+This is why we must change our perception of how we look at blockchain based businesses – for now at least.
+Blockchain is an experiment
+The creation of bitcoin and its blockchain brought to life a vision. It showed the possibility of a new future, that allowed for a deviation on to a different path of innovation. It didn’t just create a technology but opened the door to create a spreadable rhetoric.
+When these visions spread as a rhetoric, it’s easy to fall for the narrative that they will all come true – but that’s a tall order. Instead then, we should view blockchain tech for what it is – the manifestation of a vision – one that, albeit bright, might never pan out in reality.
+Currently, blockchain tech is constructing the tangible structure to make these visions a reality. It’s currently not much more than the first stages of an experiment. And given the massive interest in this “experiment,” it could have a significant impact on our future. Even if what actually materialises is very different from what we are being promised by the blockchain startups of today.
+How far will it go? We can’t know. We can only ponder over its impact in hindsight. Until then, we must see blockchain tech as experimental visions, rather than world altering creations.
+If someone is telling you something will be the future, they obviously can’t know for definite. They can have a vision: it’s not necessarily a lie, but it’s not the truth either.
+Published July 27, 2018 — 09:50 UTC
+July 27, 2018 — 09:50 UTC
+Show comments
+
+
+url: 
+https://thenextweb.com/hardfork/2018/07/27/blockchain-cryptocurrency-technology/

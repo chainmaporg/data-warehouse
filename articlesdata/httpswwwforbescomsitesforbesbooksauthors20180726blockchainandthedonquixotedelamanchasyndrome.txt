@@ -1,0 +1,30 @@
+title: 
+ForbesBook AuthorVoice: Blockchain and the Don Quixote de La Mancha Syndrome
+
+date: 
+2018-07-26 19:31:00+00:00
+
+summary: 
+ Some innovators are still in pursuit of the perfect problem to be solved with the perfect solution they have developed using blockchain. Recently, during a Seattle panel to discuss blockchain technology opportunities and the startup ecosystem growth, I came to realize we might be facing a similar reality today with blockchain technology. As raised in the Seattle panel discussion, many blockchain enthusiasts blindly believe they have the perfect solution in their hands, without clearly defining which problem they are trying to solve.
+
+full text: 
+ForbesBooks AuthorVoice Publish with the best in business. What is This?
+Blockchain and the Don Quixote de La Mancha Syndrome
+#Blockchain
+Tweet This
+The Quest To Find A Problem That Fits The Solution At Hand
+BigStock
+Defining the Blockchain Problem  
+Blockchain is the technology leading the next round of business disruption. It provides a decentralized, trusted-chain of evidence, meaning the integrity of the data stored is essentially incorruptible. In fact, in many cases, blockchain provides the perfect solution… to an undefined problem. Some innovators (and investors) are still in pursuit of the perfect problem to be solved with the perfect solution they have developed using blockchain. This logic, however, is backward. We must first define the problem, then design solution options, and maybe fit blockchain into it.
+The Analogy of Don Quixote
+In the early 1600s, Miguel de Cervantes published a Spanish novel on the adventures of Don Quixote, an old gentleman from La Mancha, in central Spain. After reading about chivalrous ideals, he loses his sanity, becomes obsessed, and decides to ride his horse, sword and shield up, to defend the destitute against the evil. He firmly believes that his vision of chivalry can help the world get rid of the wicked. In his madness, he sees giants in windmills, takes peasants as princesses, and recognizes old men as wizards.
+Recently, during a Seattle panel to discuss blockchain technology opportunities and the startup ecosystem growth, I came to realize we might be facing a similar reality today with blockchain technology. In the present case, excited tech savvy visionaries are deeply convinced that blockchain’s disruptive features can help create new business models, solve complex problems, and improve the world. On one hand, they are correct. It is the right fit for solutions requiring decentralized, trusted chains of evidence, where the integrity of historical data is critical for the success of business operations. On the other hand, their state of mind is pushing some of them to go out in the world to try and find (or even create) problems to solve with this transformative technology.
+However, I firmly believe it should be the other way around:
+First, you clearly define the problem in front of you, then you go out and design solution options. In the panel’s guided conversation, we have agreed on that. Using techniques as simple and old as The Five Whys , created by Toyota’s engineers, we should question why the issues in front of us are happening, and keep asking questions until we get down to the problem’s root cause. Then, and only then, we should move to design solution options, engage the people impacted by these solutions, and prepare to make a decision.
+I have to say that I tend to empathize with these blockchain innovators rushing to solve any complex problem with this holy grail technology. When I was a young solution designer, back in Brazil, more than once I incurred in similar mistakes. It was 1998 and the worldwide web technology was going to change the world for better as “no one could foresee it,” everybody had to be on the bus or risk missing the opportunity of their lives – anyone, does it ring a bell?
+For those who remember, it seemed every and any problem in the world would be solved by the “web.” Like then, today’s blockchain technology can clearly disrupt many of the established industries, from finance and government to healthcare and food supply chain.
+But, as raised in the Seattle panel discussion, many blockchain enthusiasts blindly believe they have the perfect solution in their hands, without clearly defining which problem they are trying to solve. Therefore, they are still in pursuit of the perfect problem to be solved with the perfect solution they have developed using blockchain.
+
+
+url: 
+https://www.forbes.com/sites/forbesbooksauthors/2018/07/26/blockchain-and-the-don-quixote-de-la-mancha-syndrome/

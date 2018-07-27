@@ -1,5 +1,5 @@
 title: 
-Gibraltar Stock Exchange&rsquo;s Blockchain Platform Opens to Public Trading
+Gibraltar Stock Exchange’s Blockchain Platform Opens to Public Trading
 
 date: 
 2018-07-24 15:53:00+01:00
@@ -11,7 +11,7 @@ full text:
 William Suberg
 Gibraltar Stock Exchange’s Blockchain Platform Opens to Public Trading
 Gibraltar’s cryptocurrency and ICO platform GBX has launched with an initial support for Bitcoin, Ethereum, US dollars and its in-house Rock token.
-14298 Total views
+14721 Total views
 284 Total shares
 News
 The UK Overseas Territory of Gibraltar launched its Gibraltar Blockchain Exchange (GBX) July 23, a press release confirmed, opening up cryptocurrency trading.

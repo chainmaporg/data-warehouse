@@ -1,0 +1,46 @@
+title: 
+Blockchain-based ride-hailing app TADA makes Singapore debut, Startups
+
+date: 
+2018-07-27 00:00:00
+
+summary: 
+ Through MVL, all ride data is gathered in a central database that enables the entire history of a vehicle to be tracked, stored - and readily available to parties in the ecosystem. MVL runs on a "Not-for-profit model", under which TADA does not charge its drivers a commission for access to the pool of riders. The MVL chief added that TADA is "Not here to compete with the giants", and it is open to working with all ride-hailing services by layering its blockchain mobility ecosystem on top of their platforms.
+
+full text: 
+Blockchain-based ride-hailing app TADA makes Singapore debut
+Fri, Jul 27, 2018 - 5:50 AM
+Kay Woo, founder and chief executive of MVL, said these coins can be cashed out on a cryptocurrency exchange, or used to pay other participants in the MVL ecosystem for goods and services such as petrol, repairs or car rentals.
+BT PHOTO: MARK CHEONG
+Singapore
+A FIRST-of-its-kind ride-hailing service has arrived.
+Singapore-based startup MVL Foundation on Thursday wheeled out TADA, a service that, unlike others, uses blockchain and digital tokens and charges its drivers zero commission.
+The peer-to-peer, on-demand service runs on an "incentive-based blockchain mobility ecosystem" called the mass vehicle ledger (MVL). The ecosystem connects the various stakeholders within the vehicle-related industry - drivers, riders, auto manufacturers and retailers, auto-repair service providers and auto insurance companies.
+sentifi.com
+Market voices on:
+Through MVL, all ride data is gathered in a central database that enables the entire history of a vehicle to be tracked, stored - and readily available to parties in the ecosystem.
+Drivers are awarded MVL points for providing rides - a higher number of points for longer distances; riders earn MVL points by writing reviews of their rides.
+MVL points can be converted into MVL coins, the digital token or cryptocurrency of MVL.
+Kay Woo, founder and chief executive of MVL, said these coins can be cashed out on a cryptocurrency exchange, or used to pay other participants in the MVL ecosystem for goods and services such as petrol, repairs or car rentals.
+Mr Woo said: "The goal is to build a vertical mobility ecosystem in which the MVL token can be used for all sorts of transactions within the mobility industry."
+MVL runs on a "not-for-profit model", under which TADA does not charge its drivers a commission for access to the pool of riders. Instead, it imposes only a "negligible" transaction fee of 3.4 per cent on all credit card payments for rides, which will go towards maintenance of the platform.
+Asked how TADA can sustain its operations, Mr Woo listed three ways the ride-hailing service can derive revenue:
+By forming partnerships with car rental or insurance companies, which will pay fees to MVL for using its platform to access its drivers and riders.
+MVL is in talks with a number of such firms.
+By trading in MVL coins, which are currently traded on Idex, a decentralised smart-contract exchange based on the popular cryptocurrency Ethereum.
+As at 6pm on Thursday, MVL was trading at US$0.0053, with a total volume of US$26,496 over the last 24 hours.
+By selling the data of its drivers or riders to third-party participants in the MVL ecosystem, such as insurance companies.
+MVL does not own the data, but provides a platform for data storage, he said.
+"The data belongs to the drivers; we will first ask for their consent before we use their data. By providing the platform and service for drivers to collect driving data, MVL charges the external parties who use this data."
+Since its March 2018 founding, MVL Foundation has raised some US$16 million in funding, which will go towards paying for operations, including the salaries of its 36 employees.
+The startup is looking to raise more money next year, through a "strategic investment from a mobility-industry player such as a car-maker", Mr Woo told The Business Times.
+TADA, which means "Let's ride" in Korean, has rounded up some 2,000 drivers in Singapore. It is in talks with taxi companies here to add taxi drivers to its platform. It will offer metered pricing for taxi rides and flat fares for private-hire rides.
+Asked about the fares, he said: "At times, TADA's fares could be a little higher than those charged by existing ride-hailing players, but they will definitely be lower during peak hours."
+The MVL chief added that TADA is "not here to compete with the giants" (that is, Grab and Go-Jek), and it is open to working with all ride-hailing services by layering its blockchain mobility ecosystem on top of their platforms.
+Asked about TADA, Grab and Go-Jek did not comment.
+Mr Woo told BT: "MVL aims to deliver social impact through democratising data ownership and implementing a zero-commission model.
+"The latter facilitates income for drivers and leaves room to make fares lower. Such a model might also force other players to follow suit or change their systems."
+
+
+url: 
+https://www.businesstimes.com.sg/startups/blockchain-based-ride-hailing-app-tada-makes-singapore-debut

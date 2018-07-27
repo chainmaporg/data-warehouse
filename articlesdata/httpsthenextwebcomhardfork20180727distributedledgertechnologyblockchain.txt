@@ -1,0 +1,37 @@
+title: 
+Here’s the difference between blockchain and distributed ledger technology
+
+date: 
+2018-07-27 15:14:27+00:00
+
+summary: 
+ The Bank of England announced recently that it is looking to breathe new life into their Real-Time Gross Settlement system, using both blockchain and distributed ledger technology. Blockchain is in fact a form of distributed ledger with a very specific technological underpinning. Or for the same reason, a corporation may use the word blockchain to capitalise on the interest even if what they are offering isn't truly, a blockchain.
+
+full text: 
+Here’s the difference between blockchain and distributed ledger technology
+Impress your friends by telling them the difference between blockchain and DLT
+Story by
+62
+Shares
+Blockchain is being explored by a wider and wider audience everyday, and traditional centralized bodies like banks and governments are starting to take interest into what the tech can do for them.
+But there is a new term that is starting to crop up more frequently in the cryptocurrency space: distributed ledger technology (or DLT as most call it). And somewhat ironically, it is precisely the bodies that Bitcoin and blockchain aim to subvert that seem to use it the most – banks, governments and large corporations.
+The Bank of England announced recently that it is looking to breathe new life into their Real-Time Gross Settlement (RTGS) system, using both blockchain and distributed ledger technology. These words are not interchangeable though, so in instances like this, it’s important that we appreciate their differences. Let’s get into it.
+Distributed ledger technology
+Distributed ledger technology or DLT for short, is, as the name suggests a database of records that isn’t stored or confirmed by any one central body. Sounds sort of like blockchain doesn’t it? But it’s not.
+In DLT, the implementer has greater control over how it is in fact implemented. They could, in principle, dictate the structure, purpose, and functioning of the network that underpins its service. It’s not sounding very decentralized all of a sudden, is it?
+That said, DLT is technologically decentralized and relies on similar principles of consensus to blockchain. But, an instance where one body has control over that supposed decentralized network, by principle, isn’t decentralized – from an ideological point of view at least.
+A DLT can be considered a first step towards a blockchain, but importantly it won’t necessarily construct a chain of blocks. Rather, the ledger in question will be stored across many servers, which then communicate to ensure the most accurate and up to date record of transactions is maintained.
+Some companies that are favouring DLT over a pure blockchain include Google’s, recent partnership with Digital Asset seeks to bring DLT tools to their cloud service customers. Volkswagen also labelled its collaboration with IOTA as an experiment in “distributed ledger technology.
+Blockchain
+On the other hand, we have blockchain. Blockchain is in fact a form of distributed ledger with a very specific technological underpinning. As we all know, it’s one that creates an unchangeable ledger of records that is maintained by a decentralised network, where all records are approved by consensus.
+Cryptographic signing and linking groups of records in the ledger, to form a chain is what sets blockchain apart from DLT. Also, depending on the specific application of blockchain, there is the opportunity for the public and users to have a say in how it’s structured and run.
+Take the case of bitcoin as the true example of blockchain and decentralisation. While the technology and its structure is decentralised so is its organisation and development. In DLT the technology is decentralized, but its corporate organisation, may not.
+DLT and blockchain are not the same thing
+The important thing to note here then, is that these phrases and terms are not interchangeable, even if they may be used as such. Organisations like the Bank of England might favour the use of DLT to distance themselves from the hype and volatility associated to blockchain. Or for the same reason, a corporation may use the word blockchain to capitalise on the interest even if what they are offering isn’t truly, a blockchain.
+Published July 27, 2018 — 15:14 UTC
+July 27, 2018 — 15:14 UTC
+Show comments
+
+
+url: 
+https://thenextweb.com/hardfork/2018/07/27/distributed-ledger-technology-blockchain/

@@ -1,5 +1,5 @@
 title: 
-KT first to apply blockchain to commercial network | ZDNet
+KT first to apply blockchain to commercial network
 
 date: 
 2018-07-24 05:03:00
@@ -11,8 +11,7 @@ full text:
 ZDNet Japan
 KT first to apply blockchain to commercial network
 KT has applied blockchain technology to its network and vowed to reach 100,000 transactions per second by next year. The telco plans to launch a slew of new platforms in multiple industries that capitalise on the network.
-Seo Yeong-il, head of KT's Blockchain Center, gives the lowdown on the telco's blockchain roadmap in Seoul.
-Image: Cho Mu-hyun
+0
 KT has applied blockchain to its commercial network, the telco has announced.
 The telco built nodes combined with blockchain on its ultra-fast national network that guarantees both processing speed and trust.
 KT's blockchain currently has a transactions per second (tps) rate of 2,500, but the company will reach 10,000tps by the end of the year and 100,000tps by 2019, said Seo Yeong-il, the head of KT's Blockchain Center, at a press conference in Seoul.

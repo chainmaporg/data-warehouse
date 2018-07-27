@@ -1,0 +1,44 @@
+title: 
+Top 10 New Blockchain Companies To Watch For In 2018
+
+date: 
+2018-07-10 13:32:00+00:00
+
+summary: 
+ Almost every list I've read that aims to share information about the top crypto and/or blockchain companies to keep an eye out for, almost always includes Bitcoin and Ether. In addition to companies like Softbank and IBM, blue chip brands such as SAP, BP, Samsung, and shipping giant, Maersk, are also exploring decentralized ledger systems and new blockchain technologies. While these 10 new blockchain companies are worth watching, only time will tell which ones will end up succeeding in the end.
+
+full text: 
+Share to linkedin
+Shutterstock
+Almost every list I've read that aims to share information about the top crypto and/or blockchain companies to keep an eye out for, almost always includes Bitcoin and Ether. There's only one problem with this--these aren't new and most people know or should know about these. Therefore, these lists aren't providing really anything new. There are so many ventures out there that are worth exploring beyond Bitcoin and Ether. So, I wanted to dive in and come up with a new, refreshing list.
+The global blockchain market is anticipated to grow to over $60 billion by 2024 as more companies adopt distributed ledger technology and mass-use cases appear. Very much still in the infancy stage, blockchain technology is currently being explored and adopted by global industry titans such as IBM and Softbank .
+Additionally, thousands of innovative companies around the world are trying to solve market inefficiencies by leveraging the benefits that blockchain technology provides. These companies can be found in every industry, from content creation and transportation to financial services.
+The blockchain ecosystem flourishes due to tokenized economies, developers, service providers and entrepreneurs who are breaking the mold. Here are 10 companies on my radar using blockchain technology as a core piece of their business to make a difference.
+PATRON
+No, it's not the kind that quenches your thirst. Well, maybe your thirst for crypto! PATRON is one of Japan’s leading blockchain companies. They are currently building a decentralized influencer-marketing platform to eliminate inefficiencies in branded content and social media. The company is fresh off a $40 million token-sale raise and is currently expanding operations to the United States. Started by influencer,  Atsushi Hisatsumi , PATRON has gained international attention for its strategic partnerships and its strong advisory board of blockchain experts and industry leaders.
+TraDove
+TraDove is developing a light, fast and trustable B2B blockchain payment network for international transactions. The company finalized one of the top ICOs in 2018. It launched the world’s first B2B token, BBC, opening up corporate demand for cryptocurrencies for sales and marketing, a $76 billion market. TraDove’s B2B social network connects corporate buyers and sellers with faster discovery and better transparency. The company was founded by entrepreneurs from MIT, LinkedIn, Facebook, Amazon and Alibaba.
+Celsius Network
+Celsius is banking on the blockchain. Its borrowing and lending platform will allow users to earn up to 5% interest on their crypto while taking loans at 9% interest, using their crypto as collateral. Celsius Network’s goal is to bring the next 100 million people into crypto, ultimately becoming the first  killer app in the space. Risky or not, this is one to keep an eye on. This FinTech startup is primed to disrupt traditional banking.
+Menlo One
+Menlo One is a framework for building decentralized applications with the speed of a traditional web app. Their proof-of-reputation algorithm is an innovation for DApps, as is the speedy, decentralized database and cross-chain nodes at the center of its tech. Led by TED fellow, Matthew Nolan , a successful entrepreneur and blockchain developer who worked on Ethereum voting mechanisms after the 2016 DAO hack, Menlo One has solid credentials and their ICO is a must watch.
+Gameflip
+Gameflip is an online marketplace backed by Silicon Valley venture capital. It allows gamers to transact any type of digital goods, and currently has 3 million members. After successfully hitting its token-sale hard cap, the FLP utility token can now be used to transact digital goods within the Gameflip marketplace . In the coming months, pilot program partners and publishers will begin integrating the Gameflip SDK, which will enable the transactions of approved in-game goods via the Blockchain.
+Buddy
+Buddy is an app store for developers, by developers. Their vision is to become the backbone on which talented programmers can build world-altering blockchain technology and off-chain apps and services. Their goal is to take the load off millions of developers by removing everything that can be automated, and in the process giving them back the time to be creative. Buddy has a presence in the cloud marketplaces of Amazon, Google and Github, boasting an impressive list of customers and partners.
+ADBIT
+The ADBIT token will be the core function of CIINCH Media Marketplace, the world’s first blockchain-powered media planning and buying platform for traditional media (print, TV, radio and out-of-home) assets. CIINCH and ADBIT were created to help automate the multiple layers of manual processes that currently plague the industry. Traditional media has failed to innovate and adapt to the current state of our age. Highly fragmented and operating on legacy software developed in the 1990's, ADBIT and CIINCH aim to bring these processes into the present.
+DACC
+DACC is the world’s first content-based blockchain that features identity and access management (IAM) at the infrastructure level. This will revolutionize the digital content and media industries, as it offers users full control over content creation, access and storage. The project’s core team members hail from prestigious institutions such as MIT and Harvard, and early partners include TRON, Consensus Capital, D Fund, Crypto Capital, Block VC, Kim’s Capital, FBG Capital and the Roark Fund.
+Goldilock
+Goldilock is aiming to change the way data is stored and secured across the internet. Its innovations allow for individuals and institutions to secure digital assets in storage that are physically disconnected from the internet until the moment users want to connect it for its intended purpose. The backbone of the Goldilock Security Suite is a patent-pending, remotely activated airgap security solution that is toggled by a non-IP command. This will enable a robust cryptocurrency key custody and storage of sensitive digital assets.
+FCoin
+Founded by Zhang Jian, former CTO of Huobi, FCoin is a decentralized and fully transparent cryptocurrency exchange based in China. FCoin is unique, as it is based on a mining and profit-sharing mechanism that will return up to 80% to the community. Launched in May, FCoin recently garnered significant media coverage for a massive uptrend in volume at over $17 billion daily. FCoin has now officially gone to market and is looking to overtake some of the leading cryptocurrency exchanges in the world.
+Blockchain technology truly is worthy of the cliche label “disruptive” that is highly overused in the tech community. Cryptocurrencies are going mainstream. But, it’s not only the tech startups embracing the technological innovations. In addition to companies like Softbank and IBM, blue chip brands such as SAP, BP, Samsung, and shipping giant, Maersk, are also exploring decentralized ledger systems and new blockchain technologies.
+While these 10 new blockchain companies are worth watching, only time will tell which ones will end up succeeding in the end. Keep your eyes peeled.
+You can follow Andrew Rossow on Facebook and Twitter or search #CYBERBYTE on Google to stay up to date on the latest involving digital money and technology.
+Andrew is an Internet Attorney, Author, Adjunct Law Professor, and Media Consultant for ABC, FOX, and NBC in Dayton, Ohio.  As a millennial, he is able to provide a unique perspective on new, emerging technologies, social media crimes, privacy implications, and digital curre...
+
+
+url: 
+https://www.forbes.com/sites/andrewrossow/2018/07/10/top-10-new-blockchain-companies-to-watch-for-in-2018/

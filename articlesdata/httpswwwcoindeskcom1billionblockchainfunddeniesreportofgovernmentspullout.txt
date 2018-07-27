@@ -1,0 +1,27 @@
+title: 
+$1 Billion Chinese Blockchain Fund Denies Report of Government Pull-Out
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/1-billion-blockchain-fund-denies-report-of-governments-pull-out/
+
+summary: 
+ A $1 billion Chinese blockchain fund launched in April has denied a report that the local government will withdraw its financial support following the leak of a recording involving a former partner of the fund. The news report in question, published by China Business Journal on Thursday, stated that the Hangzhou city government has demanded that the Xiong'An Blockchain Fund stop promoting itself by describing itself as a government-backed fund. According to China Business Journal Li responded that the fund "Is not suspended." He further clarified to CoinDesk that, by that, he means the government has neither suspended Grand Shores' operations nor pulled out its future funding support.
+
+full text: 
+$1 Billion Chinese Blockchain Fund Denies Report of Government Pull-Out
+NEWS
+Wolfie Zhao
+Jul 27, 2018 at 06:00 UTC  |  Updated  Jul 27, 2018 at 07:31 UTC
+A $1 billion Chinese blockchain fund launched in April has denied a report that the local government will withdraw its financial support following the leak of a recording involving a former partner of the fund.
+The news report  in question, published by China Business Journal on Thursday, stated that the Hangzhou city government has demanded that the Xiong'An (or Grand Shores) Blockchain Fund stop promoting itself by describing itself as a government-backed fund. The Journal added that the local government has also decided that it will not contribute further capital to the project.
+If true, the news marks a notable withdrawal from the initial plan revealed in April in which the local government agreed to contribute 30 percent of the fund. So far the government has apparently allocated 30 million yuan (around $4 million), the report said.
+Citing an anonymous source close to Li Xiaolai, a well-known Chinese crypto investor and a former managing partner of the fund, the news source indicated that the government's decision to withdraw came after a recording of a private meeting at which Li made controversial comments was leaked early this month – statements deemed  to have had a negative impact on the company and the city government.
+As reported by CoinDesk, Li resigned from his role as the fund's managing partner on July 9 following the leak of a recording where he took aim at various individuals and companies in the blockchain industry using vulgar language.
+According to China Business Journal, though, Li responded that the fund "is not suspended." He further clarified to CoinDesk that, by that, he means the government has neither suspended Grand Shores' operations nor pulled out its future funding support.
+Later on Thursday night, Grand Shores Blockchain Fund also  issued a statement denying the report, saying they have not received any suspension notice from the government.
+Dominoes  image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/1-billion-blockchain-fund-denies-report-of-governments-pull-out/

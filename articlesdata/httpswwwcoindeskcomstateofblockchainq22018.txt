@@ -1,0 +1,52 @@
+title: 
+CoinDesk Releases Q2 2018 State of Blockchain Report
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/state-of-blockchain-q2-2018/
+
+summary: 
+ That's perhaps the biggest takeaway from CoinDesk's State of Blockchain Q2 2018 report. Released today, the State of Blockchain report provides a 100+ slide analysis of industry news and data. Bitcoin trading activity on exchanges dipped over the quarter, with a weighted combination of crypto-to-crypto volumes, fiat-to-crypto volumes and total trade pairs down 26%. The use of bitcoin's blockchain to transact on-chain also saw less interest in Q2, declining 28%. Miner revenues and fees dropped as well.
+
+full text: 
+CoinDesk Releases Q2 2018 State of Blockchain Report
+FEATURE
+Nolan Bauerle and Peter Ryan
+Jul 25, 2018 at 10:00 UTC  |  Updated  Jul 27, 2018 at 08:31 UTC
+To use crypto parlance, the second quarter was a painful time if you were HODLing – but a productive one if you were BUIDLing.
+That's perhaps the biggest takeaway from  CoinDesk's State of Blockchain Q2 2018 report.
+For a second straight quarter, the major blockchains racked up negative market indicators. Most of these downtrends were around exchange activity, with volumes down for most trade pairs. Yet outside of exchange numbers, usage and developer work charged forward, with milestones achieved around both bitcoin and ethereum.
+Released today, the State of Blockchain report provides a 100+ slide analysis of industry news and data. It covers market interest in public blockchains with a snapshot of the ten largest compared to bitcoin at the end of the quarter.
+The report also features a deep dive into the quarterly interest around bitcoin and ethereum , followed by news and data that highlight developments around trading , ICOs , SAFTs , venture capital , distributed ledger technology (DLT), security breaches , 51% attacks , regulations , litigation , corporate developments , employment , and a close look at  EOS 's year-long ICO and the subsequent launch of the EOS blockchain.
+Finally, the report shares the results of our 60+ question sentiment survey of over 1,200 Coindesk readers.
+Here are a few key takeaways from the report:
+Bitcoin
+Bitcoin trading activity on exchanges dipped over the quarter, with a weighted combination of crypto-to-crypto volumes, fiat-to-crypto volumes and total trade pairs down 26 percent. The use of bitcoin's blockchain to transact on-chain also saw less interest in Q2, declining 28 percent. Miner revenues (-22 percent) and fees (-19 percent) dropped as well.
+Hashrate – the amount of computing power spent making it costly to reverse transactions, a key measure of blockchain security – bucked this trend, but with slowed growth (+26 percent in Q2 compared to +47 percent in Q1).
+Yet while bitcoin's bear market continued, development activity carried on without distractions.
+Hidden behind the negative trend in the use of bitcoin's blockchain was important development news: part of the reason why on-chain transactions fell was because of the lightning network's growth.
+Indeed, the use of payment channels – in which small, frequent transactions between two parties are conducted off-chain and the blockchain is reserved for final settlement – boomed in Q2 as the lightning network pushes its solution to certain scaling issues.
+Ethereum
+The rest of the industry largely followed bitcoin's script. Exchange activity around ether (ETH), the native currency of the ethereum network, was down 37 percent. Ethereum's blockchain was used at about the same levels as Q1, which itself was a record-setting quarter. However, mining revenues surged 22 percent, with the equivalent of over  $1.1 billion paid to miners, just $300 million less than bitcoin's mining revenues for the quarter.
+More significant events happened beyond ethereum's network and exchange interests. On the regulatory front, ETH finally received some clarity: an official of the U.S. Securities and Exchange Commission  declared that ETH, in its present form, was a not a security after all. 
+Perhaps more important than regulatory clarity, a clear picture of ethereum's development roadmap emerged.
+Vitalik Buterin shared details on the scaling solution known as sharding and more about the future of ethereum with several posts , along with the following illustration on Twitter.  
+Investments
+Investments in the industry continued to boom, with notable increase in the size of fundraising for projects, as well as in the sophistication of how the offerings are structured.
+Average ICO size has steadily  grown  from $6 million in Q3 2017 to $16 million in Q4 to $31 million in Q1 2018 to $39 million in Q2 2018. The numbers in Q1 and Q2 were boosted by the back-to-back mega ICOs of Telegram ($1.7 billion) in Q1 and EOS ($4.2 billion) in Q2.
+However, it's important to note that total ICOs closed per month plateaued after their late 2017 peak, so larger rounds were raised from fewer total projects. These trends, taken together, perhaps suggest the start of a winner-take-all environment where large projects attract most of the invested funds.
+The legal sophistication of some ICOs grew as well. New legal structures allowed accredited investors to potentially combine the traditional legal infrastructure of registered securities with some features of a crypto ICO by using Simple Agreements for Future Tokens (SAFTs).
+Data from the SEC's EDGAR database revealed that 37 companies filed documents containing the phrase "Simple Agreements for Future Tokens." Those SAFTs raised a combined $304 million over the three-month period.
+Sentiment survey
+Our own survey managed to uncover a peculiarity amongst people who follow bitcoin closely.
+The 21e8 mystery , in which one improbable bitcoin hash seemed to hint at an otherworldly authority, came as the quarter ended. In the sentiment survey, we asked  readers which of several explanations for the phenomenon they agreed with.
+A plurality of our 1200+ respondents said they believed it was a coincidence that the apparent references to bitcoin's 21 million supply cap and the physics theory known as E8 had appeared in the hash. Another 25 percent had no idea what the question was about.
+The peculiarity was that while only 3 percent said time travel was the explanation, it was still a percentage point more than those who believed bitcoin was hacked (2 percent).
+While responses to this question can be taken as tongue-in-cheek, it says something that more people in the community consider time travel a plausible possibility than a successful hacking of bitcoin.
+These stories and more are available in our comprehensive report on a busy quarter for the industry.
+Data and analysis provided by Peter Ryan and Adam Hart.
+Construction image via Unsplash
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/state-of-blockchain-q2-2018/

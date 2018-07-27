@@ -1,0 +1,51 @@
+title: 
+How Blockchain Is Reshaping External Audit: Crypto Developments by PwC, KPMG, EY and Deloitte
+
+date: 
+2018-07-26 10:55:00+01:00
+
+summary: 
+ The recent initiative of the world's four largest auditing - Deloitte, Ernst & Young, KPMG and PwC - to join a pilot of 20 Taiwanese banks to test blockchain technology for fiscal audits, confirms how developments are expected in the work of external audit. As blockchain has its foundation in the distributed ledger concept and cryptology - which promises transparency, immutability, security, auditability, high cost-efficiency and is 'ever available' - an immediate application of blockchain technology in the audit verifications is connected to external confirmation procedures. As the scope of blockchain is wide and requires dedicated focus and time to research how best it can be used to build practical applications, the field of business estimation, and related audit activities may require more time to change and to be affected by blockchains.
+
+full text: 
+How Blockchain Is Reshaping External Audit: Crypto Developments by PwC, KPMG, EY and Deloitte
+How blockchain is reshaping external audits.
+7720 Total views
+– Total shares
+Analysis
+The recent  initiative of the world's four largest auditing — Deloitte, Ernst & Young, KPMG and PwC — to join a pilot of 20 Taiwanese banks to test  blockchain technology for fiscal audits, confirms how developments are expected in the work of external audit.
+Despite the auditors have been sometimes criticized for their lack of capacities for catching issues before they blow up, an external audit is a fundamental part of the assurance environment for international groups, both private and public.
+This can be defined as the process of conducting an objective examination of an organization’s accounts, books, documents and internal processes in order to determine whether it presents a ‘true and fair’ situation of financial performance and financial position. It is based on a set of predetermined guidelines — normally the International Financial Reporting Standards or generally accepted accounting principles — to verify the accuracy of companies’ financial statements.
+So what is the linkage between an audit and blockchain? What could change in the short term and what might not?
+What could change
+Albeit regulated by numerous standards and practices, an external audit is often a heavy process that requires a team of professionals to spend a robust amount of time to review the massive number of transactions and accounts of the client’s books. In this scenario, blockchain technology could play a really disruptive role.
+As defined by the CFO of International Federation of Accountants (IFAC), Russell Guthrie :
+“New technologies, such as blockchain and artificial intelligence  are advancing the global profession, raising the bar and driving demand for new workforce skills and competencies.”
+As blockchain has its foundation in the distributed ledger concept and cryptology — which promises transparency, immutability, security, auditability, high cost-efficiency and is ‘ever available’ — an immediate application of blockchain technology in the audit verifications is connected to external confirmation procedures.
+External confirmations are a critical part of all the audit processes, as they give the audit team the ability to to check external sources of the information that are provided internally by the company. But what if the ledger of such an enterprise is in a decentralized, public blockchain?
+In a scenario like that, the auditors would be able to obtain all the information related to the financial transactions of a company without the need to confirm them through an external confirmation procedure, hence saving time and resources.
+An environment where all the ledgers would be easily accessible, cross-checks of transactions would be still possible. If, for example, Company A has a liability with Company B, the auditors or any stakeholders could easily verify whether that is correctly recorded, by cross-checking the respective public ledgers.
+Ready-to-access information will also facilitate the review of bank details, where the external auditors examine all the information pertaining to a company and commercial banks, including bank accounts, loans, guarantees and signatory powers.
+What will not change
+As the scope of blockchain is wide and requires dedicated focus and time to research how best it can be used to build practical applications, the field of business estimation, and related audit activities may require more time to change and to be affected by blockchains. Examples of common accounting estimates are related to the definition of the fair value of an asset, revenue recognition and determination of accruals.
+The process of determining an estimation includes elements of uncertainties that are often mitigated by the knowledge of the business, the use of market comparisons and historical data.
+In a scenario where blockchain would be widely adopted, and where the transactions are accessible and transparent, the necessity of producing accounting estimate — and the related guesswork from the management of the company and external auditor — will likely decrease.
+How the big players are reacting to blockchain innovations
+The international audit market is dominated by the so called “Big Four”: PricewaterhouseCoopers ( PwC ), KPMG , Ernst & Young ( EY ) and Deloitte , whose revenues, thanks to the economic reprise, have been steadily increasing during the past few years.
+Source: statista.com
+In this dynamic environment, the Big Four are launching specific initiatives that are aimed to increase the efficiency of audit activities and develop assurance tools.
+More specifically, in May 2016, Deloitte’s first  blockchain lab was created in Dublin, in order to work with international organizations looking to roll out blockchain-enabled solutions across different countries.  Deloitte has also recently found that blockchain technology will become a critical asset to the retail and consumer-packaged goods industries.
+Ernst & Young (EY) became the first advisory firm to accept Bitcoin for its services. EY Switzerland clients have had the option to settle their invoices for auditing and advisory services using Bitcoin since the beginning of 2017. The same  Swiss branch has also announced formal support and membership of the Bitcoin Association of Switzerland (BAS).
+In November 2016, PwC launched Vulcan Digital Asset Services to enable digital assets to be used for everyday banking, commerce and other personal currency and asset-related services. The  company has also acquired a minority stake ?in the Chinese startup VeChain. This company uses blockchain technology to protect client brands and products through the creation of a transparent supply chain that allows product verification and traceability.
+Pierre-Edouard Wahl, head of blockchain at PwC Switzerland, shared his company’s activities related to blockchain with Cointelegraph:
+“We have a pretty broad service offering: we work with startups, we work with established companies, we offer — I would not say full services yet, because there still is a lack of clarity, but we want to offer first inspections to ensure that things have been done correctly and hopefully that will enable us, if the regulators allow us to do that, to interfere. For PWC Switzerland, where we have big clients who offer cryptocurrency to their clients, we need to find a way to audit them. But we have ways to make sure that funds are in the control of the right people. We also work on the infrastructure level, we work with a lot of ICOs globally. We offer legal and tax services, assurance services, engineering services, some kind of review for code — I do not like the word code audit there because it makes that sound like it is bullet-proof, which actually has just been reviewed by another pair of eyes.”
+In September 2016, KPMG launched its  Digital Ledger Services — a suite of services designed to help financial services companies realize the potential of blockchain. And in November 2017, KPMG signed on as a corporate member of the Wall Street Blockchain Alliance (WSBA).
+The Future of auditing
+While blockchains could foster the efficacy of the audit activities in certain key areas and reduce the need of performing existing audit procedures, there is still the need for the external auditors to use their professional judgement in many areas of the financial statement, especially when determining accounting estimates.
+As Marcel Stalder, CEO of EY Switzerland, confirmed :
+“It is important to us that everybody gets on board and prepares themselves for the revolution set to take place in the business world through blockchains.”
+As a result, further developments are expected, with new procedures to address the risks associated to the blockchain environment. These developments will likely reshape the work of external audit, where review of public ledgers and IT controls will gain a more crucial role, in assuring that financial statements present a ‘true and fair’ situation of companies’ financial performances.
+
+
+url: 
+https://cointelegraph.com/news/how-blockchain-is-reshaping-external-audit-crypto-developments-by-pwc-kpmg-ey-and-deloitte

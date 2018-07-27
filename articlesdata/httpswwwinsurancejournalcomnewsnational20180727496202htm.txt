@@ -1,0 +1,34 @@
+title: 
+Crypto Prediction Market on Blockchain Raises Regulatory Concerns
+
+date: 
+2018-07-27 01:00:15-04:00
+
+summary: 
+ The next confrontation between government regulators and a blockchain startup appears set to ensnare a prediction market platform that goes by the name Augur. "The notion of a decentralized prediction market is interesting, but it is a bit of a concern that one of the first applications is an assassination betting market," said Stephen Palley, co-chair of the blockchain and virtual currency group at law firm Anderson Kill in Washington. "Augur is not a prediction market, it is a protocol for cryptocurrency users to create their own prediction markets," it says.
+
+full text: 
+Crypto Prediction Market on Blockchain Raises Regulatory Concerns
+By Matthew Leising | July 27, 2018
+0 Comments
+The next confrontation between government regulators and a blockchain startup appears set to ensnare a prediction market platform that goes by the name Augur.
+After going live on July 10, Augur allows anyone to create contracts to predict future events such as the outcome of basketball games, elections, the price of Bitcoin or the closing value of the Dow Jones Industrial Average.
+The platform has attracted attention from regulators who oversee derivatives, while Augur’s developers maintain they’re not the ones creating the bets.
+Users pay in digital currency to place bets by buying or selling shares according to how they think an event will unfold. About $1.5 million has been wagered in the first two weeks, spread over 679 markets, according to Predictions Global, which tracks the Augur markets. The service is decentralized, meaning it’s hosted on computers spread around the world with no central authority in charge. And it appears to be unstoppable after pre-existing code was triggered to deactivate the only way to shut down the current version of the software on July 24.
+Yet there are potential issues looming for Augur. First, at least two contracts allowing users to bet on whether U.S. President Donald Trump will be killed in July or the rest of 2018 are listed on the site. Second, creating a way to bet on the value of goods in the future is basically the definition of a type of derivative known as a binary option, yet Augur hasn’t sought approval from the Commodity Futures Trading Commission to list such contracts.
+Binary Options
+The CFTC has noted the resemblance of the Augur contracts to binary options, which fall under its jurisdiction, according to a person familiar with the matter who asked not to be named. As Augur is open to use by U.S. residents such as retail investors, it may be running afoul of the Commodity Exchange Act and the law’s requirement that such services be registered as designated contract markets, the person said.
+“While I won’t comment on the business model of any specific company, I can say generally that offering or facilitating a product or activity by way of releasing code onto a blockchain does not absolve any entity or individual from complying with pertinent laws or CFTC regulations,” Erica Elliott Richardson, a CFTC spokeswoman, said in an emailed reply to questions.
+The CFTC has some history with prediction markets. In 2012, the agency sued the owner of the website Intrade, which had promised in 2005 to not offer options contracts on the future price of gold, crude oil and U.S. economic data. In 2015, a judge barred the firm from offering the contracts in the U.S.
+Augur was founded in 2014 by Jack Peterson and Joey Krug, and was developed in part by the Forecast Foundation, a not-for-profit group of software developers dedicated to decentralized applications. Advisers to the Forecast Foundation include Vitalik Buterin, who created the ethereum blockchain, and Ron Bernstein, a co-founder of Intrade.
+Augur is a type of software known as a smart contract that’s powered by the ethereum blockchain. Once smart contracts are deployed they can’t be changed. That’s the case with Augur after it destroyed the “stop gap” measure it could have used to make changes in its first weeks of existence, Tom Kysar, head of operations for the Forecast Foundation, said in an interview.
+“Our view would be that we are not creating contracts on Augur,” Kysar said. He declined to comment on the markets for assassination predictions.
+“The notion of a decentralized prediction market is interesting, but it is a bit of a concern that one of the first applications is an assassination betting market,” said Stephen Palley, co-chair of the blockchain and virtual currency group at law firm Anderson Kill in Washington. While only representing a small part of the overall market, the issue could raise the question of liability if a public figure was killed with people wagering on it.
+Regulators will need to find ways other than censorship to try to manage such open markets, said Emin Gun Sirer, an associate professor of computer science at Cornell University. While the more grim predictions gain attention, he said the excitement comes from bringing together forecasts from a variety of specialists. “I expect Augur to bring out domain experts on climate change, on drug trials, on financial analysis, and a myriad other topics.”
+Augur’s website aims to shift much of the responsibility to users. “Augur is not a prediction market, it is a protocol for cryptocurrency users to create their own prediction markets,” it says. “People who do create markets using the Augur protocol must ensure they’re in compliance with all their local jurisdictional laws, rules and regulations.”
+Still, a contract listed on the site may be worth watching. It asks, “Will the Forecast Foundation face an enforcement action from the SEC or CFTC before Dec. 21, 2018 for hosting unregulated derivatives markets?”
+Was this article valuable?
+
+
+url: 
+https://www.insurancejournal.com/news/national/2018/07/27/496202.htm

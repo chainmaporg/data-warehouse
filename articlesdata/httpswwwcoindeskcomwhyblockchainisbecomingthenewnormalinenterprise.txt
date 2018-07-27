@@ -1,0 +1,38 @@
+title: 
+Why Blockchain Is Becoming the 'New Normal' In Enterprise
+
+date: 
+Exception in extractArticlePublishedDate for https://www.coindesk.com/why-blockchain-is-becoming-the-new-normal-in-enterprise/
+
+summary: 
+ Richard Gendal Brown is the CTO at R3. After years of discussion and planning, enterprise blockchain is now becoming a reality across industries as diverse as insurance, healthcare, gold, oil and gas, finance and more. Now, thanks to enterprise blockchain technology, entire markets are in the process of being transformed and it's happening without forcing new intermediaries into the mix or driving these riotously decentralized markets into inappropriate centralized models. Blockchain is decentralized software for today's markets, and over the next decade, it will become the new normal in industries across the globe.
+
+full text: 
+Why Blockchain Is Becoming the 'New Normal' In Enterprise
+OPINION
+Jul 27, 2018 at 12:00 UTC  |  Updated  Jul 27, 2018 at 12:17 UTC
+Richard Gendal Brown is the CTO at R3.
+After years of discussion and planning, enterprise blockchain is now becoming a reality across industries as diverse as insurance , healthcare , gold, oil and gas , finance and more . But it's worth taking a step back and reflecting on the reasons why.
+Have you ever stopped to think about the difference between the way businesses function and the way the markets in which these businesses operate function?
+Most businesses are centralized, with the standard corporate structure of a CEO, a board of directors and all the departments necessary in order to run effectively; yet most markets are decentralized, with no central body in charge. As a result, these two inextricably linked entities function in entirely opposite ways.
+When the IT revolution began many decades ago, it was natural for companies and other centralized organizations to be early adopters of the technology: there was a competitive advantage to be gained by optimizing a firm's operations, and a command-and-control mechanism was required to get the technology adopted and working practices changed.
+As a result, it's no surprise that if we now look back on the achievements of the IT industry over recent decades we see that technology platforms have mostly been deployed within firms and have mostly been used to optimize those firms alone.
+However, when you raise your attention to the level of industries and markets, you see an entirely different scenario. It's really quite remarkable how little has changed in so many markets. International trade today would be easily understandable by a merchant from three hundred years ago. The mechanics of how a complex reinsurance contract is negotiated would look little different from a century ago. The list goes on.
+Costs of centralization
+In fact, it's only when markets have introduced centralization, such as with the creation of highly regulated centralized infrastructure in the financial markets, that we've seen a transformational change at the level of an entire industry.
+The results have often been spectacular. But they have come at the cost of new intermediaries, greater risk concentration and a resulting regulatory need to ensure these new institutions do not become rent-seekers or stifle innovation once established.
+Until recently, we simply haven't had the technology that would allow us to make such changes without introducing new points of centralization and control. The deepest assumptions of most of the software that exists today are that it will be deployed within a firm, that it will be controlled by that firm, and that, because it is run by or for that firm, its outputs can be trusted by people in that firm.
+And so we find ourselves in today's world, where each company in a market has an insanely complex IT estate with hundreds or thousands of corporate applications, many of which do the same thing as their competitors. Except the reality is, in fact, worse.
+Not only do we have a mass of duplicated systems, none of them are ever in sync. They constantly have to be reconciled and checked to make sure that every party to a deal or contract is in sync with each other.
+Bitcoin's lesson
+However, the advent of bitcoin taught us something very interesting – it was possible to build systems that are deployed between multiple entities, who don't fully trust each other but desire to transact with each other, and to do so without introducing a new centralized party they must all trust.
+It could be a massively powerful breakthrough to apply the same logic to other areas such as legal contracts and healthcare records, or reinsurance policies and complex loans. It could be the Holy Grail for optimizing entire markets without forcing these markets to reshape themselves to conform to the badly-fitting centralized models that today's software would demand. It would be the best of both worlds and could unleash a productivity revolution.
+This is what we at R3 believe is the potential of the application of blockchain technology to business. Used correctly, it offers the ability for anybody to transact directly with anybody else on an open network, with total assurance that "what I see is what you see," with guaranteed privacy and scalability.
+Now, thanks to enterprise blockchain technology, entire markets are in the process of being transformed and it's happening without forcing new intermediaries into the mix or driving these riotously decentralized markets into inappropriate centralized models.
+Blockchain is decentralized software for today's markets, and over the next decade, it will become the new normal in industries across the globe.
+Business people image via Shutterstock
+The leader in blockchain news, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies . CoinDesk is an independent operating subsidiary of Digital Currency Group, which invests in cryptocurrencies and blockchain startups.
+
+
+url: 
+https://www.coindesk.com/why-blockchain-is-becoming-the-new-normal-in-enterprise/

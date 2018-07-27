@@ -1,0 +1,33 @@
+title: 
+Why Does Joseph Lubin Love Berlin's Blockchain Scene?
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptobriefing.com/why-does-joseph-lubin-love-berlins-blockchain-scene/
+
+summary: 
+,"sm_api_message":"THE PAGE COULD NOT BE FOUND"}
+
+full text: 
+Why Does Joseph Lubin Love Berlin’s Blockchain Scene?
+Hanohiki / Shutterstock
+Why Does Joseph Lubin Love Berlin’s Blockchain Scene?
+Ethereum says co-founder German city could become a major player in the tech arena.
+Last updated Jul 26, 2018
+443
+1
+Joseph Lubin, a co-founder of Ethereum, recently referred to Berlin as “the most important city in the blockchain cosmos”.
+Lubin believes that Berlin has the necessary talent, programmers, and a great infrastructure and claims that if the government set up more programs to promote blockchain technology in Berlin and across Germany, the country’s resources would grow and blockchain would become more important.
+What Are Some of the Biggest Blockchain Companies in Berlin?
+Germany is quickly developing into quite the technology hub for cryptocurrency and blockchain technology. Ethereum has a strong team located in Berlin and Joseph Lubin is impressed with everything he’s seen in the city. Crypto Briefing reported that Pfizer, the German pharmaceutical giant has begun blockchain exploration and the rest of the country is doing the same. In particular, Berlin is home to at least thirty blockchain startups and various other projects that are being developed.
+For instance, Slock.it is a German startup company that is focused on the Internet of Things and sharing economy. Slock.it enables anyone to rent, sell, or share their property without the middleman. Smart contracts are made enforceable and it makes trading trustworthy for a lot more people.
+Ascibe is another exciting startup from Berlin that uses blockchain to help artists and creative people to have an ownership structure for their artwork and other media by timestamping intellectual property and giving control to creators in today’s age of the internet.
+Blockchain and Cryptocurrency is Changing German Banking
+Blockchain is making the biggest impact in German banking. Handelsblatt has reported that both Commerzbank and Deutsche Bank have joined R3. The goals are to advance banking technology through blockchain to potentially open new revenue stream and to optimize existing businesses across the country.
+Meanwhile, Sowa Labs, a subsidiary of Borse Stuttgart will release a new app called Bison , which will serve as the first major cryptocurrency app made in Germany.
+German’s blockchain ecosystem isn’t as big as London, New York City, or other major cities that are ahead of the game on blockchain technology. However, Joseph Lubin of Ethereum believes the people and resources are there and Berlin has a solid foundation to build a great ecosystem for blockchain technology and cryptocurrency.
+It will take some time for Germany to catch up in the crypto and blockchain race, but it may develop into a huge financial hub in the coming years.
+ 
+
+
+url: 
+https://cryptobriefing.com/why-does-joseph-lubin-love-berlins-blockchain-scene/

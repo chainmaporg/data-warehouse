@@ -1,0 +1,48 @@
+title: 
+Blockchain projects threaten utilities' choke hold on market
+
+date: 
+2018-07-26 17:36:20+02:00
+
+summary: 
+ Blockchain is challenging energy firms' hold on power by facilitating decentralized, peer-to-peer transfer of renewable energy. The very same blockchain technology rocking the financial sector will also revolutionize Germany's energy market. The benefit of incorporating blockchain technology with renewable energy is in bringing together the growing number of producers with individuals interested in buying green energy.
+
+full text: 
+POWER OVER ELECTRICITY
+Blockchain projects threaten utilities' choke hold on market
+Blockchain is challenging energy firms' hold on power by facilitating decentralized, peer-to-peer transfer of renewable energy. Germans are now doing it for themselves.
+By
+Kathrin Witsch and Christine Coester
+Published on
+Pdf
+You could have this in your garden. Source: Handelsblatt
+The very same blockchain technology rocking the financial sector will also revolutionize Germany’s energy market. Some advocates even believe the digital ledger technology, which lets users exchange money, products or services via a digital contract – with no need for a central mediator – could make utility giants like RWE and E.ON redundant.
+Blockchain provides new freedom for electricity users to determine whether their electricity comes from wind turbines outside the nearest city or from traditional, coal-fired power plants.
+It even allows renewable energy prosumers – individuals who produce and consume – to sell the extra energy their solar panels generate, in the form of electricity, to their neighbor around the corner without the middle man.
+“Blockchain technology isn’t just hype,” Philipp Richard of the German Energy Agency, dena, told Handelsblatt. “It could really give the energiewende (energy transition) another push.”
+Countless producers
+Germany’s power supply is no longer in the hands of a few large electricity providers. It increasingly belongs to homeowners who have invested in solar panels or wind turbines. The benefit of incorporating blockchain technology with renewable energy is in bringing together the growing number of producers with individuals interested in buying green energy.
+For example, if neighbor A’s solar roof produces a few extra kilowatts on a sunny day, the extra juice could be zipped over to a neighbor B, who is capable of storing the power. If neighbor A eventually needed those kilowatts again on a cloudier day, neighbor B could zip them right back. This is done via smart contracts, as they’re known in the industry.
+Unlike a contract between two people, a smart contract is a computer protocol between two devices. By providing rules, such as when to sell solar electricity at a certain price, and when to buy electricity at a certain price, the devices adhere and follow through with the transactions.
+Blockchain records and bills every single one of these transactions, in real-time, in a way that is encrypted but still accessible to those involved. The technology is particularly helpful for managing a plethora of data streams and decentrally securing that data, Mr. Richard of dena noted.
+Today, these mini-transactions, such as from neighbor A to neighbor B, take place on central platforms and are too expensive to facilitate after taking the overall transaction value into consideration. But a decentralized business model, in the form of a platform for local trading, would allow the direct exchange of electricity and would not require a central distributor or a major energy company, saving time and money.
+Getting the ball rolling
+According to dena, the energy efficiency agency, 13 percent of German companies already use blockchain in some form.
+One example is the WSW project in Wuppertal, Germany, which allows customers to buy and create their own green energy mix via an online platform. Blockchain technology ensures no kilowatt-hour of solar or wind power can be sold more than once, according to WSW, which operates the platform and takes care of the billing.
+RWE’s subsidiary Innogy also uses a blockchain-based platform with its “Share and Charge” app. It connects individuals with electric cars to e-charging stations. This allows the charging station owner to sell their power directly to the e-car driver.
+Then there is Sonnen, a Bavarian battery manufacturer, which, together with grid operator Tennet, is working to integrate a decentralized storage system to smooth out highs and lows of electricity production in Germany’s network. Doing so could result in some 6 gigawatts of power, Urban Keussen, board chairman of the board at TenneT’s German unit, told Reuters. That’s equivalent to the energy output of six nuclear plants.
+But blockchain can do even more. Energy2market, or e2m, a Leipzig-based company, takes electricity from 3,500 small and medium-sized power plants, bundles it together in a virtual power plant and sells it on the stock exchange. The capacity managed by the company is similar to that of a small nuclear plant.
+In mid-June, e2m partnered with the US-based company Swytch. Not only are they focused on powering German homes with green energy, but the program rewards users with swytch tokens – think bitcoin – for generating low carbon emissions, via Swytch’s open-source platform called Oracle. It tallies up how much carbon is displaced from using renewable energy and how many tokens it is worth.
+“Government-based incentive programs can only do so much, and a more dynamic option is needed,” Andreas Keil, CEO of e2m said. Tokens might help get more people thinking about the source of their electricity.
+A risk and a chance
+Utility firms are aware of the risk that peer-to-peer deals pose. The technology threatens to steal some of the market share or even worse, make the electricity giants irrelevant, once people can buy, sell and trade green energy independently. Brick-and-mortar banks have the same fear of cryptocurrencies like bitcoin.
+The original roles and responsibilities of utilities will definitely change, according to blockchain expert Jens Strüker of Fresenius University. But he also thinks the technology could end up benefiting power companies. One utility-driven project using blockchain is called Enerchain. It will allow European utilities to trade electricity and gas with one another by the end of 2018 via blockchain. They may even sell the energy to one another, improving their internal processes.
+A total of 45 companies throughout Europe are taking part in the project, including Germany’s RWE, E.ON, Uniper, Vattenfall and EnBW, Austria’s OMV and Italy’s Enel.
+But they need to hurry. Startups dream of a fully-digitized, democratized and decentralized energy network and are working to make it a reality.
+Kathrin Witsch is an editor at Handelsblatt writing about economics and politics. Christine Coester is an editor for Handelsblatt Global. To contact the authors: k.witsch@vhb.de and c.coester@handelsblattgroup.com
+We hope you enjoyed this article
+Make sure to sign up for our free newsletters too!
+
+
+url: 
+https://global.handelsblatt.com/finance/germany-blockchain-prosumers-energy-firms-949297

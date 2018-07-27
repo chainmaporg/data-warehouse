@@ -1,0 +1,35 @@
+title: 
+Ethereum Incubator ConsenSys to Power Chinese City via Blockchain
+
+date: 
+Exception in extractArticlePublishedDate for https://cryptoslate.com/ethereum-incubator-consensys-to-power-chinese-city-via-blockchain/
+
+summary: 
+ Chinese government officials in the South Eastern province of Xiong'an have engaged the services of Ethereum incubator ConsenSys to help turn their agriculture-intensive economy to a technological powerhouse. Taking things further, ConsenSys is employed as a consultant on blockchain technologies to be deployed in building the smart city and its related administrative features. For the uninitiated, the Switzerland-based ConsenSys was founded in 2014 to focus on developing Ethereum software tools, incubating and angelizing Ethereum-based ventures and advising governments and corporations on blockchain technology.
+
+full text: 
+Ethereum Incubator ConsenSys to Power Chinese City via Blockchain
+Shaurya Malwa July 26, 2018 2 min read
+Chinese government officials in the South Eastern province of Xiong’an have engaged the services of Ethereum incubator ConsenSys to help turn their agriculture-intensive economy to a technological powerhouse.
+Xiong’an’s Blockchain Push
+As reported by South China Morning Post on July 24, 2018, Xiong’an authorities are seemingly missing no steps in making President Xi Jinping’s dreams of China’s first “smartly-planned” city a reality.
+In October 2017, the Jinping told authorities that Xiong’an is the forerunner for building a “dream city,” with industries like biotechnology, artificial intelligence, and energy sciences powering the local economy. At the time, market analyst Morgan Stanley projected a $362 billion investment in the region.
+Later in May 2018, the Chinese government laid out “development goals” for Xiong’an, featuring the usage of blockchain technology and cognitive computing.
+Taking things further, ConsenSys is employed as a consultant on blockchain technologies to be deployed in building the smart city and its related administrative features. The move is yet another indication of China’s belief in the burgeoning distributed ledger technology, despite the country’s lack of trust in cryptocurrencies.
+As published in a statement, ConsenSys will provide software solutions and blockchain frameworks to the Xiong’an region. To concretize their partnership, the two parties signed a memorandum of understanding (MoU) in Beijing on July 23, 2018.
+ConsenSys founder Joseph Lubin stated the development was one of the first “major projects” for his company in the Chinese jurisdiction. Lubin further expressed that successful implementation of Ethereum’s technology will prove its use case in a large-scale trust infrastructure, such as whole cities and districts.
+The partnership is the first instance of Xiong’an employing the services of a “foreign” company in favor of local businesses to augment its technological footprint and create extensive digital infrastructures. The local government had earlier sought the services of Tencent, Ant Financial, and Qihoo to marry blockchain technology to Xiong’an urban network.
+Blockchain Projects Already Underway
+Earlier, Xiong’an partnered with a subsidiary of the state-owned China Communications Construction Company to develop and launch a blockchain platform for enabling small enterprises to raise capital. The system additionally tracked project completion and money flow and appraised users on the benefits of using immutable blockchain technology.
+The Xiong’an province operates a blockchain-based home rental program, in partnership with Ant Financial, to ensure authenticity in home prices and listings, storing the history of tenants, and mitigating frauds from property intermediaries.
+For the uninitiated, the Switzerland-based ConsenSys was founded in 2014 to focus on developing Ethereum software tools, incubating and angelizing Ethereum-based ventures and advising governments and corporations on blockchain technology.
+As per the report, the ConsenSys statement concluded:
+“The two sides will follow with agreements addressing different aspects of this innovative multi-faceted initiative, and establish Xiongan as a next-generation smart city and a leading blockchain innovation hub.”
+Cover Photo by ? ?? on Unsplash
+Disclaimer: Our writers' opinions are solely their own and do not reflect the opinion of CryptoSlate. None of the information you read on CryptoSlate should be taken as investment advice, nor does CryptoSlate endorse any project that may be mentioned or linked to in this article. Buying and trading cryptocurrencies should be considered a high-risk activity. Please do your own due diligence before taking any action related to content within this article. Finally, CryptoSlate takes no responsibility should you lose money trading cryptocurrencies.
+Did you like this article? Join us.
+Get blockchain news and crypto insights.
+
+
+url: 
+https://cryptoslate.com/ethereum-incubator-consensys-to-power-chinese-city-via-blockchain/

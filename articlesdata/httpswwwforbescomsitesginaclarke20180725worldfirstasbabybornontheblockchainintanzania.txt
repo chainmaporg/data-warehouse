@@ -35,6 +35,8 @@ As the project grows and encounters its first challenges, its founders are seeki
 The blockchain is a relatively young technology, and its scalability is yet to be tested in this way—after all babies didn’t factor in the Satoshi whitepaper, but the traceability factor is well and truly working. AID:Tech's blockchain platform effectively allows for traceability of any entitlement that is documented on the blockchain securely and efficiently.
 There have been challenges along the way though, with attempted fraud just one element. However, the individual nature of the digital ID allows for suppliers to check the ID holder’s information - including a photograph, before providing them with aid.
 From welfare distribution in Tanzania to the homeless in Ireland, these successful pilots have led to a quick progression for AID:Tech. Thanks to investments and collaboration, AID:Tech is transforming charitable distributions, one node at a time.
+See more on what I'm writing here or say hi on Twitter @ginadav
+I have worked for broadcasters such as the BBC, BFBS and the Press Association before becoming a full-time freelance journalist in 2016. Previously I had written on the FinTech sector for both national and niche publications, but it was the Brexit referendum that sparked my ...
 
 
 url: 

@@ -1,0 +1,32 @@
+title: 
+Masterworks offers fractional ownership of fine art through the blockchain
+
+date: 
+2018-07-26 15:30:25+00:00
+
+summary: 
+ As recently as this week, the art world has been finding new ways to leverage technology and using new modes of commerce - such as blockchain technology and cryptocurrencies - to make itself relevant to more than just those classed as high-net-worth individuals. Cofounded by serial entrepreneur Scott Lynn, Masterworks is building a blockchain-based stock trading platform for significant works of art. Each piece of art offered by Masterworks will be provided pursuant to an "Offering circular" filed with the SEC. Masterworks has confidentially submitted such an offering circular with the SEC for its "1 Colored Marilyn" painting.
+
+full text: 
+Transform: The AI event of the year for growth marketers. Aug. 21 - 22
+VB Summit: The best in AI. An invite-only executive event. Oct. 22 - 23
+As recently as this week , the art world has been finding new ways to leverage technology and using new modes of commerce — such as blockchain technology and cryptocurrencies — to make itself relevant to more than just those classed as high-net-worth individuals (HNWI).
+Today is no exception.
+Cofounded by serial entrepreneur Scott Lynn,  Masterworks  is building a blockchain-based stock trading platform for significant works of art. Now 38 years old, Lynn started collecting modern art when he was only 19. His collection is currently valued at over $100 million, and he sees this venture as a way to democratize access to iconic pieces of art.
+So what kind of art are we talking about?
+The pieces he owns have been exhibited at MoMA, the National Gallery, and the Royal Academy of Arts and were created by the likes of Monet, Picasso, and Warhol.
+“I started my first internet company when I was in high school and have always been interested in fine art,” Lynn, who also serves as CEO, told me. “After my first company was successful, I started acquiring paintings by artists like Picasso. At one point, I had one of the largest collections of Picasso ceramics (something I wouldn’t admit to today!). The first important painting I acquired was a Marc Chagall, ‘Le Pont Neuf’, which was offered for sale at Sotheby’s last season.”
+So what does Masterworks do?
+The platform lets anyone invest in major works of art for as little as $20 per share. For example, Masterworks already includes Andy Warhol’s “1 Colored Marilyn (Reversal Series),” which was  purchased in November 2017 for $1,815,000  and Monet’s “Coup de Vent” (1881) purchased in June 2018 for approximately $6.3 million . That painting is currently valued at closer to $8.5 million.
+Masterworks’ plan is to continue purchasing investment-grade artwork and giving individuals a chance to see a return on their investments.
+“There are two ways an investor can get a return,” Lynn said. “Firstly, an investor can sell their shares to another investor on an approved trading platform. Secondly, a collector can make an offer to purchase a painting from investors, and they can vote on whether or not to sell.”
+Significantly, Masterworks is working with the SEC to make it possible for accredited and retail investors to take part in the offering.
+Each piece of art offered by Masterworks will be provided pursuant to an “ offering circular ” filed with the SEC. Masterworks has confidentially submitted such an offering circular with the SEC for its “1 Colored Marilyn (Reversal Series)” painting. It hopes this will be the first SEC-qualified offering under Reg A+, which allows investors to take part in fine art investment.
+How does blockchain technology help realize Masterworks’ vision?
+“Blockchain allows us to approve multiple exchanges to trade each painting’s tokens to provide more liquidity to investors,” Lynn said.
+And what’s next?
+“We expect our first offering for the Andy Warhol ‘1 Colored Marilyn (Reversal Series)’ to be qualified by the Securities and Exchange Commission shortly,” Lynn said. “When this happens, it will be an important moment for the blockchain and art industry, as it will be the first time a painting has ever been tokenized and qualified to be sold to retail investors. From there, we expect to offer more paintings for investment at a rapid pace.”
+
+
+url: 
+https://venturebeat.com/2018/07/26/masterworks-offers-fractional-ownership-of-fine-art-through-the-blockchain/

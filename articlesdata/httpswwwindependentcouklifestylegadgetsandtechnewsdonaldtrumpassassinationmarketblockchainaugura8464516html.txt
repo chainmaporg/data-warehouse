@@ -1,0 +1,85 @@
+title: 
+Donald Trump assassination market appears on blockchain platform Augur
+
+date: 
+2018-07-26 00:00:00
+
+summary: 
+ The digital ledgers also enable much darker use cases, as demonstrated by a blockchain platform that has been used to set up an online assassination market. Users of the recently-established Augur protocol are using its underlying blockchain technology to bet on the deaths of high-profile public figures, including US President Donald Trump, Amazon founder Jeff Bezos and billionaire investor Warren Buffett. The market for the president's death, for example, asks: "Will Donald Trump be killed at any point during 2018?".
+
+full text: 
+Dating
+Follow us:
+Sites on the dark web have previously sought to crowdfund the assassination of public figures like Donald Trump and Barack Obama (          Terminate Trump/ Screen Shot          )
+INDYTech
+Donald Trump assassination market appears on blockchain platform Augur
+Jeff Bezos, Warren Buffett and other high profile figures have also been caught up in the trend
+Click to follow
+The Independent Tech
+Blockchain technology is often touted for its potential to transform everything from how we vote, to the way we pay. But the digital ledgers also enable much darker use cases, as demonstrated by a blockchain platform that has been used to set up an online assassination market.
+Users of the recently-established Augur protocol are using its underlying blockchain technology to bet on the deaths of high-profile public figures, including US President Donald Trump, Amazon founder Jeff Bezos and billionaire investor Warren Buffett.
+The markets, first spotted by Mashable, allow people to place bets using cryptocurrency on whether or not these people will be assassinated. The market for the president's death, for example, asks: "Will Donald Trump (President of The USA) be killed at any point during 2018?"
+Set up by the Forecast Foundation, Augur allows people to choose an event to predict, create a market for it, and then trade shares on the outcome of the event. “Anything is fair game,” the website states, “from the next presidential election to the success of a company’s product.”
+The cryptocurrency associated with Augur is currently the 40th most valuable, according to CoinMarketCap , with a market cap of over $340 million, but trading on the Augur protocol is done with ethereum – the world’s second most valuable cryptocurrency behind bitcoin.
+Bitcoin's volatile history in pictures
++ show all
+Bitcoin's volatile history in pictures
+1/8 Satoshi Nakamoto creates the first bitcoin block in 2009
+On 3 January, 2009, the genesis block of bitcoin appeared. It came less than a year after the pseudonymous creator Satoshi Nakamoto detailed the cryptocurrency in a paper titled 'Bitcoin: A peer-to-Peer Electronic Cash System'
+Reuters
+2/8 Bitcoin is used as a currency for the first time
+On 22 May, 2010, the first ever real-world bitcoin transaction took place. Lazlo Hanyecz bought two pizzas for 10,000 bitcoins – the equivalent of $90 million at today's prices
+Lazlo Hanyecz
+3/8 Silk Road opens for business
+Bitcoin soon gained notoriety for its use on the dark web. The Silk Road marketplace, established in 2011, was the first of hundreds of sites to offer illegal drugs and services in exchange for bitcoin
+4/8 The first bitcoin ATM appears
+On 29 October, 2013, the first ever bitcoin ATM was installed in a coffee shop in Vancouver, Canada. The machine allowed people to exchange bitcoins for cash
+REUTERS/Dimitris Michalakis
+5/8 The fall of MtGox
+The world's biggest bitcoin exchange, MtGox, filed for bankruptcy in February 2014 after losing almost 750,000 of its customers bitcoins. At the time, this was around 7 per cent of all bitcoins and the market inevitably crashed
+Getty Images
+6/8 Would the real Satoshi Nakamoto please stand up
+In 2015, Australian police raided the home of Craig Wright after the entrepreneur claimed he was Satoshi Nakamoto. He later rescinded the claim
+Getty Images
+7/8 Bitcoin's big split
+On 1 August, 2017, an unresolvable dispute within the bitcoin community saw the network split. The fork of bitcoin's underlying blockchain technology spawned a new cryptocurrency: Bitcoin cash
+REUTERS
+8/8 Bitcoin's price sky rockets
+Towards the end of 2017, the price of bitcoin surged to almost $20,000. This represented a 1,300 per cent increase from its price at the start of the year
+Reuters
+1/8 Satoshi Nakamoto creates the first bitcoin block in 2009
+On 3 January, 2009, the genesis block of bitcoin appeared. It came less than a year after the pseudonymous creator Satoshi Nakamoto detailed the cryptocurrency in a paper titled 'Bitcoin: A peer-to-Peer Electronic Cash System'
+Reuters
+2/8 Bitcoin is used as a currency for the first time
+On 22 May, 2010, the first ever real-world bitcoin transaction took place. Lazlo Hanyecz bought two pizzas for 10,000 bitcoins – the equivalent of $90 million at today's prices
+Lazlo Hanyecz
+3/8 Silk Road opens for business
+Bitcoin soon gained notoriety for its use on the dark web. The Silk Road marketplace, established in 2011, was the first of hundreds of sites to offer illegal drugs and services in exchange for bitcoin
+4/8 The first bitcoin ATM appears
+On 29 October, 2013, the first ever bitcoin ATM was installed in a coffee shop in Vancouver, Canada. The machine allowed people to exchange bitcoins for cash
+REUTERS/Dimitris Michalakis
+5/8 The fall of MtGox
+The world's biggest bitcoin exchange, MtGox, filed for bankruptcy in February 2014 after losing almost 750,000 of its customers bitcoins. At the time, this was around 7 per cent of all bitcoins and the market inevitably crashed
+Getty Images
+6/8 Would the real Satoshi Nakamoto please stand up
+In 2015, Australian police raided the home of Craig Wright after the entrepreneur claimed he was Satoshi Nakamoto. He later rescinded the claim
+Getty Images
+7/8 Bitcoin's big split
+On 1 August, 2017, an unresolvable dispute within the bitcoin community saw the network split. The fork of bitcoin's underlying blockchain technology spawned a new cryptocurrency: Bitcoin cash
+REUTERS
+8/8 Bitcoin's price sky rockets
+Towards the end of 2017, the price of bitcoin surged to almost $20,000. This represented a 1,300 per cent increase from its price at the start of the year
+Reuters
+Augur’s website describes several potential use cases for its platform, including political forecasting and weather prediction. But conceivably it could be used for betting on any event, which is why some blockchain analysts have previously said the creation of assassination markets were inevitable.
+“Augur is built from the ground up to be owned and operated by the people that use it,” the platform’s website states. “This is a technical reality enabled by the ethereum blockchain and open source software.”
+While the open bets for Trump's assassination are not directly calling for his death, the nature of market means users might be incentivised to carry out the assassinations, or pay to have them carried out.
+Dark web crowdfunding websites that seek to raise money for the assassination of public figures have previously included listings for Trump, with a 2016 campaign raising almost $100,000 . The money raised, the site claimed, would be paid to whoever carried out his assassination.
+"The consequences of having Donald Trump and Mike Pence as the leaders of the free world is extremely dangerous," stated the crowdfunding page, which has since been taken down."The political, environmental and social consequences will change the United States for the worst."
+A community forum dedicated to Augur on Reddit has discussed the issue of assassination markets, noting that the decentralised nature of Augur means that it can’t be regulated or shut down
+One member warned that “the birth of these types of markets makes it illogical for anyone under the age of 25 to want to become a public figure.”
+One thread states: “There are currently multiple assassination markets open on Augur for Trump, and others for Warren Buffett, John McCain, Jeff Bezos, Betty White, and so on… There doesn’t appear to be a way to tag these markets as unethical right now.”
+A spokesperson for the Forecast Foundation directed comment requests to Augur's Frequently Asked Questions, which state that the foundation does not "have the ability to monitor, control, censor, or modify any actions performed on the Augur protocol."
+
+
+url: 
+https://www.independent.co.uk/life-style/gadgets-and-tech/news/donald-trump-assassination-market-blockchain-augur-a8464516.html

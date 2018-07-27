@@ -10,8 +10,8 @@ summary:
 full text: 
 Is Blockchain About to Become a Patent War Battleground?
 Major players continue to apply for blockchain-related applications.
-6244 Total views
-251 Total shares
+10205 Total views
+261 Total shares
 Analysis
 Last week, news of at least three major players applying for blockchain-related patents emerged: Bank of America sought to legally protect its blockchain-based system allowing the external validation of data, Barclays filed two patent applications relating to the transfer of digital currency and blockchain data storage, while MasterCard ’s application mentioned a form of a public blockchain-based method for linking assets between blockchain and fiat accounts.
 As blockchain technology continues to be one of the most discussed things in 2018 and a subject for mass adoption, the number of crypto-related patents is steadily growing — and with patent trolls joining the game, a legal war over blockchain might occur in the future.

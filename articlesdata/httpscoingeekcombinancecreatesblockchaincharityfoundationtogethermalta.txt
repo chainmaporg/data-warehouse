@@ -1,0 +1,31 @@
+title: 
+Binance creates the Blockchain Charity Foundation together with Malta
+
+date: 
+2018-07-27 10:15:47+00:00
+
+summary: 
+ Binance has created the Blockchain Charity Foundation and has broken new ground when it teamed up with the Maltese President's Trust. Michael Bianchi, a trustee of the Maltese President's Trust, was quoted as saying "We are very happy to be starting a collaboration with Blockchain Charity Foundation enabling the use of blockchain technology to provide a social and economic impact. This is a world first and will have a major impact on how social issues and charity work is done in future years." One of these is the momentum established by the Calvin Ayre foundation to find more developers who are willing to work on the BCH blockchain in the Philippines.
+
+full text: 
+Binance creates the Blockchain Charity Foundation together with Malta
+Business
+By Gerald Fenech
+July 27, 2018
+Binance has created the Blockchain Charity Foundation and has broken new ground when it teamed up with the Maltese President’s Trust.  Technology will be used to “empower vulnerable communities and enchance transparency in charitable work”.
+Michael Bianchi, a trustee of the Maltese President’s Trust, was quoted as saying “We are very happy to be starting a collaboration with Blockchain Charity Foundation enabling the use of blockchain technology to provide a social and economic impact. This is a world first and will have a major impact on how social issues and charity work is done in future years.”
+The signing of the Memorandum of Understanding (MOU) took place at San Anton Palace with Helen Hai being appointed as head of the foundation earlier this month. The objectives of the MOU are:
+To advocate about block technology and its application to address issues of sustainability in a humanitarian and environmental setting to empower, especially youth and children.
+To improve public awareness of the comprehensive usage of blockchain and its impact on society and economy.
+To jointly establish a work force targeting local and regional issues by implementing pilot projects and other initiatives with a blockchain technology component.
+DonorsChoose.org announced that in March of this year, San Francisco-based Ripple had donated $29 million. This was used to fund every single classroom project request on the non-profit charity’s website. As a result of this generosity, 16,561 public schools – or 1 in 6 of all the public schools in the U.S.A. – will receive the much needed resources which are vital for learning.  Ripple’s donation fulfilled 35,647 requests from 28,210 public school teachers in all states and this is the largest cryptocurrency donation ever made. Resources will range from coloured pencils to books to butterfly cocoons and robotic kits. In June of this year, Brian Armstrong, the CEO of the San Francisco-based cryptocurrency exchange Coinbased, launched a charity to help provide for people who are living in poverty.  GiveCrypto , which is the name of Coinbase’s charity aims to raise $1 billion in the coming two years.
+There are several other charities which use Bitcoin cash as their main method of raising funds. One of these is the momentum established by the Calvin Ayre foundation to find more developers who are willing to work on the BCH blockchain in the Philippines. This website has also partnered with StackLab to create technology hubs in next generation cities in the Philippines.
+Another charity is eatBCH which has been feeding the hungry in Venezuela with food purchased with bitcoin cash (BCH) donations. Since then the group has also started feeding people in South Sudan where citizens in the East-African region are suffering from economic turmoil and a lack of daily nourishment. With the help of bitcoin cash donations from the community, Eat BCH has truly become a peer-to-peer electronic cash-to-food system that’s starting to spread throughout other regions in the world.
+Coinbase founder and CEO Brian Armstrong also recently announced the company’s new charity —GiveCrypto.org.
+In a Medium post, Armstrong said GiveCrypto’s goal is “to financially empower people by distributing cryptocurrency globally.”
+According to Armstrong, crypto holders can send virtual currency contributions to GiveCrypto, which, in turn, will send the money directly to those in need. Donors can use Bitcoin Cash, BTC, Ethereum, Litecoin, Ripple and Zcash.
+Note: Tokens on the Bitcoin Core (segwit) Chain are Referred to as BTC coins. Bitcoin Cash (BCH) is today the only Bitcoin implementation that follows Satoshi Nakamoto’s original whitepaper for Peer to Peer Electronic Cash. Bitcoin BCH is the only major public blockchain that maintains the original vision for Bitcoin as fast, frictionless, electronic cash.
+
+
+url: 
+https://coingeek.com/binance-creates-blockchain-charity-foundation-together-malta/

@@ -1,0 +1,58 @@
+title: 
+Alphabet Finally Embraces the Blockchain Revolution
+
+date: 
+Exception in extractArticlePublishedDate for https://realmoney.thestreet.com/articles/07/24/2018/alphabet-finally-embraces-blockchain-revolution
+
+summary: 
+ "Google's entrance into the blockchain space is a landmark event for the growing blockchain ecosystem and cements the continued investment in blockchain solutions for enterprises," BlockApps, a New York-based startup, said in a statement on Monday. Late entrant Alphabet's Blockchain offerings will compete with Amazon's AWS and Microsoft's Azure cloud services that already provide blockchain development tools. Speaking at a Blockchain even in Morocco earlier this month, Google co-founder Sergey Brin acknowledged the company was late to the Blockchain party.
+
+full text: 
+Alphabet Finally Embraces the Blockchain Revolution
+By
+It's about time for Alphabet ( GOOGL ) to join the cool kids.
+ 
+"Google was the last major cloud vendor holdout without a blockchain offering and it's great to see them join the Ethereum ecosystem," says Sophia Lopez, founder of Kaleido, which is a ConsenSys business, told Real Money. "Their announcement is a good fit for customers in early stages of experimentation looking to learn about blockchain."
+ 
+The Blockchain technology emerged in the past decade and has become increasingly embraced by large companies and small governments as a way to digitize records and simplify transactions. Since then, the technology spread to a plethora of existing and emerging industries, from public sector to advertising.
+ 
+On Monday, Alphabet said it partnered with Digital Asset to extend "blockchain platform and developer tools" to its Google Cloud Platform.
+ 
+Alphabet has been on a partnership spree to expand its Blockchain offering.
+ 
+"Google's entrance into the blockchain space is a landmark event for the growing blockchain ecosystem and cements the continued investment in blockchain solutions for enterprises," BlockApps, a New York-based startup, said in a statement on Monday. The company streamlines Blockchain-based applications and offers "complete development and deployment experience out of the box" across industries.
+ 
+Late entrant
+ 
+Alphabet's Blockchain offerings will compete with Amazon's ( AMZN ) AWS and Microsoft's ( MSFT ) Azure cloud services that already provide blockchain development tools. IBM and Accenture also have significant market shares.
+ 
+Global Blockchain market is expected to reach $60.7 billion in 2024, according to a Market Reports Center study earlier this year.
+ 
+Speaking at a Blockchain even in Morocco earlier this month, Google co-founder Sergey Brin acknowledged the company was late to the Blockchain party.
+ 
+"We probably already failed to be on the bleeding edge, I'll be honest," he said at the event.
+ 
+Even so, while innovation and AI were a common refrain on the earnings' call on Monday, the word 'Blockchain' was still missing from the management's vocabulary.
+ 
+"Financial institutions are increasingly turning to the cloud to modernize their systems, explore new business models andimprove customer experiences," CEO Sundar Pichai said. "We also have are rapidly growing business for our specialized cloud AI services."
+ 
+Google Cloud's clients span across industries include Domino's Pizza ( DPZ ) , SoundCloud, PricewaterhouseCoopers, HSBC ( HSBC ) , Ebay ( EBAY ) .
+"They (E-Bay) definitely see Google Cloud as a technology that gives them a huge competitive advantage," Diane Greene, head of Google's cloud business said at the conference in San Francisco on Tuesday.
+ 
+Through its strategic partnerships, Alphabet could help its client embrace Blockchain technology as well.
+ 
+Also on Monday, Alphabet released a statement welcoming all its Google Cloud partners.
+ 
+In addition to Digital Asset and BlockApps, Alphabet also plans to test open source integrations for Hyperledger Fabric and Ethereum later this year through its Google Cloud Product Marketplace.
+ 
+"Distributed ledger technology has great potential to benefit customers, not just in the financial services industry, but across many industries - and we're excited to bring these developer tools to Google Cloud,"the company said in a blog post on Monday.
+ 
+Alphabet's reliance on strategic partnerships to grow their Blockchain offering is reflective of them being a late entrant, according Sophia Lopez of Kaleido.
+ 
+"Because there is a need for speciality skills and experience to offer a blockchain service, partner-led strategies are a popular choice for cloud vendors like Google and others looking to enter space quickly now," she says.
+Get an email alert each time I write an article for Real Money. Click the "+Follow" next to my byline to this article.
+More From Daria Solovieva
+
+
+url: 
+https://realmoney.thestreet.com/articles/07/24/2018/alphabet-finally-embraces-blockchain-revolution

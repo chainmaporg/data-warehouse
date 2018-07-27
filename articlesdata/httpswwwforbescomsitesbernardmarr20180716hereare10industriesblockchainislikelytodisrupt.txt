@@ -37,6 +37,7 @@ Education
 As the power of online and distance learning grows, so does the need for an independent way of verifying students’ transcripts and educational records. A blockchain based system could serve almost as a notary for educational records, creating a way for employers and other educational institutions to access secure records and transcripts. In fact, it could also help universities and other large institutions collaborate. No longer would a student have to wait for the course she wants to be offered at Harvard if Oxford is offering it online; her grades and records would be easily and instantly transferable.
 These are just some of the industries that are likely to see significant disruption from blockchain technology. What opportunity do you see for blockchain to disrupt and improve your industry?
 Bernard Marr is a best-selling author & keynote speaker on business, technology and big data. His new book is Data Strategy . To read his future posts simply join his network here .
+I write books, deliver keynote presentations and provide expert advice on big data, analytics, metrics and improving business performance. I have helped many of the world’s leading companies and governments on how to answer their most critical business questions using data a...
 
 
 url: 
